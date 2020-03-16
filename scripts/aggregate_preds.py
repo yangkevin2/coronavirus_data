@@ -36,5 +36,5 @@ if __name__ == '__main__':
                         help='Path where sorted data will be saved as .csv')
     args = parser.parse_args()
 
-    agg_preds(**vars(args))
+    aggregate_preds(**vars(args))
 
