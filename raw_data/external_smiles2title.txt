@@ -1,0 +1,862 @@
+smiles	title
+CC(C)NC[C@H](O)C1=C(Cl)C=CC=C1	(R)-Clorprenaline
+CN(CC#C)CC1=CC=CC=C1	Pargyline
+CCCCCNCC(N)=O	Milacemide
+OCCCNC1=CC=CC=C1	3-Anilino-1-propanol
+CC1=CC(OC[C@H]2CNC(=O)O2)=CC(C)=C1	(5R)-5-[(3,5-Dimethylphenoxy)methyl]-1,3-oxazolidin-2-one
+CCOC1=C(C=CC=C1)C(O)=O	2-Ethoxybenzoic acid
+OC1=C(Cl)C=C(Cl)C2=CC=CN=C12	Chloroxine
+CN1C2=C(N(CC(O)=O)C=N2)C(=O)N(C)C1=O	Acefylline
+CN1C2=C(N(CCO)C=N2)C(=O)N(C)C1=O	Etofylline
+CN1C=NC2=C1C(=O)N(C)C(=O)N2C	Caffeine
+NC(=O)C1=CC2=C(NC=C2)C=C1	1H-Indole-5-carboxamide
+O=S(=O)(N1CCCNCC1)C1=CC=CC2=CN=CC=C12	Fasudil
+COC1=C(OC)C=C2C(N)=NC(=NC2=C1)N1CCN(CC1)C(=O)[C@@H]1CCCO1	[4-(4-Amino-6,7-dimethoxy-2-quinazolinyl)-1-piperazinyl]-[(2S)-2-oxolanyl]methanone
+OC(=O)COCCN1CCN(CC1)[C@@H](C1=CC=CC=C1)C1=CC=C(Cl)C=C1	(S)-Cetirizine
+CC1=CC=C2C(Cl)=CC(Cl)=C(O)C2=N1	Chlorquinaldol
+COC1=CC2=C(NC=C2CCNC(C)=O)C=C1	Melatonin
+CC1OC2=C(CC1N(C)C)C=CC=C2	Trebenzomine
+NC(=O)C1=CC(N)=CC=C1	3-Aminobenzamide
+NCCC1=NC=CC=C1	2-(2-Aminoethyl)pyridine
+N#CC1=NC=CC=N1	2-Cyanopyrimidine
+COC1=CC2=C(C=C1)N=C(N2)SCC1=NC=C(C)C(OC)=C1C	Ufiprazole
+CCOC1=C(OC[C@H]2CNCCO2)C=CC=C1	(R)-Viloxazine
+CC1=CC(O)=CC(C)=C1Cl	Chloroxylenol
+C1CNCCN1	Piperazine
+N[C@@H](CC1=CNC2=C1C=CC=C2)C(O)=O	Tryptophan
+OC(=O)[C@@H]1CCCN1	L-Proline
+CC1=C(O)C=C(C=C1)[N+]([O-])=O	2-Methyl-5-nitrophenol
+NC1=NC=CS1	2-Aminothiazole
+NCCCCN	Putrescine
+OCC1=C(O)C=CC=C1	Salicyl alcohol
+CC(C)C1=CC=CC(C(C)C)=C1O	Propofol
+OCCOCCOC(=O)C1=C(NC2=CC=CC(=C2)C(F)(F)F)C=CC=C1	Etofenamate
+S1C2=C(C=CC=C2)C2=C1C=CC=C2	Dibenzothiophene
+N1C2=C(SC3=C1C=CC=C3)C=CC=C2	Phenothiazine
+CCC(=O)C1=CC=C(O)C=C1	Paroxypropione
+N[C@@H](CCC(O)=O)C(O)=O	Glutamic acid
+CC(C)C[C@H](N)C(O)=O	Leucine
+CSCC[C@H](N)C(O)=O	Methionine
+CC(=O)OCC(COC(C)=O)OC(C)=O	Triacetin
+NCC1(CC(O)=O)CCCCC1	Gabapentin
+COC1=CC(=CC(OC)=C1OC)[C@H]1[C@@H]2[C@H](COC2=O)[C@@H](O)C2=C1C=C1OCOC1=C2	Podofilox
+OC[C@H]1O[C@H](O)[C@H](O)[C@@H](O)[C@@H]1O	alpha-D-Glucose
+[O-][N+](=O)C1=C2NN=CC2=CC=C1	7-Nitroindazole
+CC(C)(O)C(Cl)(Cl)Cl	Chlorobutanol
+CC1=C(CCCl)SC=N1	Clomethiazole
+CCC(C)(C)C(O)=O	2,2-Dimethylbutyric acid
+CNCC(O)=O	Sarcosine
+OCCN(CCO)C1=NC(N2CCCCC2)=C2N=C(N=C(N3CCCCC3)C2=N1)N(CCO)CCO	Dipyridamole
+OC(=O)[C@@H]1CCC(=O)N1	L-Pyroglutamic acid
+OC(=O)CCCCCCCCC(O)=O	Sebacic acid
+CCCCCCC1=C(O)C=C(O)C=C1	Hexylresorcinol
+C[C@@H](O)[C@H](N)C(O)=O	L-Threonine
+OC1=CC=C(Cl)C=C1	4-Chlorophenol
+COC1=CC=C(O)C=C1	4-Methoxyphenol
+O[C@H]([C@@H](O)C(O)=O)C(O)=O	L(+)-Tartaric acid
+CCCCCCCCO	1-Octanol
+COC1=C(O)C=CC=C1	Guaiacol
+C=CC(=O)NC1=CC=CC=C1	N-Phenylacrylamide
+CC(=O)N[C@@H](CC1=CC=C(O)C=C1)C(O)=O	N-Acetyl-L-tyrosine
+COC1=CC=CC(NC(=O)C=C)=C1	N-(3-Methoxyphenyl)prop-2-enamide
+OC(=O)C1=C(S)C=CC=C1	Thiosalicylic acid
+N[C@@H](CS)C(O)=O	Cysteine
+N[C@@H](CC(N)=O)C(O)=O	Asparagine
+N[C@H](CC1=CNC=N1)C(O)=O	D-Histidine
+O=C1NCCN[C@H]1C1=CC=CS1	(R)-3-Thiophen-2-YL-piperazin-2-one
+CCC(C)C(N)C(O)=O	DL-Isoleucine
+COC1=CC=C(NC(=O)C=C)C=C1	N-(4-Methoxyphenyl)acrylamide
+NC1=NC(=C(Br)C(=O)N1)C1=CC=CC=C1	Bropirimine
+N[C@H](CO)C(O)=O	D-Serine
+C[C@@H](CC1=CC=CC=C1)N(C)CC#C	(+)-Selegiline
+[Cl-].CC(C)(C)CC(C)(C)C1=CC=C(OCCOCC[N+](C)(C)CC2=CC=CC=C2)C=C1	Benzethonium chloride
+NC(CO)(CO)CO	2-Amino-2-hydroxymethyl-propane-1,3-diol
+CC(C)C1=CC(Cl)=C(C)C=C1O	Chlorothymol
+NCCS(O)(=O)=O	Taurine
+O=C1NC2=C(N1)C(=O)NC(=O)N2	Uric acid
+FC(F)(F)C1=CC(=CC=C1)[C@@H]1CNCCO1	(R)-2-(3-(Trifluoromethyl)phenyl)morpholine
+CC1CCN(CCCC(=O)C2=CC=C(F)C=C2)CC1	Melperone
+C1CN=C(N1)C1=NC2=CC=CC=C2N=C1	2-(4,5-Dihydro-1H-imidazol-2-yl)quinoxaline
+CC1=CC=C(C=C1)S(=O)(=O)C1=CC=C(O1)[N+]([O-])=O	2-[(4-Methylphenyl)sulfonyl]-5-nitrofuran
+ClC1=CC=C(C=C1)C(=O)N(CC1=CC=CC=C1)C1CCCCC1	Fps-ZM1
+NC[C@H](CC(O)=O)C1=CC=CC=C1	(R)-4-Amino-3-phenylbutanoic acid
+CC(C)C[C@H](NC(C)=O)C(O)=O	N-Acetyl-L-leucine
+OC(=O)C1=CC2=C(N1)C=CO2	4H-Furo[3,2-b]pyrrole-5-carboxylic acid
+CCCC(CCC)C(=O)NCC(N)=O	Valrocemide
+CC(C)[C@H]1CC[C@@H](CC1)C(=O)N[C@@H](CC1=CC=CC=C1)C(O)=O	
+CC(C)[C@H]1CC[C@@H](CC1)C(=O)N[C@H](CC1=CC=CC=C1)C(O)=O	
+CC(=O)OC1=C(C=CC=C1)C(=O)NC1=NC=C(S1)[N+]([O-])=O	Nitazoxanide
+[O-][N+](=O)C1=C(C=CC(=C1)C(F)(F)F)C(=O)C1C(=O)CCCC1=O	Nitisinone
+CCN(CC)C(=S)SSC(=S)N(CC)CC	Disulfiram
+CC1=C(CCN2CCC(CC2)C2=NOC3=C2C=CC(F)=C3)C(=O)N2CCCCC2=N1	Risperidone
+CC(C)(C#N)C1=CC(=CC(CN2C=NC=N2)=C1)C(C)(C)C#N	Anastrozole
+COC1=CC(CC2=C(N)N=C(N)N=C2)=CC(OC)=C1OC	Trimethoprim
+CCCC1=NN(C)C2=C1N=C(NC2=O)C1=C(OCC)C=CC(=C1)S(=O)(=O)N1CCN(C)CC1	Sildenafil
+COC1=CN=C(NS(=O)(=O)C2=CC=C(N)C=C2)N=C1	Sulfameter
+CC1=C(C=C(C#N)C(=O)N1)C1=CC=NC=C1	Milrinone
+NC[C@H](CC(O)=O)C1=CC=C(Cl)C=C1	Arbaclofen
+Cl.CN1CCC[C@@H]1CCOC(C)(C1=CC=CC=C1)C1=CC=C(Cl)C=C1	
+CC(C)CC1=CC=C(C=C1)[C@@H](C)C(=O)NCCO	(2R)-N-(2-Hydroxyethyl)-2-[4-(2-methylpropyl)phenyl]propanamide
+C[C@@H](C(=O)NC1=NC=CC(C)=C1)C1=CC=CC(=C1)C(=O)C1=CC=CC=C1	Piketoprofen, (-)-
+ClC1=C(Cl)C(=CC=C1)N1CCN(CCCCOC2=CC3=C(CCC(=O)N3)C=C2)CC1	Aripiprazole
+ONC(=O)CCCCCCC(=O)NC1=CC=CC=C1	Vorinostat
+COC1=C(OC2=C(OCCO)N=C(N=C2NS(=O)(=O)C2=CC=C(C=C2)C(C)(C)C)C2=NC=CC=N2)C=CC=C1	Bosentan
+NC(=O)C1=CN(CC2=C(F)C=CC=C2F)N=N1	Rufinamide
+NC(=O)OCC(COC(N)=O)C1=CC=CC=C1	Felbamate
+N[C@@H](CC(=O)N1CCN2C(C1)=NN=C2C(F)(F)F)CC1=CC(F)=C(F)C=C1F	Sitagliptin
+NC1=CC(=NC(N)=[N+]1[O-])N1CCCCC1	
+CN(C1=CC2=NN(C)C(C)=C2C=C1)C1=CC=NC(NC2=CC(=C(C)C=C2)S(N)(=O)=O)=N1	Pazopanib
+C[C@H](N)C(=O)N[C@@H](CCC(N)=O)C(O)=O	l-Alanyl-l-glutamine
+NC1=NN=C(C(N)=N1)C1=CC=CC(Cl)=C1Cl	Lamotrigine
+CC(C)COC1=C(C=C(C=C1)C1=NC(C)=C(S1)C(O)=O)C#N	Febuxostat
+CCCCNC1=CC(=CC(=C1OC1=CC=CC=C1)S(N)(=O)=O)C(O)=O	Bumetanide
+O[C@@H](CC[C@@H]1[C@H](N(C1=O)C1=CC=C(F)C=C1)C1=CC=C(O)C=C1)C1=CC=C(F)C=C1	Ezetimibe
+CN1[C@@H](CCl)NC2=CC(Cl)=C(C=C2S1(=O)=O)S(N)(=O)=O	(3S)-6-Chloro-3-(chloromethyl)-2-methyl-1,1-dioxo-3,4-dihydro-1lambda6,2,4-benzothiadiazine-7-sulfonamide
+CO[C@H]1O[C@@H]2O[C@@]3(C)CC[C@H]4[C@H](C)CC[C@@H]([C@H]1C)[C@@]24OO3	Artemether
+CN1CCN(CC2=CC=C(C=C2)C(=O)NC2=CC(NC3=NC(=CC=N3)C3=CN=CC=C3)=C(C)C=C2)CC1	Imatinib
+COC1=C(CC2=CN(C)C3=C2C=C(NC(=O)OC2CCCC2)C=C3)C=CC(=C1)C(=O)NS(=O)(=O)C1=C(C)C=CC=C1	Zafirlukast
+CCOC(=O)C1=C2CN(C)C(=O)C3=C(C=CC(F)=C3)N2C=N1	Flumazenil
+NC(=O)N[C@@H](CCC(O)=O)C(O)=O	Carglumic acid
+CC1=CC2=CC3=C(OC(=O)C=C3C)C(C)=C2O1	Trioxsalen
+COC1=C(OCCCN2CCOCC2)C=C2C(NC3=CC(Cl)=C(F)C=C3)=NC=NC2=C1	Gefitinib
+CN1N=NC2=C(N=CN2C1=O)C(N)=O	Temozolomide
+CN1C(=O)C(O)=C(N=C1C(C)(C)NC(=O)C1=NN=C(C)O1)C(=O)NCC1=CC=C(F)C=C1	Raltegravir
+CCN1C=C(C(O)=O)C(=O)C2=CC(F)=C(N=C12)N1CCNCC1	Enoxacin
+[Cl-].C[N+](C)(C)CCOC(N)=O	Carbachol
+CC(C)(SC1=CC(=C(O)C(=C1)C(C)(C)C)C(C)(C)C)SC1=CC(=C(O)C(=C1)C(C)(C)C)C(C)(C)C	Probucol
+FC(F)O[C@@H](Cl)C(F)(F)F	(S)-(+)-Isoflurane
+CC(C)CN(C[C@@H](O)[C@H](CC1=CC=CC=C1)NC(=O)O[C@H]1CCOC1)S(=O)(=O)C1=CC=C(N)C=C1	Amprenavir
+NC1=C2N=CN([C@@H]3O[C@H](CO)[C@@H](O)[C@@H]3F)C2=NC(Cl)=N1	Clofarabine
+Cl.CN(C)CCC=C1C2=C(COC3=C1C=CC=C3)C=CC=C2	Doxepin HCl
+CC(=O)C1=CC=C(C=C1)S(=O)(=O)NC(=O)NC1CCCCC1	Acetohexamide
+FC1=C(F)C=C(CN2CCC(CC2)NC2=NN=C(C=C2)C(F)(F)F)C=C1	3-Pyridazinamine, N-(1-((3,4-difluorophenyl)methyl)-4-piperidinyl)-6-(trifluoromethyl)-
+O=C(C1CCCCC1)N1C[C@@H]2N(CCC3=C2C=CC=C3)C(=O)C1	(R)-(-)-Praziquantel
+CC[C@H]1OC(=O)[C@H](C)[C@@H](O[C@H]2C[C@@](C)(OC)[C@@H](O)[C@H](C)O2)[C@H](C)[C@@H](O[C@@H]2O[C@H](C)C[C@@H]([C@H]2O)N(C)C)[C@](C)(O)C[C@@H](C)CN(C)[C@H](C)[C@@H](O)[C@]1(C)O	Azithromycin
+C[C@@H](C(O)=O)C1=CC(OC2=CC=CC=C2)=CC=C1	(R)-Fenoprofen
+CC1(C)[C@@H](N2[C@@H](CC2=O)S1(=O)=O)C(O)=O	Sulbactam
+C[C@H](N[C@@H](CCC1=CC=CC=C1)C(O)=O)C(=O)N1CCC[C@H]1C(O)=O	Enalaprilat
+CCC(C)N1N=CN(C1=O)C1=CC=C(C=C1)N1CCN(CC1)C1=CC=C(OC[C@H]2CO[C@@](CN3C=NC=N3)(O2)C2=C(Cl)C=C(Cl)C=C2)C=C1	Sporanox
+O=C1C(CC[S@](=O)C2=CC=CC=C2)C(=O)N(N1C1=CC=CC=C1)C1=CC=CC=C1	1,2-Diphenyl-4-[2-[(S)-phenylsulfinyl]ethyl]pyrazolidine-3,5-dione
+Cl.Cl.CN1CCN(CCCN2C3=C(SC4=C2C=C(C=C4)C(F)(F)F)C=CC=C3)CC1	Trifluoperazine dihydrochloride
+OCCC1=CC=C(OCCN2C=CN=C2)C=C1	2-{4-[2-(1H-Imidazol-1-yl)ethoxy]phenyl}ethan-1-ol
+OC[C@H]1O[C@@](CO)(O[C@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2O)[C@@H](O)[C@@H]1O	Sucrose
+CC(N)(CC1=CC=C(O)C=C1)C(O)=O	Racemetirosine
+CC(=O)C1=CC(=C(SC2=C(F)C=C(F)C=C2)S1)[N+]([O-])=O	1-[5-(2,4-Difluoro-phenylsulfanyl)-4-nitro-thiophen-2-yl]-ethanone
+CN1C2=C(N(CC3=NOC(C)=N3)C=N2)C(=O)N(C)C1=O	7-((5-Methyl-1,2,4-oxadiazol-3-yl)methyl)theophylline
+C=CC(=O)N1CCCCC1	1-(Piperidin-1-yl)prop-2-en-1-one
+CC1=CC(OC[C@@H](O)CNC(C)(C)C)=C(Cl)C=C1	Bupranolol, (S)-
+OC(=O)C1=C(NCCC2=CC=CC=C2)C=CC=C1	Enfenamic acid
+NC1=NC2=C(S1)C=C(OC(F)(F)F)C=C2	Riluzole
+COC1=CC(OC)=C(Cl)C=C1NC(=O)NC1=NOC(C)=C1	1-(5-Chloro-2,4-dimethoxyphenyl)-3-(5-methylisoxazol-3-yl)urea
+CN(C)CCOC(=O)COC1=CC=C(Cl)C=C1	Meclofenoxate
+CC(C)NC[C@H](O)COC1=C(Cl)C=CC(C)=C1	(2S)-1-(2-Chloro-5-methylphenoxy)-3-(isopropylamino)propane-2-ol
+ClCCC(=O)NCCC1=CC=CC=C1	Fenaclon
+COC1=C(OCCCN2CCC(CC2)C2=NOC3=C2C=CC(F)=C3)C=CC(=C1)C(C)=O	Iloperidone
+N#CC1=CC=C(C=C1)[C@@H]1CCCC2=CN=CN12	4-[(5S)-5,6,7,8-Tetrahydroimidazo[1,5-a]pyridin-5-yl]benzonitrile
+CCCC(=O)OCOC(=O)C1=C(C)NC(C)=C([C@@H]1C1=CC=CC(Cl)=C1Cl)C(=O)OC	Clevidipine, (S)-
+NS(=O)(=O)C1=C(Cl)C=C2N=CNS(=O)(=O)C2=C1	Chlorothiazide
+NC1=NC2=C(C(CCC3=CC=C(C=C3)C(=O)N[C@H](CCC(O)=O)C(O)=O)=CN2)C(=O)N1	Pemetrexed acid
+FC(F)OC(F)(F)[C@@H](F)Cl	(S)-Enflurane
+COC(F)(F)C(Cl)Cl	Methoxyflurane
+NS(=O)(=O)C1=C(Cl)C=C2N=C(CSCC3=CC=CC=C3)NS(=O)(=O)C2=C1	Benzthiazide
+C[C@@H](C(O)=O)C1=CC=CC(=C1)C(=O)C1=CC=CC=C1	(R)-Ketoprofen
+CC(C)CC1=CC=C(C=C1)[C@@H](C)C(O)=O	(R)-(-)-Ibuprofen
+CC1=CC=NC2=C1NC(=O)C1=C(N=CC=C1)N2C1CC1	Nevirapine
+CC1=CN([C@@H]2O[C@H](CO)C=C2)C(=O)NC1=O	Stavudine
+CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O	l-Menthol
+CN[C@@H](C)CC1=C(OC)C=CC=C1	Benzeneethanamine, 2-methoxy-N,alpha-dimethyl-, (alphaS)-
+Br.CCSC(N)=N	S-Ethylisothiourea hydrobromide
+O=C1C2=C(OC3=C1C=CC=C3)C=CC=C2	Xanthone
+OC(=O)CC1=CC=C(CCNS(=O)(=O)C2=CC=C(Cl)C=C2)C=C1	Daltroban
+OB1OCC2=C1C=CC(F)=C2	Tavaborole
+NC1=NC(=O)N(C=C1F)[C@@H]1CS[C@H](CO)O1	Emtricitabine
+CC(=O)N[C@@H](CS)C(O)=O	Acetylcysteine
+COC1=C(OC)C=C(CCN)C=C1	3,4-Dimethoxyphenethylamine
+CC(C)[C@@H](N)C(O)=O	D-Valine
+N#CC1=CC=C(C=C1)C(N1C=NC=N1)C1=CC=C(C=C1)C#N	Letrozole
+NC1(CC1)C(O)=O	1-Aminocyclopropanecarboxylic acid
+NC1=C(N)C=NC=C1	3,4-Diaminopyridine
+NCCCC[C@H](N)C(O)=O	Lysine
+NC(=N)NC(=O)C1=C(N)N=C(N)C(Cl)=N1	Amiloride
+CN1C2=C(C3=C1C=CC=C3)C(=O)[C@@H](CN1C=CN=C1C)CC2	Ondansetron, (3R)-
+CCCCCOC(=O)NC1=NC(=O)N(C=C1F)[C@@H]1O[C@H](C)[C@@H](O)[C@H]1O	Capecitabine
+CC1(C)S[C@@H]2[C@H](N)C(=O)N2[C@H]1C(O)=O	6-Aminopenicillanic acid
+N#CC1=NC=NC=C1	Pyrimidine-4-carbonitrile
+CCC1=C(O)C=CC(C)=N1	2-Ethyl-3-hydroxy-6-methylpyridine
+C[C@H](CN1C=NC2=C(N)N=CN=C12)OCP(O)(O)=O	Tenofovir
+NCC1=CC=CN=C1	3-(Aminomethyl)pyridine
+C#CCN[C@@H]1CCC2=C1C=CC=C2	Rasagiline
+OC[C@H]1O[C@H]([C@H](O)[C@@H]1O)N1C=CC(=O)NC1=O	Uridine
+CC1=NC(C)=C(C)N=C1C	Tetramethylpyrazine
+NC1=CC=CC2=C1CN([C@H]1CCC(=O)NC1=O)C2=O	S-Lenalidomide
+CCOC(=O)C1=CN=CN1[C@H](C)C1=CC=CC=C1	Amidate
+COC1=CC2=CC=CN=C2C(N[C@@H](C)CCCN)=C1	(4s)-N~4~-(6-Methoxyquinolin-8-Yl)pentane-1,4-Diamine
+COC1=CC2=C(C=CN=C2C=C1)[C@H](O)[C@H]1C[C@@H]2CCN1C[C@@H]2C=C	Quinidine
+CC(=O)C(O)=O	Pyruvic acid
+Cl.CNCC[C@H](OC1=CC=CC2=CC=CC=C12)C1=CC=CS1	Duloxetine hydrochloride
+COC1=CC2=C(C=C1OC)C(=O)[C@@H](CC1CCN(CC3=CC=CC=C3)CC1)C2	(S)-Donepezil
+COC1=CC=C2C=C(C=CC2=C1)[C@H](C)C(O)=O	Naproxen
+CC[C@H](N1CCCC1=O)C(N)=O	Levetiracetam
+CC(=O)OCC1=C(N2[C@H](SC1)[C@H](NC(=O)CC1=CC=CS1)C2=O)C(O)=O	Cephalothin
+CC(=O)[C@@H]1C(=O)OC(C)=CC1=O	(3S)-3-Acetyl-6-methylpyran-2,4-dione
+OC(=O)C1=NN(CC2=C(Cl)C=C(Cl)C=C2)C2=C1C=CC=C2	Lonidamine
+CC(C)CC1=CC=C(C=C1)[C@H](C)C(O)=O	Dexibuprofen
+CC1=C(CCl)OC(=O)O1	4-(Chloromethyl)-5-methyl-1,3-dioxol-2-one
+NC(=N)C1=CC=C(OCCCCCOC2=CC=C(C=C2)C(N)=N)C=C1	Pentamidine
+NC1=C2N=CN([C@@H]3O[C@H](CO)[C@@H](O)[C@H]3O)C2=NC=N1	Adenosine
+CN(CCOC1=CC=C(C[C@@H]2SC(=O)NC2=O)C=C1)C1=NC=CC=C1	2,4-Thiazolidiinedione, 5-[[4-[2-(methyl-2-pyridinylamino)ethoxy]phenyl]methyl]-(9CL)
+CC1(C)[C@@H]2CC[C@@]1(C)C(=O)C2	D-Camphor
+OCC1=CN=CC=C1	3-Pyridinemethanol
+CCOC(=O)N1CCC(CC1)=C1C2=C(CCC3=C1N=CC=C3)C=C(Cl)C=C2	Loratadine
+NC1=NC(=O)N(C=C1)[C@@H]1CS[C@H](CO)O1	Lamivudine
+CC(=O)NC[C@H]1CN(C(=O)O1)C1=CC(F)=C(C=C1)N1CCOCC1	Linezolid
+CN(CC(O)=O)C(N)=N	Creatine
+CCOC(=O)C1=C(O)C(=O)N(CC2=CC=CC=C2)C1	1-Benzyl-4-hydroxy-5-oxo-2,5-dihydro-1H-pyrrole-3-carboxylic acid ethyl ester
+NC1=NC(=O)N(C=C1)[C@@H]1O[C@H](CO)[C@@H](O)C1(F)F	Gemcitabine
+OC[C@@H](O)[C@@H](O)[C@H](O)[C@@H](O)C=O	D(+)-Glucose
+CC(C)(C)C1=CC(O)=C(C=C1O)C(C)(C)C	2,5-Di-tert-butylhydroquinone
+CN1CCN(CC1)C1=NC2=C(NC3=C1C=CC=C3)C=CC(Cl)=C2	Clozapine
+N[C@H](CCCNC(N)=N)C(O)=O	D-Arginine
+CC(C)C[C@H](NC(=O)OCC1C2=C(C=CC=C2)C2=C1C=CC=C2)C(O)=O	Fmoc-L-leucine
+CCC(C)(C)C(=O)O[C@H]1C[C@@H](C)C=C2C=C[C@H](C)[C@H](CC[C@@H]3C[C@@H](O)CC(=O)O3)[C@@H]12	Simvastatin
+C[C@@H](O)[C@@H]1[C@H]2[C@@H](C)C(S[C@@H]3CN[C@@H](C3)C(=O)N(C)C)=C(N2C1=O)C(O)=O	Meropenem
+CC1=C(CCN2CCC(CC2)C2=NOC3=C2C=CC(F)=C3)C(=O)N2CCC[C@H](O)C2=N1	(S)-Paliperidone
+CC1(C)S[C@@H]2[C@H](NC(=O)[C@H](N)C3=CC=C(O)C=C3)C(=O)N2[C@H]1C(O)=O	Amoxicillin
+C[C@H]1COC2=C3N1C=C(C(O)=O)C(=O)C3=CC(F)=C2N1CCN(C)CC1	Levofloxacin
+COC1=CC=C(C=C1)N1C(SCC2=NC(=NO2)C2=CC=C(C)C=C2)=NN=C1C1=CC=NC=C1	5-[[4-(4-Methoxyphenyl)-5-pyridin-4-yl-1,2,4-triazol-3-yl]sulfanylmethyl]-3-(4-methylphenyl)-1,2,4-oxadiazole
+O=C1NCC2(CCN(CCC3=CC=CC=C3)CC2)O1	Fenspiride
+CCOC1=C(C=CC(CC(=O)N[C@@H](CC(C)C)C2=C(C=CC=C2)N2CCCCC2)=C1)C(O)=O	Repaglinide
+C[C@@H](C(O)=O)C1=CC2=C(C=C1)C1=C(N2)C=CC(Cl)=C1	(R)-Carprofen
+OC1=CC=C(C=C1)[C@@H]1CNCCC2=C1C=C(O)C(O)=C2Cl	(5S)-9-Chloro-5-(4-hydroxyphenyl)-2,3,4,5-tetrahydro-1H-3-benzazepine-7,8-diol
+ClC1=CC=C(NC(=O)C=C)C=C1	N-(4-Chlorophenyl)acrylamide
+CN1CCN(CC1)C1=NC2=C(NC3=C1C=C(C)S3)C=CC=C2	Olanzapine
+C[C@H]1C[C@H]2[C@@H]3CCC4=CC(=O)C=C[C@]4(C)[C@H]3C(=O)C[C@]2(C)[C@@]1(O)C(=O)CO	Meprednisone
+OC(=O)CCNC1=NC(=NC(=C1)N1CCC2=C(CC1)C=CC=C2)C1=NC=CC=C1	3-[[2-Pyridin-2-Yl-6-(1,2,4,5-Tetrahydro-3-Benzazepin-3-Yl)pyrimidin-4-Yl]amino]propanoic Acid
+CCOC(=O)CCNC1=NC(=NC(=C1)N1CCC2=C(CC1)C=CC=C2)C1=NC=CC=C1	Ethyl 3-((6-(4,5-dihydro-1H-benzo[d]azepin-3(2H)-yl)-2-(pyridin-2-yl)pyrimidin-4-yl)amino)propanoate
+CC1=CC(NC2=CC=C(NC(=O)C3=CC=C(NC4=CC=NC5=CC=CC=C45)C=C3)C=C2)=NC(N)=N1	N-(4-((2-Amino-6-methylpyrimidin-4-yl)amino)phenyl)-4-(quinolin-4-ylamino)benzamide
+NC1=C2C(=NC=N1)N(N=C2C1=CC=C(OC2=CC=CC=C2)C=C1)[C@@H]1CCCN(C1)C(=O)C=C	Ibrutinib
+CN[C@@H]1[C@H](O)[C@H](NC)[C@H]2O[C@]3(O)[C@@H](O[C@H](C)CC3=O)O[C@@H]2[C@H]1O	Spectinomycin
+CC1=CN=C(C=N1)C(=O)NCCC1=CC=C(C=C1)S(=O)(=O)NC(=O)NC1CCCCC1	Glipizide
+CC1=CC=C(C=C1)S(=O)(=O)NC(=O)NN1CCCCCC1	Tolazamide
+NS(=O)(=O)C1=CC2=C(NCNS2(=O)=O)C=C1C(F)(F)F	Hydroflumethiazide
+CCC(=C)C(=O)C1=CC=C(OCC(O)=O)C(Cl)=C1Cl	Ethacrynic acid
+C[C@H]1CN(C[C@@H](C)N1)C1=C(F)C2=C(C(N)=C1F)C(=O)C(=CN2C1CC1)C(O)=O	Sparfloxacin
+N[C@@H](C(O)=O)C1=NN=NN1	(R)-2-(1H-Tetrazol-5-yl)-2-aminoethanoic acid
+C[C@H](O)CO	S-1,2-Propanediol
+CC(C)C1=CC=C(NC(=O)CN2C=NC3=C2C(=O)N(C)C(=O)N3C)C=C1	2-(1,3-Dimethyl-2,6-dioxo-1,2,3,6-tetrahydro-7H-purin-7-yl)-N-(4-isopropylphenyl)acetamide
+FCOC(C(F)(F)F)C(F)(F)F	Sevoflurane
+CCCN1C2=C(NC=N2)C(=O)NC1=O	Enprofylline
+C[C@H](CCC(O)=O)[C@H]1CC[C@H]2[C@@H]3CC[C@@H]4C[C@H](O)CC[C@]4(C)[C@H]3C[C@H](O)[C@]12C	Deoxycholic acid
+OCCN1CCN(CCCN2C3=C(SC4=C2C=C(Cl)C=C4)C=CC=C3)CC1	Perphenazine
+COC1=CC(O)=C(C=C1)C(=O)C1=CC=CC=C1	Oxybenzone
+COC1=CC=C(C=C1)N1N=C(C(N)=O)C2=C1C(=O)N(CC2)C1=CC=C(C=C1)N1CCCCC1=O	Apixaban
+NC(=N)NC1=CC=C(Cl)C=C1	1-(4-Chlorophenyl)guanidine
+OC(=O)C1=C(O)C=CC=C1	Salicylic acid
+OC1=C(I)C=C(I)C=C1I	2,4,6-Triiodophenol
+CCN(CC)CCNC(=O)C1=CC=C(N)C=C1	Procainamide
+[Cl-].C[N+](C)(C)CCO	Choline chloride
+NCCC1=CNC=N1	Histamine
+CCC(C)(C)O	2-Methyl-2-butanol
+OC1=CC(O)=CC(O)=C1	Phloroglucinol
+CCCCC[C@H](C)N	(S)-(+)-2-Aminoheptane
+CC1=CC=NC(NS(=O)(=O)C2=CC=C(N)C=C2)=N1	Sulfamerazine
+OC1=CC=C(Cl)C2=CC=CN=C12	5-Chloro-8-hydroxyquinoline
+ClN1C(=O)N(Cl)C(=O)N(Cl)C1=O	Trichloroisocyanuric acid
+COC(=O)C1=CC=C(O)C=C1	Methylparaben
+COC(=O)C1=C(O)C=CC=C1	Methyl salicylate
+CCN(CC)CC1=CC=C2C=C(COC(=O)NC3=CC=C(C=C3)C(=O)NO)C=CC2=C1	Givinostat
+C[C@H](O)CN1C(C)=NC=C1[N+]([O-])=O	Secnidazole, (S)-
+OC1=CC=C(OCC2=CC=CC=C2)C=C1	Monobenzone
+OCCOC(=O)NCC1=CC=CC=C1	Buramate
+NC1=NC2=C(N=CN2CCC(CO)CO)C(=O)N1	Penciclovir
+CC1=NN=C2C=CC(=NN12)C1=CC=CC(=C1)C(F)(F)F	3-Methyl-6-[3-(trifluoromethyl)phenyl]-[1,2,4]triazolo[4,3-b]pyridazine
+CC(=O)C1=CC2=C(O1)C(=O)C1=C(C=CC=C1)C2=O	Napabucasin
+OC(=O)[C@@H]1CSC(=O)N1	Procysteine
+CCC(=O)NCC[C@@H]1CCC2=CC=C3OCCC3=C12	Ramelteon
+OC(CCCN1CCCCC1)(C1=CC=CC=C1)C1=CC=CC=C1	Diphenidol
+C(N1C2=C(C=CC=C2)N=C1N1CCNCC1)C1=CC=CC=C1	Lerisetron
+CCN1N=C(C(O)=O)C(=O)C2=C1C=C1OCOC1=C2	Cinoxacin
+OC[C@@H](NC(=O)C(Cl)Cl)[C@H](O)C1=CC=C(C=C1)[N+]([O-])=O	Chloramphenicol
+CC(=O)C1=CC2=C(SC3=C(C=CC=C3)N2CCCN2CCC(CCO)CC2)C=C1	Piperacetazine
+CC(C)N(CC[C@H](C1=CC=CC=C1)C1=C(O)C=CC(C)=C1)C(C)C	Tolterodine
+OC1=CC=C(C=C1)[C@@H]1CC(=O)C2=C(O1)C=C(O)C=C2O	Naringetol
+N[C@@H](CC1=NC=CC=C1)C1=CC=CC=C1	Lanicemine
+CCC(C)(O)C#C	3-Methyl-1-pentyn-3-ol
+CC(O)(CS(=O)(=O)C1=CC=C(F)C=C1)C(=O)NC1=CC(=C(C=C1)C#N)C(F)(F)F	Bicalutamide
+CN(C)CC[C@@H](C1=CC=C(Cl)C=C1)C1=NC=CC=C1	Dexchlorpheniramine
+CC(=O)N[C@@H](CSSC[C@H](NC(C)=O)C(O)=O)C(O)=O	N,N'-Diacetylcystine
+OC(=O)CCC1=NC(=C(O1)C1=CC=CC=C1)C1=CC=CC=C1	Oxaprozin
+N[C@@H](CCC(=O)N[C@@H](CS)C(=O)NCC(O)=O)C(O)=O	Glutathione
+FC(F)(F)[C@]1(OC(=O)NC2=C1C=C(Cl)C=C2)C#CC1CC1	Efavirenz
+CC[C@@H](C1=CC=CC=C1)C1=C(O)C2=C(OC1=O)C=CC=C2	(S)-Phenprocoumon
+CCN(CC)CCNC(=O)C1=CC(Cl)=C(N)C=C1OC	Metoclopramide
+C(N1CCCNCCNCCCNCC1)C1=CC=C(CN2CCCNCCNCCCNCC2)C=C1	Plerixafor
+OC(=O)C1=C2C=CC=CC2=CC2=CC=CC=C12	9-Anthracenecarboxylic acid
+OC(=O)CCC1=CNC2=C1C=CC=C2	3-Indolepropionic acid
+CC1=CC=C(C=C1)C1=CC(=NN1C1=CC=C(C=C1)S(N)(=O)=O)C(F)(F)F	Celecoxib
+CCCC1=NC2=C(C=C(C=C2C)C2=NC3=C(C=CC=C3)N2C)N1CC1=CC=C(C=C1)C1=C(C=CC=C1)C(O)=O	Telmisartan
+CC(C)C[C@H](NC(=O)[C@H](CC1=CC=CC=C1)NC(=O)C1=NC=CN=C1)B(O)O	Bortezomib
+NC(=O)C1=C(O)N=CN1	5-Hydroxy-1H-imidazole-4-carboxamide
+OC[C@H]1O[C@H](C[C@@H]1O)N1C=NC2=C1N=CNC[C@H]2O	Pentostatin
+O=C1N(C[C@H]2CCCC3=CC=CC1=C23)[C@@H]1CN2CCC1CC2	Palonosetron
+N[C@@H](CC1=CC(I)=C(OC2=CC(I)=C(O)C=C2)C(I)=C1)C(O)=O	Liothyronine
+OCCOCCN1CCN(CC1)C1=NC2=C(SC3=C1C=CC=C3)C=CC=C2	Quetiapine
+CCCCN(CCCC)CC[C@H](O)C1=C2C=CC(=CC2=C2C=C(Cl)C=C(Cl)C2=C1)C(F)(F)F	Halofantrina
+COC1=C(OC)C=C(C=C1)S(=O)(=O)N1CCCN(CC1)S(=O)(=O)C1=CC(OC)=C(OC)C=C1	1,4-Bis((3,4-dimethoxyphenyl)sulfonyl)-1,4-diazepane
+CCC1=C(N2C=C(Cl)C=CC2=N1)C(=O)NCC1=CC=C(C=C1)N1CCC(CC1)C1=CC=C(OC(F)(F)F)C=C1	6-Chloro-2-ethyl-N-[[4-[4-[4-(trifluoromethoxy)phenyl]piperidin-1-yl]phenyl]methyl]imidazo[1,2-a]pyridine-3-carboxamide
+N[C@@H](CCC(O)=O)C=C	(S)-4-Aminohex-5-enoic acid
+CCOC(=O)C1=C(COCCN)NC(C)=C([C@@H]1C1=C(Cl)C=CC=C1)C(=O)OC	Levamlodipine
+NC1=C2N=CN([C@@H]3O[C@H](COP(O)(O)=O)[C@@H](O)[C@@H]3O)C2=NC(F)=N1	Fludarabine phosphate
+CCCCCCCN(CC)CCC[C@H](O)C1=CC=C(NS(C)(=O)=O)C=C1	Methanesulfonamide, N-(4-((1S)-4-(ethylheptylamino)-1-hydroxybutyl)phenyl)-
+CCCCCN(C)CCC(O)(P(O)(O)=O)P(O)(O)=O	Ibandronic Acid
+NC1=NC(NC2CC2)=C2N=CN([C@@H]3C[C@H](CO)C=C3)C2=N1	Abacavir
+CN(C)CCO[C@@H](C1=CC=CC=C1)C1=C(C)C=CC=C1	[(S)-2-Methylbenzhydryl]2-(dimethylamino)ethyl ether
+[Cl-].CN(C)C(=O)OC1=C[N+](C)=CC=C1	Pyridostigmine chloride
+[Cl-].CC[N+](C)(CC)CCOC(=O)C(O)(C1CCCCC1)C1=CC=CC=C1	
+OC1=NC2=C(C=CC=C2)N1C1CCN(CCOC2=CC=CC=C2)CC1	Oxiperomide
+NC(=N)NC[C@H]1COC2(CCCCC2)O1	2-[[(3S)-1,4-Dioxaspiro[4.5]decan-3-yl]methyl]guanidine
+COC1=C(C=C(Cl)C=C1)C(=O)NCCC1=CC=C(C=C1)C(O)=O	Meglitinide
+FC1=CC=C(C=C1)C(=O)CCCN1CCC(=CC1)N1C(=O)NC2=C1C=CC=C2	Droperidol
+O=C1NC=NC2=C1C=NN2	Allopurinol
+C1CN(CCN1)C1=NC2=CC=CC=C2C=C1	Quipazine
+CN1CC[C@H]2NC3=C(C=C(C)C=C3)[C@H]2C1	(4Ar,9bS)-2,3,4,4a,5,9b-hexahydro-2,8-dimethyl-1H-Pyrido[4,3-b]indole
+CCC(C)C(CC)C(N)=O	Valnoctamide
+CC1=C(C=NO1)C(=O)NC1=CC=C(C=C1)C(F)(F)F	Leflunomide
+C[C@@H](C(O)=O)C1=CC2=C(C=C1)C1=C(C2)C=CC=C1	9H-Fluorene-2-acetic acid, alpha-methyl-, (alphaR)-
+CN1C=C(C=C1C(O)=O)C(=O)C1=CC=CC2=CC=CC=C12	Napirimus
+CSC1=C(OC[C@@H](O)CNC(C)C)C=CC=C1	(S)-1-(Isopropylamino)-3-[2-(methylthio)phenoxy]-2-propanol
+CC1=C(NC(N)=C1C#N)C1=C(F)C=CC=C1	2-Amino-5-(2-fluorophenyl)-4-methyl-1H-pyrrole-3-carbonitrile
+CS(=O)(=O)CS(=O)(=O)OCCCl	Clomesone
+CN1N=C(N(C)C1=S)C1=CC(F)=CC=C1	Suritozole
+NC(=O)CN1C=CCC(=C1)C(N)=O	Caricotamide
+CCOC(=O)C1=C(OC(N)=O)C=CC=C1	Ethyl 2-carbamoyloxybenzoate
+NC(N)=O	Urea
+ClC1=C(CN2CCC3=C(C2)C=CS3)C=CC=C1	Ticlopidine
+C[C@H](N)CC1=C(C)C=C(C=C1)N(C)C	Amiflamine
+CN1CCN2[C@@H](C1)C1=C(CC3=CC=CN=C23)C=CC=C1	(R)-Mirtazapine
+CCC(O)(CC(N)=O)C1=CC=CC=C1	3-Hydroxy-3-phenylpentanamide
+NC(=O)CN1CC2=C(OC1=O)C=CC=C2	Caroxazone
+CS(=O)(=O)OCOS(C)(=O)=O	Methylene dimethanesulfonate
+NC1=C(SN=C1C1=CC(=CC=C1)C(F)(F)F)C(O)=O	Amflutizole
+CNC(=S)[C@@]1(CCCS1)C1=NC=CC=C1	(2R)-N-Methyl-2-pyridin-2-ylthiolane-2-carbothioamide
+CNC(=O)ON(C(C)=O)C(=O)NC	Caracemide
+COC1=CC2=C(N)C3=C(CCCC3)N=C2C=C1	7-Methoxy-1,2,3,4-tetrahydroacridin-9-amine
+OC(=O)C1=CC=C(O)C2=NC=CC=C12	8-Hydroxy-5-quinolinecarboxylic acid
+OC1=CC=C(C=C1)S(O)(=O)=O	4-Hydroxybenzenesulfonic acid
+CC(C)CCC[C@H](C)N	(S)-1,5-Dimethylhexylamine
+OC(=O)CCCC1=CC=CC=C1	4-Phenylbutyric acid
+COC(=O)NC1=NC2=C(N1)C=C(C=C2)C(=O)C1=CC=CC=C1	Mebendazole
+OCCC1=CC=CC=C1	2-Phenylethanol
+O=C(CN1CCNCC1)NC1CCCCC1	Esaprazole
+N1C2=C(C=CC=C2)N=C1C1=CSC=N1	Thiabendazole
+OC(CN1C=NC=N1)(CN1C=NC=N1)C1=C(F)C=C(F)C=C1	Fluconazole
+CCN(CC)CCOC(=O)C1=CC=C(N)C=C1	Procaine
+OC(=O)CCCNC(=O)C1=CN=CC=C1	4-(Nicotinamido)butanoic acid
+N=C(NC1=CC=CC=C1)C1=CC=CS1	N-Phenylthiophene-2-carboximidamide
+CC(N)(CC1=CC=CC=C1)C1=CC=CC=C1	1,2-Diphenylpropan-2-amine
+CC[C@@]1(C)CC(=O)NC1=O	(S)-Ethosuximide
+CN(C)CCCN1C2=C(SC3=C1C=C(C=C3)C(F)(F)F)C=CC=C2	Triflupromazine
+CC1=C2CCC[C@@H](C(N)=S)C2=NC=C1	(8R)-4-Methyl-5,6,7,8-tetrahydroquinoline-8-carbothioamide
+FC(F)(F)COC1=CC(C(=O)NC[C@H]2CCCCN2)=C(OCC(F)(F)F)C=C1	R-(-)-Flecainide
+CC(=O)NC1=CC=C(C=C1)C(=O)NC1=C(N)C=CC=C1	Tacedinaline
+CCOC(=O)C1=C(C)NC(C)=C([C@@H]1C1=CC=CC(Cl)=C1Cl)C(=O)OC	(R)-(+)-Felodipine
+CCCCC1=CN=C(C=C1)C(N)=O	Bupicomide
+CC1=CC(Cl)=C(NC2=NCCN2)C=C1	Tolonidine
+CC(C)(C)NC[C@H](O)C1=CC(Br)=NO1	5-Isoxazolemethanol, 3-bromo-alpha-(((1,1-dimethylethyl)amino)methyl)-, (S)-
+NCCNC(=O)C1=NC=C(Cl)C=C1	Lazabemide
+COC1=CC(=CC(OC)=C1OC)C(=O)N[C@H]1CCCNC1	3,4,5-Trimethoxy-N-[(S)-3-piperidinyl]benzamide
+O=S(=O)(N1CCNCC1)C1=CC=CC2=CN=CC=C12	1-(5-Isoquinolinesulfonyl)piperazine
+CC(C)C[C@@H](NC(=O)OCC1C2=C(C=CC=C2)C2=C1C=CC=C2)C(O)=O	Fmoc-D-Leu-OH
+CC1=C(C(O)=O)C2=CC(F)=CC=C2N=C1C1=CC=C(C=C1)C1=C(F)C=CC=C1	Brequinar
+FC1=CC=C(C=C1)[C@@H]1CCNC[C@H]1COC1=CC2=C(OCO2)C=C1	Paroxetine
+O=C1NS(=O)(=O)C2=C1C=CC=C2	Saccharin
+OC(=O)CC1=CC=C(C=C1)C1=CC=CC=C1	Felbinac
+OC1=C(Br)C=C(Br)C2=CC=CN=C12	Broxyquinoline
+CC1=CN([C@@H]2C[C@@H](O)[C@H](CO)O2)C(=O)NC1=O	Telbivudine
+OC1=C(\C=N\NC(=O)C2=C(O)C=CC=C2)C=CC=C1	N'-Salicylidenesalicylic acid hydrazide
+CN1CCC(CC1)=C1C2=C(CCC3=CC=CN=C13)C=CC=C2	Azatadine
+Cl.OC(=O)C1=CCCNC1	Guvacine hydrochloride
+CC1=C(C(=O)N[C@H]2[C@H]3SC(C)(C)[C@@H](N3C2=O)C(O)=O)C(=NO1)C1=C(Cl)C=CC=C1	Cloxacillin
+NC1=NC(=O)C2=NC(CNC3=CC=C(C=C3)C(=O)N[C@@H](CCC(O)=O)C(O)=O)=CN=C2N1	(2S)-2-[[4-[(2-Amino-4-oxo-1H-pteridin-6-yl)methylamino]benzoyl]amino]pentanedioic acid
+OC(=O)CCNC(=O)C1=CC=C(C=C1)\N=N\C1=CC(C(O)=O)=C(O)C=C1	Balsalazide
+OC(=O)C1=CC2=C(C=C1)N=C(O2)C1=CC(Cl)=CC(Cl)=C1	Tafamidis
+C[C@@H](C1=C(F)C=NC=N1)C(O)(CN1C=NC=N1)C1=C(F)C=C(F)C=C1	(3S)-2-(2,4-Difluorophenyl)-3-(5-fluoropyrimidin-4-yl)-1-(1,2,4-triazol-1-yl)butan-2-ol
+CC1=CN=C(C=C1)C1=NC=C(C)C=C1	Abametapir
+OC(=O)C1=C[N+]([O-])=CC=C1	Nicotinic acid N-oxide
+NC1=CC=C(C=C1)S(=O)(=O)C1=CC=C(N)C=C1	Dapsone
+N=C(NC1=CC=CC=C1)NC1=CC=CC=C1	1,3-Diphenylguanidine
+CC1=NC2=C(C=CC=C2)N1CC1=CC=C(Cl)C=C1	Chlormidazole
+CCN(CC)CCNC(=O)C1=CC=C(NC(C)=O)C=C1	Acecainide
+CC(=O)NCCC1=CNC2=C1C=CC=C2	N-Acetyltryptamine
+OCCCC(=O)NCCO	4-Hydroxy-N-(2-hydroxyethyl)butanamide
+CCCCCCCCCCCCOS(O)(=O)=O	Lauryl sulfate
+OC(CC1=CN=CC=C1)(P(O)(O)=O)P(O)(O)=O	Risedronic acid
+NC(=N)NCCN1CCCCCCC1	Guanethidine
+CNC[C@H](O)C1=CC(O)=C(O)C=C1	Epinephrine
+OC(=O)CN(CCN(CC(O)=O)CC(O)=O)CC(O)=O	Edetic acid
+NC1=NC(NC2CC2)=NC(N)=N1	Cyromazine
+CN1C2=C(NC=N2)C(=O)N(C)C1=O	Theophylline
+NC1=CC=C(C=C1)S(=O)(=O)NC1=NC=CC=N1	Sulfadiazine
+NC1=CC=C(C=C1)S(=O)(=O)NC1=NC=CC=C1	Sulfapyridine
+CCOC1=CC2=C(NC(C)(C)C=C2C)C=C1	Ethoxyquin
+CN1[C@H](C2=CC=C(Cl)C=C2)S(=O)(=O)CCC1=O	(S)-Chlormezanone
+ClC1=NC=CN=C1	2-Chloropyrazine
+NC(=O)N[C@H]1NC(=O)NC1=O	(+)-Allantoin
+CC1=C(CC#N)N2C=CC=C(OCC3=CC=CC=C3)C2=N1	2-Methyl-8-(phenylmethoxy)imidazo[1,2-a]pyridine-3-acetonitrile
+NC[C@@H](O)CC(O)=O	(3S)-4-Azaniumyl-3-hydroxybutanoate
+COC1=C(OC)C=C(CCC(=O)NC2=NC3=C(S2)C=C(Cl)C=C3)C=C1	N-(6-Chlorobenzo[d]thiazol-2-yl)-3-(3,4-dimethoxyphenyl)propanamide
+CC(C)NC[C@H](O)COC1=CC=C(NC(C)=O)C=C1	(S)-Practolol
+COC1=C(OC)C=C2C(N)=NC(=NC2=C1)N1CCN(CC1)C(=O)C1=CC=CO1	Prazosin
+NCCC1=CC(O)=C(O)C=C1	Dopamine
+NS(=O)(=O)C1=C(Cl)C=C(NCC2=CC=CO2)C(=C1)C(O)=O	Furosemide
+NCCS	Cysteamine
+O[C@@H](CN1C2=C(C=C(Br)C=C2)C2=C1C=CC(Br)=C2)CN1CCNCC1	(2R)-1-(3,6-Dibromocarbazol-9-yl)-3-piperazin-1-ylpropan-2-ol
+CN1N=C(C)C2=C1OC(N)=C(C#N)[C@@H]2C1=CC=C(C=C1)C(F)(F)F	(4R)-6-Amino-1,3-dimethyl-4-[4-(trifluoromethyl)phenyl]-4H-pyrano[2,3-c]pyrazole-5-carbonitrile
+C1=CN(C=N1)[C@@H](C1=CC=CC=C1)C1=CC=C(C=C1)C1=CC=CC=C1	(S)-Bifonazole
+CC1=C(NC=N1)C1=CC=C(Cl)C=C1	Lofemizole
+O=C1C(C(=O)C2=C1C=CC=C2)C1=CC=CC=C1	Phenindione
+NC(=O)NS(=O)(=O)C1=CC=C(N)C=C1	Sulfacarbamide
+OC1=NC=NC2=CC=CC=C12	4-Hydroxyquinazoline
+CC(C)OC(=O)C(C)(C)OC1=CC=C(C=C1)C(=O)C1=CC=C(Cl)C=C1	Fenofibrate
+CC[C@@]1(O)C(=O)OCC2=C1C=C1N(CC3=CC4=C(CN(C)C)C(O)=CC=C4N=C13)C2=O	Topotecan
+OC1=C(I)C=C(Cl)C2=CC=CN=C12	Clioquinol
+COC(=O)C1=C(NC(=O)C2=CC=C(F)C=C2)C=CC=C1	Methyl 2-[(4-fluorobenzoyl)amino]benzoate
+CN1N(C(=O)C(NC(=O)C2=CN=CC=C2)=C1C)C1=CC=CC=C1	Nifenazone
+COC1=C(C=C(Cl)C=C1)C(=O)NCCC1=CC=C(C=C1)S(=O)(=O)NC(=O)NC1CCCCC1	Glyburide
+CN(C)C(=N)NC(N)=N	Metformin
+COC1=NC=CN=C1NS(=O)(=O)C1=CC=C(N)C=C1	Sulfalene
+CCN(CC)CCNC(=O)C1=CC=C(I)C=C1	N-(2-(Diethylamino)ethyl)-4-iodobenzamide
+COC(=O)C1=C(C)NC(C)=C([C@H]1C1=C(C=CC=C1)[N+]([O-])=O)C(=O)OCC(C)C	(S)-Nisoldipine
+[Cl-].C[N+]1=CC=C(C=C1)C(=O)NCC1=CC=CC=C1	N-Benzyl-1-methylpyridin-1-ium-4-carboxamide;chloride
+C1CN[C@@H](C1)C1=CC=CN=C1	(S)-3-(Pyrrolidin-2-yl)pyridine
+O=C(CC(C1=CC=CC=C1)C1=CC=CC=C1)N1CCN(CC1)C(C1=CC=CC=C1)C1=CC=CC=C1	1-[4-(Diphenylmethyl)-1-piperazinyl]-3,3-diphenyl-1-propanone
+O=C(N1CCN(CC2=CC=CC=C2)CC1)C1=CC2=C(O1)C=CC=C2	Befuraline
+O[C@H]1CO[C@@H]2[C@H](O)CO[C@H]12	Isosorbide
+CC(=O)NC1=CC=CC=C1	Acetanilide
+[O-][N+](=O)C1=CC(C(=O)NC2=CC=CC=C2)=C(Cl)C=C1	2-Chloro-5-nitro-N-phenylbenzamide
+NS(=O)(=O)C1=CC2=C(N[C@H](CC3=CC=CC=C3)NS2(=O)=O)C=C1C(F)(F)F	(S)-Bendroflumethiazide
+COC1=C(OCCNC[C@H](O)COC2=C3C(NC4=C3C=CC=C4)=CC=C2)C=CC=C1	(S)-Carvedilol
+CC(C)N(CCC(C(N)=O)(C1=CC=CC=C1)C1=NC=CC=C1)C(C)C	Disopyramide
+CC1=NC(=CC(NC2=NC=C(S2)C(=O)NC2=C(Cl)C=CC=C2C)=N1)N1CCN(CCO)CC1	Dasatinib
+C[C@H]1CC2=C(C=CC=C2)N1NC(=O)C1=CC(=C(Cl)C=C1)S(N)(=O)=O	(S)-Indapamide
+O=C(OC1=CC=CC2=CC=CN=C12)C1=CC=CC=C1	Benzoxiquine
+COC1=CC(=CC(OC)=C1OC)C(=O)N1CCOCC1	Trimetozine
+CCCCOC(=O)C1=CC=C(O)C=C1	Butylparaben
+[O-][N+](=O)C1=NC=CN1CC(=O)NCC1=CC=CC=C1	Benznidazole
+Cl.OC(=O)\C=C\C1=CNC=N1	3-(1H-Imidazol-4-yl)prop-2-enoic acid hydrochloride
+C[C@@H](NCCCC1=CC=CC(=C1)C(F)(F)F)C1=CC=CC2=CC=CC=C12	Cinacalcet
+OC[C@@H](O)CN1CCN(CC1)C1=CC=CC=C1	Levodropropizine
+O=C1CCC2CCC(=O)N12	Rolziracetam
+NC(=O)CN1C[C@H](O)CC1=O	(R)-Oxiracetam
+CNC(=O)C1=CC2=C(C=C1)C(=O)C1=C(C=CC=C1)S2(=O)=O	N-Methyl-9-oxothioxanthene-3-carboxamide 10,10-dioxide
+Cl.Cl.Cl.NC1=C(C=CC=N1)C1=NC2=C(N=C(C=C2)C2=CC=CC=C2)N1C1=CC=C(C=C1)C1(N)CCC1	
+ClC1=CC=C(OCC(=O)N2CCN(CC3=CC4=C(OCO4)C=C3)CC2)C=C1	Fipexide
+CC(C)NC1=NC=CC=N1	Isaxonine
+C(N1CCN(CC1)C1=NC=CC=N1)C1=CC2=C(OCO2)C=C1	Piribedil
+CCN(CC)CCC[C@H](C)NC1=C2C=CC(Cl)=CC2=NC=C1	(S)-Chloroquine
+CCN(CC)CCC[C@H](C)NC1=C2C=CC(Cl)=CC2=NC2=CC=C(OC)C=C12	(S)-Quinacrine
+COC1=C(C=CC=C1)N1CCN(C[C@H](O)COC2=CC=CC3=CC=CC=C23)CC1	Naftopidil, (S)-
+COC1=C(OC)C=C(CCNC[C@H](O)COC2=CC(C)=CC=C2)C=C1	(S)-Bevantolol
+O=C(N1CCCCC1)C1=CC2=C(OCO2)C=C1	1-(1,3-Benzodioxol-5-ylcarbonyl)piperidine
+CCN(CC)CCNC(=O)COC1=CC=C(OC)C=C1	Mefexamide
+CCOC(=O)N1CSC[C@H]1C(O)=O	Telmesteine
+CC(=O)NC1=CC(O)=CC=C1	Metacetamol
+CCN(CC)C(=O)C1=CN=CC=C1	Nikethamide
+CCN(CC)C(=O)C1=CC(C)=CC=C1	N,N-Diethyl-3-methylbenzamide
+FC1=C(Cl)C=C(C=C1)S(=O)(=O)NCC1=CC=C(C=C1)C(=O)NNC(=O)C1=CC=CC=C1	N-(4-(2-Benzoylhydrazinecarbonyl)benzyl)-3-chloro-4-fluorobenzenesulfonamide
+CC12CC3CC(C)(C1)CC(N)(C3)C2	Memantine
+COC1=CC=C(\C=C\C(O)=O)C=C1	4-Methoxycinnamic acid
+O=C\C=C\C1=CC=CC=C1	Cinnamaldehyde
+NNCCC1=CC=CC=C1	Phenelzine
+CCCNC[C@H](O)COC1=C(C=CC=C1)C(=O)CCC1=CC=CC=C1	(S)-Propafenone
+OC(=O)C1=NC2=CC=CC=C2C(O)=C1	Kynurenic acid
+Cl.COC1=CC=C(C=C1)[C@@H](CN(C)C)C1(O)CCCCC1	Venlafaxine hydrochloride, (S)-
+CC(C)[C@H](NC(=O)N(C)CC1=CSC(=N1)C(C)C)C(=O)N[C@H](C[C@H](O)[C@H](CC1=CC=CC=C1)NC(=O)OCC1=CN=CS1)CC1=CC=CC=C1	Ritonavir
+CC1=CC(=O)N(N1)C1=CC=CC=C1	3-Methyl-1-phenyl-1H-pyrazol-5-ol
+C(C1=NCCN1)C1=CC=CC=C1	Tolazoline
+CCN(CC)CC1=C(O)C=CC(NC2=C3C=CC(Cl)=CC3=NC=C2)=C1	Amodiaquine
+CN(C)C(=O)C(CCN1CCC(O)(CC1)C1=CC=C(Cl)C=C1)(C1=CC=CC=C1)C1=CC=CC=C1	Loperamide
+C1CN2CC3=C(C=CC=C3)N=C2C1	Deoxypeganine
+CN(C)CCCN1C2=C(SC3=C1C=C(Cl)C=C3)C=CC=C2	Chlorpromazine
+O=C(NCC1=CC=CC=C1)C1=CSC(NC2=NC=NC=C2)=N1	N-Benzyl-2-(pyrimidin-4-ylamino)thiazole-4-carboxamide
+C\C(=N\NC1=NC2=C(N=N1)C1=C(N2)C(C)=CC=C1)C1=NC=CC=C1	6-Methyl-N-[(Z)-1-pyridin-2-ylethylideneamino]-5H-[1,2,4]triazino[5,6-b]indol-3-amine
+C1CN2C[C@@H](N=C2S1)C1=CC=CC=C1	Levamisole
+OCCN1CCN(CCCN2C3=C(SC4=C2C=C(C=C4)C(F)(F)F)C=CC=C3)CC1	Fluphenazine
+O=C1CC2(CCCC2)CC(=O)N1CCCCN1CCN(CC1)C1=NC=CC=N1	Buspirone
+OC1=NC(O)=C2C=NNC2=N1	Oxypurinol
+CC1=NN=C(NS(=O)(=O)C2=CC=C(N)C=C2)S1	Sulfamethizole
+NCCC(O)(P(O)(O)=O)P(O)(O)=O	Pamidronic acid
+C1CN=C(N1)[C@@H]1CCCC2=C1C=CC=C2	2-[(1R)-1,2,3,4-Tetrahydronaphthalen-1-yl]-4,5-dihydro-1H-imidazole
+CNCC[C@H](OC1=CC=C(C=C1)C(F)(F)F)C1=CC=CC=C1	(3S)-N-Methyl-3-phenyl-3-[4-(trifluoromethyl)phenoxy]propan-1-amine
+CC1=CC=C(C=C1)N(CC1=NCCN1)C1=CC=CC(O)=C1	Phentolamine
+NC[C@@H]1CN(CC2=CC=CC=C2)C(=O)C1	N-Benzyl-(4R)-4-aminomethyl-pyrrolidin-2-one
+[Cl-].CC(=O)OCC[N+](C)(C)C	Acetylcholine chloride
+C1C2CNCC1C1=C2C=C2N=CC=NC2=C1	Varenicline
+CCCCN(CCCC)CCCOC1=CC=C(C=C1)C(=O)C1=C(CCCC)OC2=C1C=C(NS(C)(=O)=O)C=C2	Dronedarone
+CS(=O)(=O)CCNCC1=CC=C(O1)C1=CC=C2N=CN=C(NC3=CC(Cl)=C(OCC4=CC(F)=CC=C4)C=C3)C2=C1	Lapatinib
+NCCC[C@H](N)C(O)=O	L-Ornithine
+OC(=O)CCC1=CC(I)=C(OC2=CC=C(O)C=C2)C(I)=C1	3,5-Diiodothyropropionic acid
+CC1(C)S[C@@H]2[C@H](NC(=O)CC3=CC=CC=C3)C(=O)N2[C@H]1C(O)=O	Penicillin g
+CC(C)(O)CC(O)=O	beta-Hydroxyisovaleric acid
+NC(=N)NC(=O)C1=NC=CN=C1	N-(Pyrazine-2-carbonyl)-guanidine
+CCN1C[C@H](CCN2CCOCC2)C(C1=O)(C1=CC=CC=C1)C1=CC=CC=C1	(R)-Doxapram
+Cl.CCNC[C@H](O)C1=CC=CC(O)=C1	Etilefrine hydrochloride, (R)-
+OS(=O)(=O)C1=CC2=C(NC(=N2)C2=CC=CC=C2)C=C1	Ensulizole
+OC(=O)C1=C(C=CC=C1)C1=C2C=C(I)C(=O)C(I)=C2OC2=C(I)C(O)=C(I)C=C12	Erythrosin(E)
+NC1=CC2=NC3=CC(N)=CC=C3C=C2C=C1	Proflavine
+COC1=C(OC)C=C(CCN(C)CCCC(C#N)(C(C)C)C2=CC(OC)=C(OC)C=C2)C=C1	Verapamil
+COC(=O)[C@@H](N1CCC2=C(C1)C=CS2)C1=C(Cl)C=CC=C1	Clopidogrel
+NC(=O)N1C2=C(CC(=O)C3=C1C=CC=C3)C=CC=C2	Oxcarbazepine
+ClC1=C(NC2=NCCN2)C2=NSN=C2C=C1	Tizanidine
+CC(=O)OCC(CCN1C=NC2=CN=C(N)N=C12)COC(C)=O	Famciclovir
+CC1=NC(C)=C(Cl)C(O)=C1Cl	Clopidol
+OC(=O)[C@@H]1CCN2C1=CC=C2C(=O)C1=CC=CC=C1	(R)-Ketorolac
+CN(C)CCOC(C)(C1=CC=CC=C1)C1=NC=CC=C1	Doxylamine
+CN(C)CCC[C@@]1(OCC2=C1C=CC(=C2)C#N)C1=CC=C(F)C=C1	(R)-Citalopram
+NCCCS(O)(=O)=O	Tramiprosate
+NC(=N)NCCC(O)=O	3-Guanidinopropionic acid
+OS(=O)(=O)CCS	2-Mercaptoethanesulfonic acid
+NCCCCNC(N)=N	Agmatine
+N[C@@H](C(O)=O)C1=CC(O)=CC(O)=C1	(2R)-2-Amino-2-(3,5-dihydroxyphenyl)acetic acid
+CCN(CC)C(S)=S	Diethylcarbamodithioic acid
+CC1=C(CCN)SC(N)=N1	Amthamine
+CC(=O)NCCCS(O)(=O)=O	Acamprosate
+C(C1CCNCC1)C1=CNC=N1	Immepip
+CN(C)CCCSC(N)=N	Dimaprit
+NCCCC(N)(C(F)F)C(O)=O	Eflornithine
+OC(=O)P(O)(O)=O	Foscarnet
+C[C@H](CN)CC(O)=O	(3S)-4-Azaniumyl-3-methylbutanoate
+OCC1=CC(F)=CN=C1	(5-Fluoropyridin-3-yl)methanol
+CC(C)(C)NC[C@H](O)C1=CC(CO)=C(O)C=C1	Levalbuterol
+OC[C@H]1O[C@H]([C@H](O)[C@@H](O)[C@@H]1O)C1=C(O)C=CC2=C1OC=C(C2=O)C1=CC=C(O)C=C1	Puerarin
+Cl.COC(=O)[C@@H](N)CS	Visclair
+Cl.CC1=NC=C(CO)C(C=O)=C1O	Pyridoxal hydrochloride
+CON	O-Methylhydroxylamine
+CCCC[C@H](O)C1=CC=CC=C1	Benzenemethanol, alpha-butyl-, (alphas)-
+COC1=CC(C(O)C(C)N)=C(OC)C=C1	Methoxamine
+NCCC1=NNC=C1	Betazole
+N[C@H]1CCN(C1)C1=CC=CN=C1	(3S)-1-Pyridin-3-ylpyrrolidin-3-amine
+COC1=C(O)C=CC(CCC(C)=O)=C1	Zingerone
+CCOC(=O)[C@@H](N)CC1=CC(O)=C(O)C=C1	Etilevodopa
+OC\C=C\C(O)=O	4-Hydroxycrotonic acid
+CC1=C(CCN)NC=N1	4-Methylhistamine
+CC1=CC=C(Cl)C(NC2=C(C=CC=C2)C(O)=O)=C1Cl	Meclofenamic acid
+CC1(CN)CC2=C(C1)C=CC=C2	(2-Methyl-1,3-dihydroinden-2-yl)methanamine
+CC1=CC=C(C=C1)S([O-])(=O)=O.CC[N+](C)(C)CC1=C(Br)C=CC=C1	Bretylium tosylate
+CCCN(CCC)CCC1=CC=CC2=C1CC(=O)N2	Ropinirole
+Cl.Cl.OCCOCCN1CCN(CC1)[C@@H](C1=CC=CC=C1)C1=CC=C(Cl)C=C1	2-[2-[4-[(S)-(4-Chlorophenyl)-phenylmethyl]piperazin-1-yl]ethoxy]ethanol;dihydrochloride
+Cl.COCCOC1=CC2=NC=NC(NC3=CC(=CC=C3)C#C)=C2C=C1OCCOC	Erlotinib hydrochloride
+O=C1CCC2=C(N1)C=CC(OCCCCC1=NN=NN1C1CCCCC1)=C2	Cilostazol
+CC1=C(C)C2=C(CC[C@](C)(O2)C(O)=O)C(C)=C1O	(S)-(-)-6-Hydroxy-2,5,7,8-tetramethylchroman-2-carboxylic acid
+CC1(C)S[C@@H]2[C@H](NC(=O)[C@H](N)C3=CC=CC=C3)C(=O)N2[C@H]1C(O)=O	Ampicillin
+Cl.CCOC(=O)[C@H](CCC1=CC=CC=C1)N[C@@H](C)C(=O)N1CC2=C(C[C@H]1C(O)=O)C=CC=C2	Quinapril hydrochloride
+Cl.NC[C@H](O)C1=CC=C(O)C=C1	Octopamine hydrochloride, (-)-
+OCC1=C[N+]([O-])=CC=C1	Mepiroxol
+CN1CC(=O)N2[C@H](CC3=C(NC4=C3C=CC=C4)[C@H]2C2=CC3=C(OCO3)C=C2)C1=O	Tadalafil
+[Cl-].C[N+](C)(C)CC(O)=O	Betaine hydrochloride
+OC(=O)[C@@H](S)[C@@H](S)C(O)=O	Succimer
+CNS(=O)(=O)CC1=CC2=C(NC=C2CCN(C)C)C=C1	Sumatriptan
+CC(C)NC(=O)NS(=O)(=O)C1=C(NC2=CC(C)=CC=C2)C=CN=C1	Torsemide
+CCC1=C2CN3C(=CC4=C(COC(=O)[C@]4(O)CC)C3=O)C2=NC2=CC=C(OC(=O)N3CCC(CC3)N3CCCCC3)C=C12	Irinotecan
+NC1=NC(=O)N(C=N1)[C@H]1C[C@H](O)[C@@H](CO)O1	Decitabine
+NCCCNCCSP(O)(O)=O	Amifostine
+CC[C@H]1OC(=O)[C@H](C)[C@@H](O[C@H]2C[C@@](C)(OC)[C@@H](O)[C@H](C)O2)[C@H](C)[C@@H](O[C@@H]2O[C@H](C)C[C@@H]([C@H]2O)N(C)C)[C@](C)(O)C[C@@H](C)C(=O)[C@H](C)[C@@H](O)[C@]1(C)O	Erythromycin
+COC1=C2N(C=C(C(O)=O)C(=O)C2=CC(F)=C1N1C[C@@H]2CCCN[C@@H]2C1)C1CC1	Moxifloxacin
+Cl.CCN(CC)CC#CCOC(=O)C(O)(C1CCCCC1)C1=CC=CC=C1	Oxybutynin chloride
+CC#C[C@]1(O)CC[C@H]2[C@@H]3CCC4=CC(=O)CCC4=C3[C@H](C[C@]12C)C1=CC=C(C=C1)N(C)C	Mifepristone
+OC1=CC=C(C=C1)C1=C(C(=O)C2=CC=C(OCCN3CCCCC3)C=C2)C2=C(S1)C=C(O)C=C2	Raloxifene
+ClC1=CC(=CC=C1)N1CCN(CCCN2N=C3C=CC=CN3C2=O)CC1	Trazodone
+COC1=C(OC)C(NS(=O)(=O)C2=CC=C(N)C=C2)=NC=N1	Sulfadoxine
+CC(=C)[C@@H]1CCC(C)=CC1	D-Limonene
+C[C@H](O)CC(C)(C)O	(4S)-2-Methyl-2,4-pentanediol
+CN1C=CC(=O)C(O)=C1C	Deferiprone
+O.O.O.[Na+].CC1=CC=C(C=C1)S(=O)(=O)[N-]Cl	Chloramine-T trihydrate
+N[C@@H](CC1=CC(I)=C(OC2=CC(I)=C(O)C(I)=C2)C(I)=C1)C(O)=O	Levothyroxine
+Cl.CN(C)CCC=C1C2=C(C=CC=C2)C=CC2=C1C=CC=C2	Cyclobenzaprine hydrochloride
+NC(=O)C([C@@H]1CCN(CCC2=CC3=C(OCC3)C=C2)C1)(C1=CC=CC=C1)C1=CC=CC=C1	Darifenacin
+CC1=CC=CC(\C=N\NC2=CC(=NC(OCCC3=NC=CC=C3)=N2)N2CCOCC2)=C1	N-[(E)-(3-Methylphenyl)methylideneamino]-6-morpholin-4-yl-2-(2-pyridin-2-ylethoxy)pyrimidin-4-amine
+OS(O)(=O)=O.CC(C)(C)NCC(O)C1=CC(O)=CC(O)=C1.CC(C)(C)NCC(O)C1=CC(O)=CC(O)=C1	Terbutaline sulphate
+O.Cl.NC1=C2CCCCC2=NC2=C1CCC2	Ipidacrine hydrochloride hydrate
+CC(C)NC[C@H](O)C1=CC(O)=C(O)C=C1	Levisoprenaline
+OC(CCN1CCCCC1)(C1CCCCC1)C1=CC=CC=C1	Trihexyphenidyl
+[Br-].CCCCCCCCCCCCCCCC[N+](C)(C)C	Cetrimonium bromide
+CCOC1=CC2=C(C=C1)N=C(S2)S(N)(=O)=O	Ethoxzolamide
+OS(O)(=O)=O.CC(C)(C)NC(=O)[C@@H]1CN(CC2=CN=CC=C2)CCN1C[C@@H](O)C[C@@H](CC1=CC=CC=C1)C(=O)N[C@@H]1[C@H](O)CC2=C1C=CC=C2	Indinavir sulfate
+COC1=CC(\C=C/C2=CC(O)=C(OC)C=C2)=CC(OC)=C1OC	Combretastatin A4
+COC1=C(OC[C@@H](O)COC(N)=O)C=CC=C1	(R)-Methocarbamol
+C[C@H]1C[C@H]2[C@@H]3CC[C@](O)(C(C)=O)[C@@]3(C)CC[C@@H]2[C@@]2(C)CCC(=O)C=C12	Medroxyprogesterone
+C[C@H](NC(C)(C)C)C(=O)C1=CC=CC(Cl)=C1	(S)-Bupropion
+Cl.CNCCCC12CCC(C3=C1C=CC=C3)C1=C2C=CC=C1	Maprotiline hydrochloride
+C[C@@H](CN1C2=C(SC3=C1C=CC=C3)C=CC=C2)N(C)C	(2S)-N,N-Dimethyl-1-phenothiazin-10-ylpropan-2-amine
+OC(=O)\C=C/C(O)=O.CN(C)CCO[C@@H](C1=CC=C(Cl)C=C1)C1=NC=CC=C1	(S)-Carbinoxamine maleate
+O.[Na+].CC1=C(C(=O)N[C@H]2[C@H]3SC(C)(C)[C@@H](N3C2=O)C([O-])=O)C(=NO1)C1=C(Cl)C=CC=C1Cl	Dicloxacillin sodium monohydrate
+OCC(Br)(Br)Br	2,2,2-Tribromoethanol
+COC1=C2O[C@H]3C[C@@H](O)C=C[C@]33CCN(C)CC(C=C1)=C23	Galantamine
+Cl.NC(=N)NC(=O)CC1=C(Cl)C=CC=C1Cl	Guanfacine hydrochloride
+COC1=CC=C(C=C1)C1=NC2=C(N1)C=CC(=C2)C1=NNC(=O)C[C@@H]1C	(4S)-3-[2-(4-Methoxyphenyl)-3H-benzimidazol-5-yl]-4-methyl-4,5-dihydro-1H-pyridazin-6-one
+CCC1=C(C)CN(C(=O)NCCC2=CC=C(C=C2)S(=O)(=O)NC(=O)N[C@H]2CC[C@H](C)CC2)C1=O	
+OC1=CC=C2C[C@H]3N(CC4CC4)CC[C@@]45[C@@H](OC1=C24)C(=O)CC[C@@]35O	Naltrexone
+Cl.COC(=O)C1=C(C)NC(C)=C([C@H]1C1=CC=CC(=C1)[N+]([O-])=O)C(=O)OCCN(C)CC1=CC=CC=C1	Nicardipine hydrochloride, (S)-
+CCCCC1=NC(Cl)=C(CO)N1CC1=CC=C(C=C1)C1=C(C=CC=C1)C1=NN=NN1	Losartan
+CCN(CCO)CCC[C@H](C)NC1=C2C=CC(Cl)=CC2=NC=C1	Hydroxychloroquine, (S)-
+CSC1=CC2=C(SC3=C(C=CC=C3)N2CC[C@H]2CCCCN2C)C=C1	10-{2-[(2r)-1-Methylpiperidin-2-Yl]ethyl}-2-(Methylsulfanyl)-10h-Phenothiazine
+CC#C[C@@H](CC(O)=O)C1=CC=C(OCC2=CC=CC(=C2)C2=CC=C(C=C2)C(F)(F)F)C=C1	(S)-3-(4-((4'-(Trifluoromethyl)-[1,1'-biphenyl]-3-yl)methoxy)phenyl)hex-4-ynoic acid
+CN(C)CCCN1C2=C(CCC3=C1C=CC=C3)C=CC=C2	Imipramine
+CC1=C(SC=C1)C(=CCCN1CCC[C@H](C1)C(O)=O)C1=C(C)C=CS1	Tiagabine
+O.CC1=C(N2[C@H](SC1)[C@H](NC(=O)[C@H](N)C1=CC=CC=C1)C2=O)C(O)=O	Cephalexin monohydrate
+ClC1=C(Cl)C2=C(C=C1)N=C1NC(=O)CN1C2	Anagrelide
+Cl.Cl.CNCCC1=CN=CN1	Nalpha-Methylhistamine dihydrochloride
+CN[C@H]1CC[C@@H](C2=CC(Cl)=C(Cl)C=C2)C2=C1C=CC=C2	Sertraline
+CCCN[C@H]1CCC2=C(C1)SC(N)=N2	Pramipexole
+CC[C@@H](CO)NCCN[C@@H](CC)CO	Ethambutol Hydrochloride
+O=C1NC=NC2=C1NC=N2	3,7-Dihydropurin-6-one
+CC(C)NC[C@H](O)C1=CC(O)=CC(O)=C1	(R)-Orciprenaline
+CNCCC=C1C2=C(CCC3=C1C=CC=C3)C=CC=C2	Nortriptyline
+CC(C)NC[C@H](O)C1=CC(C#N)=C(N)C=C1	2-Amino-5-[(1R)-1-hydroxy-2-(propan-2-ylamino)ethyl]benzonitrile
+IC1=CC=C(C=C1)C(=O)NC1CCN(CC2=CC=CC=C2)CC1	N-(1-Benzylpiperidin-4-yl)-4-iodobenzamide
+CCCC[C@H]1C(=O)N(N(C1=O)C1=CC=C(O)C=C1)C1=CC=CC=C1	4-Butyl-1-(4-hydroxyphenyl)-2-phenylpyrazolidine-3,5-dione
+NS(=O)(=O)C1=C(Cl)C=C2N[C@@H](NS(=O)(=O)C2=C1)C(Cl)Cl	(3S)-6-Chloro-3-(dichloromethyl)-1,1-dioxo-3,4-dihydro-2H-1lambda6,2,4-benzothiadiazine-7-sulfonamide
+CC(C)CCC[C@@H](C)[C@H]1CC[C@H]2[C@@H]3CCC4=CC(CC[C@]4(C)[C@H]3CC[C@]12C)=NO	Cholest-4-en-3-one, oxime
+OC(=O)\C=C/C(O)=O.OC(=O)\C=C/C(O)=O.CN1CCN(CCCN2C3=C(SC4=C2C=C(Cl)C=C4)C=CC=C3)CC1	Prochlorperazine maleate
+[Na+].CC(C)(O)C1=COC(=C1)S(=O)(=O)[N-]C(=O)NC1=C2CCCC2=CC2=C1CCC2	MCC950 sodium
+Cl.OC1=CC=C(C[C@@H]2NCCC3=CC(O)=C(O)C=C23)C=C1	(-)-Higenamine hydrochloride
+O=C1NC2=C(C=C1)C=CC(OCCCCN1CCN(CC1)C1=CC=CC3=C1C=CS3)=C2	Brexpiprazole
+Cl.CC1=C(OC2=C(C=CC=C2C(=O)OCCN2CCCCC2)C1=O)C1=CC=CC=C1	Flavoxate hydrochloride
+O[C@H]([C@@H](O)C([O-])=O)C(O)=O.O[C@H]([C@@H](O)C([O-])=O)C(O)=O.C[N+]1(CCCCC[N+]2(C)CCCC2)CCCC1	Pentolinium tartrate
+Cl.N[C@@H](CC1=CC=C(Cl)C=C1)C(O)=O	4-Chloro-L-phenylalanine Hydrochloride
+O.O.[Na+].[O-]C(=O)CNC(=O)C1=C(I)C=CC=C1	Iodohippurate sodium dihydrate
+CCC(CC)O[C@@H]1C=C(C[C@H](N)[C@H]1NC(C)=O)C(O)=O	Oseltamivir acid
+CN(C)CCN(CC1=CC=CC=C1)C1=NC=CC=C1	Tripelennamine
+CC(=C)[C@@H]1CC[C@@](C)(C=C)[C@@H](C1)C(C)=C	beta-Elemene
+CCCCN1C[C@H](O)[C@@H](O)[C@H](O)[C@H]1CO	Miglustat
+COC(=O)[C@@H](N)CCCNC(=N)N[N+]([O-])=O	L-Name
+NC[C@@H]1O[C@H](O[C@@H]2[C@@H](CO)O[C@@H](O[C@@H]3[C@@H](O)[C@H](N)C[C@H](N)[C@H]3O[C@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@H]3N)[C@@H]2O)[C@H](N)[C@@H](O)[C@@H]1O	Paromomycin
+CC(C)NC(=N)NC(=N)NC1=CC=C(Cl)C=C1	N-(4-Chlorophenyl)-N'-(isopropyl)-imidodicarbonimidic diamide
+ClC1=CC=C(C=C1)C(=O)NCCN1CCOCC1	Moclobemide
+COC1=CC2=NC(NC3=NC(O)=C(C)C(C)=N3)=NC(C)=C2C=C1	Madrasin
+NC(=N)NNC(=C)C1=CC(=CC(NC(=O)CCCCCCCCC(=O)NC2=CC(=CC(=C2)C(=C)NNC(N)=N)C(=C)NNC(N)=N)=C1)C(=C)NNC(N)=N	N,N'-Bis[3,5-bis[1-[2-(diaminomethylidene)hydrazinyl]ethenyl]phenyl]decanediamide
+CCC1=C(N=C(O)N1)C(=O)C1=CC=NC=C1	Piroximone
+CN1C(=O)N(C2=C1C=NC1=CC=C(C=C21)C1=CC2=CC=CC=C2N=C1)C1=CC=C(C=C1)C(C)(C)C#N	Dactolisib
+CN1CCC\C1=N\C(=O)NC1=C(C)C=CC=C1C	Xilobam
+CCCCCCCCCCCCOS(O)(=O)=O.CCCCCCCCCCCCOS([O-])(=O)=O.CC1=C(CCO)SC=[N+]1CC1=C(N)N=C(C)N=C1	Thiamine bis-laurylsulfate
+NC(=O)C1=CN=CC=C1	Nicotinamide
+NC(=O)C1=NC=CN=C1	Pyrazinamide
+N[C@]1(CC[C@H]2[C@@H]([C@@H]12)C(O)=O)C(O)=O	Eglumetad
+CN1C(=O)C[C@@H](C1=O)C1=CC=CC=C1	(3R)-N-Methyl-3-phenylsuccinimide
+C1N2CN3CN1CN(C2)C3	Methenamine
+C(NC1=NC=NC2=C1NC=N2)C1=CC=CC=C1	6-Benzylaminopurine
+CCCCCCCCC(=O)NCC1=CC(OC)=C(O)C=C1	Nonivamide
+COC1=CC=C(C=C1)C1=COC2=C(C=CC(O)=C2)C1=O	Formononetin
+O=C1NC2=C(C=CC=C2)C(=O)N1CCCN1CCN(CC1)C1=CC=CC=C1	Pelanserin
+CCC(C)C(N)C(=O)NCCN1CCOCC1	2-Amino-3-methyl-N-[2-(morpholin-4-yl)ethyl]pentanamide
+C[C@H]1COC2(CCN(CC2)C2=NC(=O)C3=CC(=CC(=C3S2)[N+]([O-])=O)C(F)(F)F)O1	Unii-G55ZH52P57
+COC1=CC2=C(NC=C2C2=CCNCC2)C=C1	5-Methoxy-3-(1,2,3,6-tetrahydropyridin-4-yl)-1H-indole
+IC1=CC=C(C=C1)C(=O)NCCN1CCCCC1	N-[2-(Piperidinylamino)ethyl]-4-iodobenzamide
+ClC(Cl)[C@@H](C1=CC=C(Cl)C=C1)C1=C(Cl)C=CC=C1	Mitotane, (S)-
+NC(=O)NCCN1CCN(CC1)C1=CC=CC(=C1)C(F)(F)F	Fluprazine
+O=C1C(=CC2=CN=CC=C2)C(=O)C2=C1C=CC=C2	1,3-Indandione, 2-(3-pyridylmethylene)-
+COC1=CC(OC)=C(C=O)C=C1OC	2,4,5-Trimethoxybenzaldehyde
+CCCN[C@@H](C)C(=O)NC1=C(C)C=CC=C1	(S)-N-(2-Methylphenyl)-2-(propylamino)propanamide
+COC1=CC2=C(C=C1)N=C(NC(=O)NC1=CC=CC=C1)S2	Frentizole
+CCCCNC(=O)NS(=O)(=O)C1=CC=C(C)C=C1	Tolbutamide
+CC1=CC=C(C=C1)S(N)(=O)=O	P-Toluenesulfonamide
+CC1=CC=C(C=C1)S(=O)(=O)NCC1=CC=CC=C1	N-Benzyl-p-toluenesulfonamide
+CN(C)S(=O)(=O)C1=C(C)C=CC(=C1)[N+]([O-])=O	N,N,2-Trimethyl-5-nitrobenzenesulfonamide
+CC1=CC(C)=C(C(C)=C1)S(=O)(=O)NC1=CC(=CC=C1)C(F)(F)F	m-3M3FBS
+CC1=CC=CC(C)=C1NC(=O)CN1CCCCCC1	Pincainide
+C(CC1=CC=CC=C1)NC1=NC(=CS1)C1=CC=CC=C1	Fanetizole
+CN1C2=C(N(CCOC(=O)C(C)(C)OC3=CC=C(Cl)C=C3)C=N2)C(=O)N(C)C1=O	Etofylline clofibrate
+CC1=CC=CC(CN2CCN(CC2)[C@@H](C2=CC=CC=C2)C2=CC=C(Cl)C=C2)=C1	(S)-Meclizine
+NS(=O)(=O)C1=CC=C(C=C1)C(O)=O	Carzenide
+CCN(CC)S(=O)(=O)C1=CC=C(C=C1)C(O)=O	Etebenecid
+CCCN(CCC)S(=O)(=O)C1=CC=C(C=C1)C(O)=O	Probenecid
+CCOC(=O)C1=CC=C(O)C=C1	Ethylparaben
+CCCOC(=O)C1=CC=CC=C1	Propyl benzoate
+CC[C@@]1(NC(=O)N(C)C1=O)C1=CC=CC=C1	(R)-(-)-Mephenytoin
+CCN1C(=O)N[C@@H](C1=O)C1=CC=CC=C1	(R)-Ethotoin
+CCOC(=O)C1=CC=C(N)C=C1	Benzocaine
+CC(=O)NC1=CC=C(C=C1)C(=O)NC(C)(C)C	4-Acetamido-N-tert-butylbenzamide
+CCOC1=C(C=CC=C1)C(N)=O	Ethenzamide
+CCN(CC)CC(=O)NC1=C(C)C=CC=C1C	Lidocaine
+C(N1CCN(CC1)C1=NC=CC=C1)C1=NC2=C(N1)C=CC=C2	2-[(4-Pyridin-2-ylpiperazin-1-yl)methyl]-1H-benzimidazole
+CC(C)(C)NC[C@H](O)COC1=C(Cl)C=CC(Cl)=C1	Cloranolol, (S)-
+CC(=O)NC1=CC=C(NC(=S)NC(=O)C2=CC=C(C=C2)C(C)(C)C)C=C1	Tenovin-1
+CN1C=NC2=C1C(=O)NC(=O)N2C	Theobromine
+COC1=C(O)C=CC(CC=C)=C1	Eugenol
+NS(=O)(=O)C1=C(Cl)C=C2NCNS(=O)(=O)C2=C1	Hydrochlorothiazide
+CN(C)C(=S)SSC(=S)N(C)C	Thiram
+OC(=O)CCCC1=CNC2=C1C=CC=C2	Indole-3-butyric acid
+CC(C)NC[C@H](O)C1=CC=C(C=C1)[N+]([O-])=O	(R)-Nifenalol
+OC(=O)CN1C(=O)C2=CC=CC3=CC=CC(C1=O)=C23	Alrestatin
+CC1=C(OCCCC(=O)NO)C=CC(Cl)=C1	4-(4-Chloro-2-methylphenoxy)-N-hydroxybutanamide
+C=CC(=O)NCC1=CC=CC=C1	N-Benzylacrylamide
+CC(=O)NC1=NN(C(C)=O)[C@@](C)(S1)C1=CC=CC=C1	N-[(5S)-4-Acetyl-5-methyl-5-phenyl-1,3,4-thiadiazol-2-yl]acetamide
+COC(=O)C1=C(C)NC(C)=C(C1C1=C(OC(F)F)C=CC=C1)C(=O)OC	Riodipine
+C(C1=NCCN1)C1=CC=CC2=CC=CC=C12	Naphazoline
+CC1=CC(=O)OC2=C1C=CC(O)=C2	4-Methylumbelliferone
+CCN1C=NC(C(=O)NC)=C1C(=O)NC	Etimizol
+CCS(=O)(=O)CCN1C(C)=NC=C1[N+]([O-])=O	Tinidazole
+COC1=CC(NS(=O)(=O)C2=CC=C(N)C=C2)=NC(OC)=N1	Sulfadimethoxine
+O[C@@H](CC1=CC=NC=C1)C(Cl)(Cl)Cl	(2s)-1,1,1-Trichloro-3-(pyridin-4-yl)propan-2-ol
+OC1=CC=C(C=C1)C1(OS(=O)(=O)C2=C1C=CC=C2)C1=CC=C(O)C=C1	Phenol red
+NCCCC(O)(P(O)(O)=O)P(O)(O)=O	Alendronic acid
+OC12CC3CC(C1)C(=O)C(C3)C2	Idramantone
+OC(=O)C1=CC(=NC2=CC=CC=C12)C1=CC=CC=C1	Cinchophen
+COC1=CC2=C(C=C1)N(C(=O)C1=CC=C(Cl)C=C1)C(C)=C2CC(O)=O	Indomethacin
+COC1=CC2=C(C=C1)C(C)(C)C(=O)N(CCC1=CC=C(C=C1)S(=O)(=O)NC(=O)NC1CCCCC1)C2=O	Gliquidone
+NC1=C2CCCCC2=NC2=CC=CC=C12	Tacrine
+CC1=CC(C)=NC(NS(=O)(=O)C2=CC=C(N)C=C2)=N1	Sulfamethazine
+CCN(CC)C1=CC(C)=NC2=NC=NN12	Trapidil
+CC1(C)CC(=O)C([C@H]2C3=C(OC4=C2C(=O)CC(C)(C)C4)C=CC=C3)C(=O)C1	2-[(9S)-3,3-Dimethyl-1-oxo-4,9-dihydro-2H-xanthen-9-yl]-5,5-dimethylcyclohexane-1,3-dione
+NN1C=NC2=CC3=CC=CC=C3C=C2C1=O	Centazolone
+NNC(=O)CN1C2=C(C=C(Br)C=C2)C(=NCC1=O)C1=CC=CC=C1	Gidazepam
+C1CN(CCO1)SC1=NC2=C(S1)C=CC=C2	2-(Morpholinothio)benzothiazole
+CC1=CC=CC(C)=C1NC1=NCCCS1	Xylazine
+CN1CCC2=C(C1)C1=C(C=CC=C1)N2CC1=CC=CC=C1	Mebhydrolin
+NC1=CC=C(C=C1)S(N)(=O)=O	Sulfanilamide
+OC(=O)CCNC(=O)C1=CC=CC=C1	Betamipron
+OC(=O)C1=C(C=CC=C1)C1=CC=C(C=C1)C(F)(F)F	Xenalipin
+O=C1CNC(=O)CN1	2,5-Piperazinedione
+NC(=O)CN1CCCC1=O	Piracetam
+CN1N(C(=O)C(N)=C1C)C1=CC=CC=C1	4-Aminoantipyrine
+S=C=NCC1=CC=CC=C1	Benzyl isothiocyanate
+Cl.C[C@H](N)C12CC3CC(CC(C3)C1)C2	(1S)-1-(Adamantan-1-yl)ethan-1-amine hydrochloride
+CC(=O)NC1=C(I)C(C(O)=O)=C(I)C(NC(C)=O)=C1I	Diatrizoic acid
+NC1=NC2=C(S1)C=CC1=CC=CC=C21	Naphtho[1,2-d]thiazol-2-amine
+OC(=O)C1=C(NC(=O)C23CC4CC(CC(C4)C2)C3)C=CC=C1	N-(1-Adamantanoyl)anthranilic acid
+OC1CNC(C1)C(O)=O	4-Hydroxyproline
+O=C(CC#N)C1=CC=CC=C1	Benzoylacetonitrile
+CC(=O)NCCCCCC(O)=O	6-Acetamidohexanoic acid
+NS(=O)(=O)C#CC1=CC=CC=C1	2-Phenylethynesulfonamide
+CN(C)CC1=CNC2=C1C=CC=C2	Gramine
+CC1=CC=CC(C(O)=O)=C1O	3-Methylsalicylic acid
+NC1=CC=C(C=C1)S(=O)(=O)NC1=NC2=CC=CC=C2N=C1	Sulfaquinoxaline
+OC(=O)C1=CC(=O)C2=C(O1)C=CC=C2	Chromocarb
+OC1=CC=C(C2=CC=CN=C12)[N+]([O-])=O	Nitroxoline
+S=C=NCCC1=CC=CC=C1	Phenethyl isothiocyanate
+OC1=CC=CC2=CC=CN=C12	8-Hydroxyquinoline
+CCN1C=C(C(O)=O)C(=O)C2=CC(F)=C(C=C12)N1CCNCC1	Norfloxacin
+OC(=O)C1=CN(C2CC2)C2=CC(N3CCNCC3)=C(F)C=C2C1=O	Ciprofloxacin
+CC(=O)NC1=CC=C(O)C=C1	Acetaminophen
+SC(=S)N1CCCC1	Pyrrolidine-1-carbodithioic acid
+OC1=C(CC2=C(O)C=CC3=CC=CC=C23)C2=CC=CC=C2C=C1	Squoxin
+CC(=O)N[C@@H](CC1=CC=CC=C1)C(O)=O	N-Acetyl-L-phenylalanine
+OC(=O)CCCC[C@H]1CCSS1	(S)-5-(1,2-Dithiolan-3-yl)pentanoic acid
+OC(C1CCNCC1)(C1=CC=CC=C1)C1=CC=CC=C1	Azacyclonol
+CC(=O)NC1=CC=C(C=C1)C(O)=O	4-Acetamidobenzoic acid
+CC(C)C(N)=O	Isobutyramide
+CNCCC1=NC=CC=C1	Betahistine
+CCOC(=O)C1=C(C)NC(=S)N[C@H]1C1=CC(O)=CC=C1	(S)-Monastrol
+COC1=CC(O)=C(C=C1)C(C)=O	Paeonol
+C[C@H](N)CC1=CC=C(O)C=C1	4-Hydroxy-dextroamphetamine
+CCN1C(=O)NC2=C1C=CC=C2	1-Ethyl-2-benzimidazolinone
+OC(=O)CCC1=NC2=C(N1)C=CC=C2	Procodazole
+NC(=O)C1=CC(=CC(=C1)[N+]([O-])=O)[N+]([O-])=O	3,5-Dinitrobenzamide
+CCCCOC(=O)C1=CC=C(N)C=C1	Butyl 4-aminobenzoate
+N[C@@H](CC1=CC=C(O)C=C1)C(O)=O	Tyrosine
+NC1=CC=C(C=C1)C(O)=O	4-Aminobenzoic acid
+CC(C)C1=C(O)C=C(C)C=C1	Thymol
+NC1=CC(C(O)=O)=C(O)C=C1	Mesalamine
+OC1=CC2=CC=CC=C2C=C1	2-Naphthol
+OC(=O)CCCCCCCC(O)=O	Azelaic acid
+OC(=O)CCCCC(O)=O	Adipic acid
+OC(=O)CCC(=O)C(O)=O	2-Oxoglutaric acid
+OC1=CC=C(O)C=C1	Hydroquinone
+CC(C)(C)C1=CC=C(O)C=C1	4-Tert-Butylphenol
+OC(=O)C1=CC=CN=C1C(O)=O	Quinolinic acid
+O[C@@H](C(=O)C1=CC=CC=C1)C1=CC=CC=C1	(R)-Benzoin
+O=C1OC2=C(C=CC=C2)C=C1	Coumarin
+CCOC(=O)C1=C(C)N(C)C2=C1C=C(O)C=C2	Mecarbinate
+ClC1=CC2=C(OC(=O)N2)C=C1	Chlorzoxazone
+OC1=CC=C(C=C1)C1=C(O)C(=O)C2=C(O1)C=C(O)C=C2O	Kaempferol
+CC1=CC(NS(=O)(=O)C2=CC=C(N)C=C2)=NO1	Sulfamethoxazole
+NC1=CC=C(C=C1)S(=O)(=O)NC1=NC=CS1	Sulfathiazole
+CC(=O)NS(=O)(=O)C1=CC=C(N)C=C1	Sulfacetamide
+OC1=C(C=CC=C1)C(=O)OC1=CC=CC=C1	Phenyl salicylate
+COC1=C(O)C=CC(=C1)C(C)=O	Acetovanillone
+C(NC1=NC=NC2=C1N=CN2)C1=CC=CO1	Kinetin
+NC(=N)NC(=N)NC1=CC=CC=C1	1-Phenylbiguanide
+C(CC1=CC=CC=C1)NCC1=CC=CC=C1	N-Benzyl-2-phenylethanamine
+CCCCC1C(=O)N(N(C1=O)C1=CC=CC=C1)C1=CC=CC=C1	Phenylbutazone
+C[C@H](N)C(O)=O	L-Alanine
+OC(=O)CN1C2=C(C=CC=C2)C(=O)C2=C1C=CC=C2	Cridanimod
+OC(=O)CC1=C(NC2=C(Cl)C=CC=C2Cl)C=CC=C1	Diclofenac
+CCOC1=C(O)C=CC(C=O)=C1	Ethyl vanillin
+COC1=C(O)C=CC(C=O)=C1	Vanillin
+OC1=C(I)C=C(I)C2=CC=CN=C12	Iodoquinol
+COC1=CC(C=O)=C(C=C1OC)[N+]([O-])=O	6-Nitroveratraldehyde
+OC1=C(C=C(Cl)C=C1)C(=O)NC1=C(Cl)C=C(C=C1)[N+]([O-])=O	Niclosamide
+NC(=O)C1=C(Cl)C=C(C=C1)[N+]([O-])=O	Aklomide
+OCC1=NC=CC=C1	Piconol
+[Cl-].C[N+]1=C(C=NO)C=CC=C1	2-Hydroxyiminomethyl-1-methylpyridinium chloride
+O=C1CCCCCCCCCCCCCCO1	Oxacyclohexadecan-2-one
+[O-][N+](=O)OCCNC(=O)C1=CN=CC=C1	Nicorandil
+NNC(=O)C1=CC=NC=C1	Isoniazid
+[O-][N+](=O)C1=CC2=C(C=CS2(=O)=O)C=C1	Stattic
+OC(=O)C1=CC2=CC=CC(=C2N1)[N+]([O-])=O	7-Nitro-1H-indole-2-carboxylic acid
+O=C(CC1=CC=C(C=C1)C1=CC=CC=C1)NC1=NC=CC=C1	Difenpiramide
+CCN(CC)C(=O)N1CCN(C)CC1	Diethylcarbamazine
+COC1=CC(=CC(OC)=C1OC)C(=O)NCC1=CC=C(OCCN(C)C)C=C1	Trimethobenzamide
+COC1=C(OC)C=C(C=C1)C(=O)NCC1=CC=C(OCCN(C)C)C=C1	Itopride
+OC1=C(C=CC=C1)C(=O)NC1=CC=CC=C1	Salicylanilide
+COC1=C(OC[C@@H](O)CN2CCN(CC(=O)NC3=C(C)C=CC=C3C)CC2)C=CC=C1	(S)-Ranolazine
+NC(=O)C1=C(O)C=CC=C1	Salicylamide
+NS(=O)(=O)NCC1=CSC2=C1C=CC=C2	3-[(Sulfamoylamino)methyl]-1-benzothiophene
+O=C(NCCN1CCN(CC1)C1=NC=CC=N1)C12CC3CC(CC(C3)C1)C2	Adatanserin
+NC1=C(C=CC=C1)S(N)(=O)=O	2-Aminobenzenesulfonamide
+COC(=O)NC1=NC2=C(N1)C=CC=C2	Carbendazim
+COC1=C(OC)C=C2C(N)=NC(=NC2=C1)N1CCN(CC1)C(=O)[C@@H]1COC2=C(O1)C=CC=C2	Doxazosin, (S)-
+CCCCCOC(=O)C1=CC=C(C=C1)N(C)C	Pentyl 4-(dimethylamino)benzoate
+CC1=CC=CC(C)=C1NC(=O)CN1CCCC1=O	Nefiracetam
+BrC1=C(NC2=NCCN2)C=CC2=NC=CN=C12	Brimonidine
+NC1=C2N=CN([C@@H]3O[C@H](CO)[C@@H](O)[C@@H]3O)C2=NC(F)=N1	Fludarabine
+CCC1=C(C)NC2=C1C(=O)[C@@H](CN1CCOCC1)CC2	(5R)-3-Ethyl-2-methyl-5-(morpholin-4-ylmethyl)-1,5,6,7-tetrahydroindol-4-one
+C[C@H](N)CC1=CC=CC(O)=C1	Gepefrine
+CC(C)(OC1=CC=C(Cl)C=C1)C(=O)N1CSC[C@H]1C(O)=O	(4R)-3-[2-(4-Chlorophenoxy)-2-methylpropanoyl]-1,3-thiazolidine-4-carboxylic acid
+C[C@H](N)COC1=C(C)C=CC=C1C	(S)-1-(2,6-Dimethylphenoxy)propan-2-amine
+CS(=O)(=O)C1=CC=C(C=C1)C1=CN2C=CC=CC2=N1	Zolimidine
+CCCC1=CC=C(C=C1)C(O)=O	4-Propylbenzoic acid
+CCN1CCC[C@@H]1CNC(=O)C1=C(OC)C=CC(=C1)S(N)(=O)=O	(+)-Sulpiride
+OC(=O)[C@H](CC1=CNC2=C1C=CC=C2)NC(=O)C1=CC=C(Cl)C=C1	Benzotript
+OC(=O)CNC(=O)C1=CC=CC=C1	Hippuric acid
+CC(C)(C)C(=O)NCCCC(O)=O	Pivagabine
+NCC1=CC=C(C=C1)S(N)(=O)=O	Mafenide
+OCC1=CNC2=C1C=CC=C2	Indole-3-carbinol
+C(N1CCN(CC1)C1=NC2=C(S1)C=CC=C2)C1=CC2=C(OCO2)C=C1	2-[1-(4-Piperonyl)piperazinyl]benzothiazole
+NNC1=NN=CC2=CC=CC=C12	Hydralazine
+CC(C)(C(O)=O)C1=CC=C(C=C1)[C@@H](O)CCCN1CCC(CC1)C(O)(C1=CC=CC=C1)C1=CC=CC=C1	(S)-Fexofenadine
+[Cl-].CCCCCCCCCCCCCCCC[N+]1=CC=CC=C1	Cetylpyridinium chloride
+OC(=O)C1=CC2=C(S1)C=CC=C2	Benzo[b]thiophene-2-carboxylic acid
+NC1=NC2=C(O1)C=CC(Cl)=C2	Zoxazolamine
+CNC(=O)C1=NC=CC(OC2=CC=C(NC(=O)NC3=CC(=C(Cl)C=C3)C(F)(F)F)C=C2)=C1	Sorafenib
+Cl.CC(C)NC[C@H](O)COC1=CC=CC2=CC=CC=C12	(S)-(-)-Propranolol hydrochloride
+CC(=O)NC1=CC=C(CC(O)=O)C=C1	Actarit
+CC1=NOC(NS(=O)(=O)C2=CC=C(N)C=C2)=C1C	Sulfisoxazole
+CN1C(C)=NC=C1[N+]([O-])=O	Dimetridazole
+CC(=O)N1CCC(CC1)NC(=O)C1=CC=C(F)C=C1	N-(1-Acetylpiperidin-4-yl)-4-fluorobenzamide
+O[C@@H](CC(O)=O)C(O)=O	(2S)-2-Hydroxybutanedioic acid
+NC1=CC=NC=C1	4-Aminopyridine
+CC1=CC=C(O)C=C1	P-Cresol
+O[C@@H](C(O)=O)C1=CC=CC=C1	(r)-Mandelic acid
+OC(=O)[C@@H]1CSCN1	L-Thioproline
+N.N.N.OC(=O)CC(O)(CC(O)=O)C(O)=O	Triammonium citrate
+CC1=CC=CC(O)=C1	m-Cresol
+CC1=CC(=C(O)C(=C1)C(C)(C)C)C(C)(C)C	2,6-Di-tert-butyl-4-methylphenol
+OC1=CC(O)=CC=C1	Resorcinol
+C[Si](C)(C)O[Si](C)(C)C	Hexamethyldisiloxane
+NCCCC(O)=O	gamma-Aminobutyric acid
+NCC(O)=O	Glycine
+OC1=CC2=C(SC(=O)O2)C=C1	Tioxolone
+CC1=C(Cl)C=CC(O)=C1	4-Chloro-3-methylphenol
+CC1=NC=C(CO)C(CO)=C1O	Pyridoxine
+OC(=O)C1=CC(O)=C(O)C(O)=C1	Gallic acid
+CCCCCCCCCCCC(O)=O	Lauric acid
+CCOC(=O)C(C)=O	Ethyl pyruvate
+CC1=CNN=C1	Fomepizole
+OC(=O)C1=C(O)C=C(NC(=O)C2=CC=CC=C2)C=C1	Benzoylpas
+CC1=C(C=C(C=C1C(N)=O)[N+]([O-])=O)[N+]([O-])=O	Dinitolmide
+C1CCC(CC1)NC1CCCCC1	Dicyclohexylamine
+CN1CCN(CC1)C1=NC2=CC=CC=C2N=C1Cl	2-Chloro-3-(4-methylpiperazin-1-yl)quinoxaline
+OC(=O)CCC(=O)C1=CC=C(C=C1)C1=CC=CC=C1	Fenbufen
+CCC1(C)CC(=O)NC(=O)C1	Bemegride
+COC1=CC=C(CN2CCNCC2)C(OC)=C1OC	Trimetazidine
