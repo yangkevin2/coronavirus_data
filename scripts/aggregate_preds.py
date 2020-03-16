@@ -4,25 +4,28 @@ import csv
 import pandas as pd
 import pubchempy as pcp
 
-def get_cid(smile):
-    return pcp.get_compounds(smile, 'smiles')
 
-def aggregate_preds(data_path, sim_path, save_path):
+def aggregate_preds(data_path, sim_path, data_conversions_path, train_conversions_path, save_path):
     sim = pd.read_csv(sim_path)
-    sim.index = sim['smile']
-    sim['cid'] = sim['smile'].apply(get_cid)
-    sim = sim.drop('smile', axis=1)
-    sim = sim[['training_smile','cid','hit','similarity']]  # Reorder cols
-    sim.columns = ['nearest_training_nbr', 'nearest_training_cid', \
+    sim = sim[['smile', 'training_smile','hit','similarity']]  # Reorder cols
+    sim.columns = ['smiles', 'nearest_training_nbr', \
             'nearest_training_nbr_hit', 'nearest_training_nbr_tanimoto']
 
     data = pd.read_csv(data_path)
-    data['cid'] = sim['smiles'].apply(get_cid)
-    data = data[['smiles','cid','activity']]
+    data = data[['smiles','activity']]
     data.columns = ['smiles', 'predicted_activity']
-    out = data.join(sim, on=['smiles'], how='left')
+    data_conversions = pd.read_csv(data_conversions_path)
+    data = data.merge(data_conversions, left_on=['smiles'], right_on=['smiles'], how='left')
+    out = data.set_index('smiles').join(sim.set_index('smiles'), on=['smiles'], how='left')
+    
     out.sort_values(by=['predicted_activity', 'nearest_training_nbr_hit', 'nearest_training_nbr_tanimoto'],ascending=False, axis=0)
 
+    train_conversions = pd.read_csv(train_conversions_path)
+    train_conversions = train_conversions[['smiles', 'cid', 'title']]
+    train_conversions.columns = ['smiles', 'neighbor_cid', 'neighbor_title']
+    out = out.merge(train_conversions, left_on=['nearest_training_nbr'], right_on=['smiles'], how='left', validate="many_to_one")
+    out = out[['smiles', 'predicted_activity', 'title', 'cid', 'nearest_training_nbr',
+       'nearest_training_nbr_hit', 'nearest_training_nbr_tanimoto', 'neighbor_cid', 'neighbor_title']]
     out.to_csv(save_path, index=False)
 
 
@@ -32,6 +35,10 @@ if __name__ == '__main__':
                         help='Path to .csv file with data to sort')
     parser.add_argument('--sim_path', type=str, required=True,
                         help='Path where similarity data is stored.')
+    parser.add_argument('--data_conversions_path', type=str, required=True,
+                        help='Path for file converting prediction smiles to name and cid')
+    parser.add_argument('--train_conversions_path', type=str, required=True,
+                        help='Path for file converting training smiles to name and cid')
     parser.add_argument('--save_path', type=str, required=True,
                         help='Path where sorted data will be saved as .csv')
     args = parser.parse_args()
