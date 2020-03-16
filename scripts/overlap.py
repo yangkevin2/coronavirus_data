@@ -22,17 +22,18 @@ def standardize_smiles(smiles: str) -> str:
     return smiles
 
 
-def get_unique_standardized_smiles(path: str) -> Set[str]:
+def get_unique_standardized_smiles(path: str, standardize: bool) -> Set[str]:
     with open(path) as f:
         smiles = [row['smiles'] for row in csv.DictReader(f)]
-        smiles = p_map(standardize_smiles, smiles)
+        if standardize:
+            smiles = p_map(standardize_smiles, smiles)
         smiles = set(smiles)
 
     return smiles
 
 
-def intersection(paths: List[str]):
-    name_to_smiles = {os.path.basename(path).replace('.csv', ''): get_unique_standardized_smiles(path) for path in paths}
+def intersection(paths: List[str], standardize: bool):
+    name_to_smiles = {os.path.basename(path).replace('.csv', ''): get_unique_standardized_smiles(path, standardize) for path in paths}
 
     for name_1, name_2 in combinations(name_to_smiles.keys(), r=2):
         smiles_1, smiles_2 = name_to_smiles[name_1], name_to_smiles[name_2]
@@ -50,6 +51,8 @@ if __name__ == '__main__':
     parser = ArgumentParser()
     parser.add_argument('--paths', nargs='+', type=str,
                         help='Paths to .csv data files to compare')
+    parser.add_argument('--standardize', action='store_true', default=False,
+                        help='Whether to standardize SMILES strings')
     args = parser.parse_args()
 
     intersection(**vars(args))

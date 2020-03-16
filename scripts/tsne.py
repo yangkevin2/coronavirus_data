@@ -77,6 +77,21 @@ def compare_datasets_tsne(smiles_paths: List[str],
     plt.legend(loc='upper right', fontsize=fontsize)
     plt.savefig(save_path)
 
+    # Plot pairs of sars_pos and other dataset
+    pos_index = labels.index('sars_pos')
+    for index in range(len(labels) - 1):
+        plt.clf()
+        fontsize = 50
+        plt.figure(figsize=(6.4 * 10, 4.8 * 10))
+        plt.title('t-SNE using Morgan fingerprint with Jaccard similarity', fontsize=2 * fontsize)
+
+        plt.scatter(X[slices[index], 0], X[slices[index], 1], s=150, color=colors[index], label=labels[index])
+        plt.scatter(X[slices[pos_index], 0], X[slices[pos_index], 1], s=450, color=colors[pos_index], label=labels[pos_index])
+
+        plt.xticks([]), plt.yticks([])
+        plt.legend(loc='upper right', fontsize=fontsize)
+        plt.savefig(save_path.replace('.png', f'_{labels[index]}.png'))
+
 
 if __name__ == '__main__':
     parser = ArgumentParser()

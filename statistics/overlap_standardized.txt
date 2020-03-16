@@ -1,0 +1,60 @@
+sars_pos num molecules = 405
+sars_neg num molecules = 289,103
+sars_pos and sars_neg intersection = 1
+sars_pos percent overlap = 0.25%
+sars_neg percent overlap = 0.00%
+
+sars_pos num molecules = 405
+broad_repurposing_library num molecules = 6,035
+sars_pos and broad_repurposing_library intersection = 3
+sars_pos percent overlap = 0.74%
+broad_repurposing_library percent overlap = 0.05%
+
+sars_pos num molecules = 405
+external_library num molecules = 858
+sars_pos and external_library intersection = 2
+sars_pos percent overlap = 0.49%
+external_library percent overlap = 0.23%
+
+sars_pos num molecules = 405
+expanded_external_library num molecules = 2,400
+sars_pos and expanded_external_library intersection = 3
+sars_pos percent overlap = 0.74%
+expanded_external_library percent overlap = 0.12%
+
+sars_neg num molecules = 289,103
+broad_repurposing_library num molecules = 6,035
+sars_neg and broad_repurposing_library intersection = 961
+sars_neg percent overlap = 0.33%
+broad_repurposing_library percent overlap = 15.92%
+
+sars_neg num molecules = 289,103
+external_library num molecules = 858
+sars_neg and external_library intersection = 294
+sars_neg percent overlap = 0.10%
+external_library percent overlap = 34.27%
+
+sars_neg num molecules = 289,103
+expanded_external_library num molecules = 2,400
+sars_neg and expanded_external_library intersection = 695
+sars_neg percent overlap = 0.24%
+expanded_external_library percent overlap = 28.96%
+
+broad_repurposing_library num molecules = 6,035
+external_library num molecules = 858
+broad_repurposing_library and external_library intersection = 840
+broad_repurposing_library percent overlap = 13.92%
+external_library percent overlap = 97.90%
+
+broad_repurposing_library num molecules = 6,035
+expanded_external_library num molecules = 2,400
+broad_repurposing_library and expanded_external_library intersection = 1,699
+broad_repurposing_library percent overlap = 28.15%
+expanded_external_library percent overlap = 70.79%
+
+external_library num molecules = 858
+expanded_external_library num molecules = 2,400
+external_library and expanded_external_library intersection = 462
+external_library percent overlap = 53.85%
+expanded_external_library percent overlap = 19.25%
+
