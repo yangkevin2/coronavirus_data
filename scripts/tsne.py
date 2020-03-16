@@ -12,9 +12,6 @@ from chemprop.features import get_features_generator
 from chemprop.utils import makedirs
 
 
-COLORS = ['blue', 'red', 'green', 'orange', 'purple']
-
-
 def get_smiles(path: str) -> List[str]:
     with open(path) as f:
         smiles = [row['smiles'] for row in csv.DictReader(f)]
@@ -23,16 +20,21 @@ def get_smiles(path: str) -> List[str]:
 
 
 def compare_datasets_tsne(smiles_paths: List[str],
+                          colors: List[str],
                           max_num_per_dataset: int,
                           save_path: str):
-    assert len(smiles_paths) <= len(COLORS)
+    assert len(smiles_paths) <= len(colors)
+
+    # Random seed for random subsampling
+    np.random.seed(1)
+
+    # Genenrate labels based on file name
     labels = [os.path.basename(path).replace('.csv', '') for path in smiles_paths]
-    np.random.seed(0)
 
     # Load the smiles datasets
     print('Loading data')
     smiles, slices = [], []
-    for smiles_path, color in zip(smiles_paths, COLORS):
+    for smiles_path, color in zip(smiles_paths, colors):
         new_smiles = get_smiles(smiles_path)
         print(f'{os.path.basename(smiles_path)}: {len(new_smiles):,}')
 
@@ -67,8 +69,9 @@ def compare_datasets_tsne(smiles_paths: List[str],
     plt.figure(figsize=(6.4 * 10, 4.8 * 10))
     plt.title('t-SNE using Morgan fingerprint with Jaccard similarity', fontsize=2 * fontsize)
 
-    for slc, color, label in zip(slices, COLORS, labels):
-        plt.scatter(X[slc, 0], X[slc, 1], s=150, color=color, label=label)
+    for slc, color, label in zip(slices, colors, labels):
+        s = 450 if label == 'sars_pos' else 150
+        plt.scatter(X[slc, 0], X[slc, 1], s=s, color=color, label=label)
 
     plt.xticks([]), plt.yticks([])
     plt.legend(loc='upper right', fontsize=fontsize)
@@ -78,8 +81,23 @@ def compare_datasets_tsne(smiles_paths: List[str],
 if __name__ == '__main__':
     parser = ArgumentParser()
     parser.add_argument('--smiles_paths', nargs='+', type=str,
-                        default=['../data/sars_pos.csv', '../data/sars_neg.csv', '../data/broad_repurposing_library.csv', '../data/external_library.csv', '../data/expanded_external_library.csv'],
+                        default=[
+                            '../data/sars_neg.csv',
+                            '../data/broad_repurposing_library.csv',
+                            '../data/external_library.csv',
+                            '../data/expanded_external_library.csv',
+                            '../data/sars_pos.csv',
+                        ],
                         help='Path to .csv files containing smiles strings (with header)')
+    parser.add_argument('--colors', nargs='+', type=str,
+                        default=[
+                            'red',
+                            'green',
+                            'orange',
+                            'purple',
+                            'blue'
+                        ],
+                        help='Colors of the points associated with each dataset')
     parser.add_argument('--max_num_per_dataset', type=int, default=10000,
                         help='Maximum number of molecules per dataset; larger datasets will be subsampled to this size')
     parser.add_argument('--save_path', type=str, default='../plots/tsne.png',
