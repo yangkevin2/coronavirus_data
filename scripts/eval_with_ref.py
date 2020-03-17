@@ -3,7 +3,7 @@ import pandas as pd
 
 from argparse import ArgumentParser
 
-def eval_with_ref(pred_path, ref_path, save_path, unique_smiles=True):
+def eval_with_ref(pred_path, ref_path, save_path, unique_smiles=False):
     """Evaluate the predicted compounds <pred_path> by finding which are included in the reference <ref_path>.
     
     Args:
@@ -37,7 +37,7 @@ if __name__ == '__main__':
                         help='path to the reference .csv file.')
     parser.add_argument('--save_path', type=str, required=True,
                         help='path to save the output .csv file.')
-    parser.add_argument('--unique_smiles', action='store_true', default=True,
+    parser.add_argument('--unique_smiles', action='store_true',
                         help='if true, only keep one row if there are entries with the same SMILES')
     args = parser.parse_args()
 
