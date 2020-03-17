@@ -34,7 +34,7 @@ def find_most_similar(queries, compare, out):
             f.write('\n')
 
 if __name__ == '__main__':
-    training = get_fingerprints('binarized_sars.csv')
+    training = get_fingerprints('combined_binarized_sars.csv')
     print('Done reading in training data')
 
     query = get_fingerprints('external_library.csv')
