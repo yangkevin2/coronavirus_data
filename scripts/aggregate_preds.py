@@ -2,7 +2,6 @@ from argparse import ArgumentParser
 
 import csv
 import pandas as pd
-import pubchempy as pcp
 
 
 def aggregate_preds(data_path, sim_path, data_conversions_path, train_conversions_path, save_path):

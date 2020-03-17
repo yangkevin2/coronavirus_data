@@ -11,8 +11,8 @@
   - `corona_literature.csv` was generated through direct name matches at https://www.cureffi.org/wp-content/uploads/2013/10/drugs.txt
   - `corona_literature_idex.csv` was generated through the PubChem idex service and may contain multiple SMILES for generic drug names. 
 
-# 316_corona_preds/ 
-The most recent model predictions on each of the 3 test sets using the model trained only in AID1706. Will be moved to old/ and replaced by newer predictions once we have them for the model trained on the three combined AID dataset. 
+# 317_corona_preds/ 
+The most recent model predictions on each of the 3 test sets using the model trained on the combined 3 AID datasets. Predictions using only a single model with no hyperparameter opt or ensembling at the moment. For reference, benchmarking this model on scaffold split (5 folds) gets ~0.71 AUC. 
 
 # conversions/
 Files for converting between smiles/cid/name. Obtained from https://pubchem.ncbi.nlm.nih.gov/idexchange/idexchange.cgi
