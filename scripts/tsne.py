@@ -1,10 +1,14 @@
 from argparse import ArgumentParser
-import csv
 import os
 from typing import List
 
+from matplotlib import offsetbox
+import matplotlib.patches as mpatches
 import matplotlib.pyplot as plt
 import numpy as np
+import pandas as pd
+from rdkit import Chem
+from rdkit.Chem import Draw
 from sklearn.manifold import TSNE
 from tqdm import tqdm
 
@@ -12,15 +16,10 @@ from chemprop.features import get_features_generator
 from chemprop.utils import makedirs
 
 
-def get_smiles(path: str) -> List[str]:
-    with open(path) as f:
-        smiles = [row['smiles'] for row in csv.DictReader(f)]
-
-    return smiles
-
-
 def compare_datasets_tsne(smiles_paths: List[str],
+                          smiles_col_name: str,
                           colors: List[str],
+                          plot_molecules: bool,
                           max_num_per_dataset: int,
                           save_path: str):
     assert len(smiles_paths) <= len(colors)
@@ -35,7 +34,9 @@ def compare_datasets_tsne(smiles_paths: List[str],
     print('Loading data')
     smiles, slices = [], []
     for smiles_path, color in zip(smiles_paths, colors):
-        new_smiles = get_smiles(smiles_path)
+        # Get SMILES
+        new_smiles = pd.read_csv(smiles_path)[smiles_col_name]
+        new_smiles = list(new_smiles[new_smiles.notna()])  # Exclude empty strings
         print(f'{os.path.basename(smiles_path)}: {len(new_smiles):,}')
 
         # Subsample if dataset is too large
@@ -65,32 +66,50 @@ def compare_datasets_tsne(smiles_paths: List[str],
     makedirs(save_path, isfile=True)
 
     plt.clf()
-    fontsize = 50
-    plt.figure(figsize=(6.4 * 10, 4.8 * 10))
+    scale = 30
+    fontsize = 5 * scale
+    fig = plt.figure(figsize=(6.4 * scale, 4.8 * scale))
     plt.title('t-SNE using Morgan fingerprint with Jaccard similarity', fontsize=2 * fontsize)
+    ax = fig.gca()
+    handles = []
+    legend_kwargs = dict(loc='upper right', fontsize=fontsize)
 
     for slc, color, label in zip(slices, colors, labels):
-        s = 450 if label == 'sars_pos' else 150
-        plt.scatter(X[slc, 0], X[slc, 1], s=s, color=color, label=label)
+        if plot_molecules:
+            # Plots molecules
+            handles.append(mpatches.Patch(color=color, label=label))
 
+            for smile, (x, y) in zip(smiles[slc], X[slc]):
+                img = Draw.MolsToGridImage([Chem.MolFromSmiles(smile)], molsPerRow=1, subImgSize=(200, 200))
+                imagebox = offsetbox.AnnotationBbox(offsetbox.OffsetImage(img), (x, y), bboxprops=dict(color=color))
+                ax.add_artist(imagebox)
+        else:
+            # Plots points
+            s = 450 if label == 'sars_pos' else 150
+            plt.scatter(X[slc, 0], X[slc, 1], s=s, color=color, label=label)
+
+    if plot_molecules:
+        legend_kwargs['handles'] = handles
+
+    plt.legend(**legend_kwargs)
     plt.xticks([]), plt.yticks([])
-    plt.legend(loc='upper right', fontsize=fontsize)
     plt.savefig(save_path)
 
     # Plot pairs of sars_pos and other dataset
-    pos_index = labels.index('sars_pos')
-    for index in range(len(labels) - 1):
-        plt.clf()
-        fontsize = 50
-        plt.figure(figsize=(6.4 * 10, 4.8 * 10))
-        plt.title('t-SNE using Morgan fingerprint with Jaccard similarity', fontsize=2 * fontsize)
+    if 'sars_pos' in labels:
+        pos_index = labels.index('sars_pos')
+        for index in range(len(labels) - 1):
+            plt.clf()
+            fontsize = 50
+            plt.figure(figsize=(6.4 * 10, 4.8 * 10))
+            plt.title('t-SNE using Morgan fingerprint with Jaccard similarity', fontsize=2 * fontsize)
 
-        plt.scatter(X[slices[index], 0], X[slices[index], 1], s=150, color=colors[index], label=labels[index])
-        plt.scatter(X[slices[pos_index], 0], X[slices[pos_index], 1], s=450, color=colors[pos_index], label=labels[pos_index])
+            plt.scatter(X[slices[index], 0], X[slices[index], 1], s=150, color=colors[index], label=labels[index])
+            plt.scatter(X[slices[pos_index], 0], X[slices[pos_index], 1], s=450, color=colors[pos_index], label=labels[pos_index])
 
-        plt.xticks([]), plt.yticks([])
-        plt.legend(loc='upper right', fontsize=fontsize)
-        plt.savefig(save_path.replace('.png', f'_{labels[index]}.png'))
+            plt.xticks([]), plt.yticks([])
+            plt.legend(loc='upper right', fontsize=fontsize)
+            plt.savefig(save_path.replace('.png', f'_{labels[index]}.png'))
 
 
 if __name__ == '__main__':
@@ -104,6 +123,8 @@ if __name__ == '__main__':
                             '../data/sars_pos.csv',
                         ],
                         help='Path to .csv files containing smiles strings (with header)')
+    parser.add_argument('--smiles_col_name', type=str, default='smiles',
+                        help='Name of column in data containing SMILES')
     parser.add_argument('--colors', nargs='+', type=str,
                         default=[
                             'red',
@@ -113,6 +134,8 @@ if __name__ == '__main__':
                             'blue'
                         ],
                         help='Colors of the points associated with each dataset')
+    parser.add_argument('--plot_molecules', action='store_true', default=False,
+                        help='Whether to plot images of molecules instead of points')
     parser.add_argument('--max_num_per_dataset', type=int, default=10000,
                         help='Maximum number of molecules per dataset; larger datasets will be subsampled to this size')
     parser.add_argument('--save_path', type=str, default='../plots/tsne.png',

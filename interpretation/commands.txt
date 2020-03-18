@@ -1,0 +1,3 @@
+CUDA_VISIBLE_DEVICES=0 python interpret.py --data_path /data/rsg/chemistry/swansonk/coronavirus_data/data/broad_repurposing_library.csv --checkpoint_dir /data/rsg/chemistry/yangk/clean/ckpt/316_combined_corona_features_base_random_fulldata --property_id 1 --prop_delta 0.03 > /data/rsg/chemistry/swansonk/coronavirus_data/interpretation/broad_repurposing_library.csv
+
+CUDA_VISIBLE_DEVICES=1 python interpret.py --data_path /data/rsg/chemistry/swansonk/coronavirus_data/data/combined_binarized_sars.csv --checkpoint_dir /data/rsg/chemistry/yangk/clean/ckpt/316_combined_corona_features_base_random_fulldata --property_id 1 --prop_delta 0.03 > /data/rsg/chemistry/swansonk/coronavirus_data/interpretation/combined_binarized_sars_pos.csv
