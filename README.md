@@ -11,6 +11,7 @@
   - `corona_literature.csv` was generated through direct name matches at https://www.cureffi.org/wp-content/uploads/2013/10/drugs.txt
   - `corona_literature_idex.csv` was generated through the PubChem idex service and may contain multiple SMILES for generic drug names. 
   - `evaluation_set_v2.csv` is the combination of the broad repurposing library with Robert Malone's 60 reference actives, with those present in the training data removed. Reference actives are labeled as 1 while the broad library is labeled as 0. 
+  - `AID1706_binarized_sars.csv` is the training data augmented with the evaluation set's positives, for use when making final predictions for lab testing. 
 
 # 316_AID1706_preds/ 
 The most recent model predictions on each of the 3 test sets using the model trained on only the AID1706 dataset. Predictions using 5-model chemprop ensemble with no hyperparameter opt at the moment. For reference, benchmarking non-ensembled versions of this model on scaffold split (5 folds) gets 0.8383 +/- 0.0283 AUC. This model got .963 AUC on evaluation_set_v2.csv. 
