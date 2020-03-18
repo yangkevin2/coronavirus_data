@@ -21,17 +21,17 @@ with open('../raw_data/broad_smiles2cid.txt', 'r') as rf:
         broad.add(cid)
 
 training = set()
-with open('../raw_data/full_training_cid2smiles.txt', 'r') as rf:
+with open('../conversions/AID1706_training_conversions.csv', 'r') as rf:
     rf.readline()
     for line in rf:
-        cid = line.strip().split('\t')[0]
-        cid2smiles[cid] = line.strip().split('\t')[1]
+        cid = line.strip().split(',')[0]
+        cid2smiles[cid] = line.strip().split(',')[-1]
         training.add(cid)
 
 positives = reference.difference(training)
 negatives = broad.difference(reference).difference(training)
 
-with open('../data/evaluation_set_v1.csv', 'w') as wf:
+with open('../data/evaluation_set_v2.csv', 'w') as wf:
     wf.write('smiles,label\n')
     for s in positives:
         wf.write(cid2smiles[s] + ',1\n')
