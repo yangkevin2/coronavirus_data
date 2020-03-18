@@ -66,7 +66,7 @@ def compare_datasets_tsne(smiles_paths: List[str],
     makedirs(save_path, isfile=True)
 
     plt.clf()
-    scale = 30
+    scale = 10
     fontsize = 5 * scale
     fig = plt.figure(figsize=(6.4 * scale, 4.8 * scale))
     plt.title('t-SNE using Morgan fingerprint with Jaccard similarity', fontsize=2 * fontsize)
