@@ -1,0 +1,62 @@
+cid	title
+460749	3-(4-Chloro-phenyl)-1,6-dimethyl-1H-pyrimido[5,4-e][1,2,4]triazine-5,7-dione
+601670	Benzothiazole-6-carboxylic acid
+647501	1-Ethyl-6-methyl-3-phenyl-1H-pyrimido[5,4-e][1,2,4]triazine-5,7-dione
+676085	(E)-3-(2-Chlorophenyl)-N-pyridin-3-ylprop-2-enamide
+677475	2-(Benzotriazol-1-yl)-1-(4-chlorophenyl)ethanone
+741948	Benzimidazol-1-yl-(3,4-dimethylphenyl)methanone
+761840	2-(Benzotriazol-1-yl)-1-(4-bromophenyl)ethanone
+887990	3-(2-Chloro-6-fluorophenyl)-N-3-pyridinylacrylamide
+948801	4-Chloro-N-(1-methyl-1H-benzimidazol-5-yl)benzamide
+1008368	(4-Methoxyphenyl)-(2-methylsulfanyl-6,7-dihydro-[1,4]dioxino[2,3-f]benzimidazol-3-yl)methanone
+1177253	(E)-4-Phenyl-2-(3-(thiophen-2-yl)acrylamido)thiophene-3-carboxylic acid
+1304219	4-Methyl-3-[[4-(phenoxymethyl)benzoyl]carbamothioylamino]benzoic acid
+2294766	2-Hydroxy-N-[4-(2,2,3,3-tetrafluoropropoxy)-3-(trifluoromethyl)phenyl]benzamide
+2965851	3-[(5-Bromo-2-hydroxyphenyl)-(2-carboxy-1H-indol-3-yl)methyl]-1H-indole-2-carboxylic acid
+2999977	(1-Methylbenzimidazol-5-yl) 4-methylbenzoate
+4621376	Pyridin-3-yl 4-butoxybenzoate
+6602830	CID 6602830
+24817254	2-(3-Amino-3-oxopropyl)-3-(4-methylbenzoyl)-2H-indazole 1-oxide
+44634770	N-[2-(Tert-butylamino)-2-oxo-1-pyridin-3-ylethyl]-N-(4-propan-2-ylphenyl)furan-2-carboxamide
+45382022	2-(4-Acetamido-N-[2-(benzotriazol-1-yl)acetyl]anilino)-N-tert-butyl-2-thiophen-3-ylacetamide
+45382030	2-[N-[2-(Benzotriazol-1-yl)acetyl]-4-(methanesulfonamido)anilino]-N-tert-butyl-2-thiophen-3-ylacetamide
+45382031	N-[4-[[2-(Benzotriazol-1-yl)acetyl]-[2-(tert-butylamino)-2-oxo-1-thiophen-3-ylethyl]amino]phenyl]propanamide
+45382032	N-[4-[[2-(Benzotriazol-1-yl)acetyl]-[2-(tert-butylamino)-2-oxo-1-thiophen-3-ylethyl]amino]phenyl]-2-methylpropanamide
+45382033	2-(4-Amino-N-[2-(benzotriazol-1-yl)acetyl]anilino)-N-tert-butyl-2-thiophen-3-ylacetamide
+45382035	N-[4-[[2-(Benzimidazol-1-yl)acetyl]-[2-(tert-butylamino)-2-oxo-1-thiophen-3-ylethyl]amino]phenyl]propanamide
+45382036	N-[4-[[2-(Benzimidazol-1-yl)acetyl]-[2-(tert-butylamino)-2-oxo-1-thiophen-3-ylethyl]amino]phenyl]-2-methylpropanamide
+46861521	N-[4-[[2-(Benzotriazol-1-yl)acetyl]-[2-(tert-butylamino)-2-oxo-1-thiophen-3-ylethyl]amino]phenyl]-2,2-dimethylpropanamide
+46861522	N-[4-[[2-(Benzotriazol-1-yl)acetyl]-[2-(tert-butylamino)-2-oxo-1-thiophen-3-ylethyl]amino]phenyl]cyclopropanecarboxamide
+46861524	N-[4-[[2-(Benzotriazol-1-yl)acetyl]-[2-(tert-butylamino)-2-oxo-1-thiophen-3-ylethyl]amino]phenyl]cyclohexanecarboxamide
+46861525	N-[4-[[2-(Benzotriazol-1-yl)acetyl]-[2-(tert-butylamino)-2-oxo-1-thiophen-3-ylethyl]amino]phenyl]-1,2-oxazole-5-carboxamide
+46861529	N-(4-(2-(1H-Benzo[d][1,2,3]triazol-1-yl)-N-(thiophen-3-ylmethyl)acetamido)phenyl)pivalamide
+46861531	N-[4-[[2-(Benzotriazol-1-yl)acetyl]-(thiophen-3-ylmethyl)amino]phenyl]cyclobutanecarboxamide
+46861531	N-[4-[[2-(Benzotriazol-1-yl)acetyl]-(thiophen-3-ylmethyl)amino]phenyl]cyclobutanecarboxamide
+46861533	N-[4-[[2-(Benzotriazol-1-yl)acetyl]-(thiophen-3-ylmethyl)amino]phenyl]-2-methylpropanamide
+46897830	N-[2-(Tert-butylamino)-2-oxo-1-pyrimidin-5-ylethyl]-N-(4-tert-butylphenyl)-1H-imidazole-5-carboxamide;2,2,2-trifluoroacetic acid
+46897835	N-[2-(Tert-butylamino)-2-oxo-1-pyridin-3-ylethyl]-N-(4-tert-butylphenyl)-5-chlorofuran-2-carboxamide;2,2,2-trifluoroacetic acid
+46897837	N-[2-(Tert-butylamino)-2-oxo-1-pyridin-3-ylethyl]-N-(4-tert-butylphenyl)-1,3-oxazole-2-carboxamide;2,2,2-trifluoroacetic acid
+46897839	N-(4-Butan-2-ylphenyl)-N-[(1S)-2-(tert-butylamino)-2-oxo-1-pyridin-3-ylethyl]furan-2-carboxamide;2,2,2-trifluoroacetic acid
+46897844	N-[(1R)-2-(Tert-butylamino)-2-oxo-1-(3-pyridinyl)ethyl]-N-(4-tert-butylphenyl)-2-furancarboxamide
+46897845	2-(4-Acetamido-N-[2-(benzotriazol-1-yl)acetyl]anilino)-N-tert-butyl-2-(3-fluorophenyl)acetamide
+46897848	2-(4-Acetamido-N-[2-(benzotriazol-1-yl)acetyl]anilino)-N-benzyl-2-(3-fluorophenyl)acetamide
+49849272	N-[4-[[2-(Benzotriazol-1-yl)acetyl]-[2-(benzylamino)-1-(3-fluorophenyl)-2-oxoethyl]amino]phenyl]-2-methylpropanamide
+49849273	N-[4-[[2-(Benzotriazol-1-yl)acetyl]-[2-(benzylamino)-1-(3-fluorophenyl)-2-oxoethyl]amino]phenyl]cyclopropanecarboxamide
+49849274	N-[4-[[2-(Benzotriazol-1-yl)acetyl]-[2-(benzylamino)-1-(3-fluorophenyl)-2-oxoethyl]amino]phenyl]cyclobutanecarboxamide
+51003635	N-[2-(Tert-butylamino)-2-oxo-1-pyridazin-4-ylethyl]-N-(4-tert-butylphenyl)furan-2-carboxamide
+51003636	N-[2-(Tert-butylamino)-2-oxo-1-pyrazin-2-ylethyl]-N-(4-tert-butylphenyl)furan-2-carboxamide
+51003640	N-[2-(Tert-butylamino)-2-oxo-1-pyridin-4-ylethyl]-N-(4-tert-butylphenyl)furan-2-carboxamide;2,2,2-trifluoroacetic acid
+51003642	N-[2-(Tert-butylamino)-2-oxo-1-pyridin-3-ylethyl]-N-(4-tert-butylphenyl)-1-methylimidazole-4-carboxamide;2,2,2-trifluoroacetic acid
+51003644	N-[(1S)-2-(Tert-butylamino)-2-oxo-1-pyridin-3-ylethyl]-N-(4-tert-butylphenyl)-1H-imidazole-5-carboxamide;2,2,2-trifluoroacetic acid
+51003649	N-(4-Benzylphenyl)-N-[2-(tert-butylamino)-2-oxo-1-pyridin-3-ylethyl]furan-2-carboxamide;2,2,2-trifluoroacetic acid
+53308707	N-[2-(Tert-butylamino)-2-oxo-1-pyridin-3-ylethyl]-N-(4-iodophenyl)furan-2-carboxamide;2,2,2-trifluoroacetic acid
+53308709	N-[2-(Tert-butylamino)-2-oxo-1-pyridin-3-ylethyl]-N-(4-phenylmethoxyphenyl)furan-2-carboxamide;2,2,2-trifluoroacetic acid
+53308715	N-[2-(Tert-butylamino)-2-oxo-1-pyridin-3-ylethyl]-N-(4-pyridin-3-ylphenyl)furan-2-carboxamide;2,2,2-trifluoroacetic acid
+53308717	N-[2-(Tert-butylamino)-2-oxo-1-pyridin-3-ylethyl]-N-[4-(2,3-difluorophenyl)phenyl]furan-2-carboxamide;2,2,2-trifluoroacetic acid
+53308719	N-[2-(Tert-butylamino)-2-oxo-1-pyridin-3-ylethyl]-N-(4-pyrimidin-5-ylphenyl)furan-2-carboxamide;2,2,2-trifluoroacetic acid
+53308723	Tert-butyl 2-[4-[[2-(tert-butylamino)-2-oxo-1-pyridin-3-ylethyl]-(furan-2-carbonyl)amino]phenyl]pyrrole-1-carboxylate;2,2,2-trifluoroacetic acid
+53308727	N-[2-(Tert-butylamino)-2-oxo-1-pyridin-3-ylethyl]-N-[4-(3-methoxyphenoxy)phenyl]furan-2-carboxamide;2,2,2-trifluoroacetic acid
+53308729	N-[2-(Tert-butylamino)-2-oxo-1-pyridin-3-ylethyl]-N-[4-(3,5-dimethyl-1,2-oxazol-4-yl)phenyl]furan-2-carboxamide;2,2,2-trifluoroacetic acid
+53308733	N-[2-(Tert-butylamino)-2-oxo-1-pyridin-3-ylethyl]-N-(4-phenylphenyl)furan-2-carboxamide;2,2,2-trifluoroacetic acid
+69361347	N-[4-[[2-(Benzotriazol-1-yl)acetyl]-(thiophen-3-ylmethyl)amino]phenyl]cyclopropanecarboxamide;2,2,2-trifluoroacetic acid
+135472652	5-Bromo-N-[(Z)-(2-hydroxynaphthalen-1-yl)methylideneamino]pyridine-3-carboxamide
