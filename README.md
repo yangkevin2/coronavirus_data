@@ -10,9 +10,14 @@
 - `corona_literature.csv` and `corona_literature_idex.csv` contain FDA-approved drugs that have been studied in the (generic) coronavirus literature. These are not guaranteed to be effective against any targets; they simply appear in the literature. 
   - `corona_literature.csv` was generated through direct name matches at https://www.cureffi.org/wp-content/uploads/2013/10/drugs.txt
   - `corona_literature_idex.csv` was generated through the PubChem idex service and may contain multiple SMILES for generic drug names. 
+  - `evaluation_set_v1.csv` is the combination of the broad repurposing library with Robert Malone's 60 reference actives, with those present in the training data removed. Reference actives are labeled as 1 while the broad library is labeled as 0. 
+  - `individual_AID_test_sets` contains the test set corresponding to scaffold split 0 (see splits/ below) for each of the individual AID datasets.
 
-# 317_corona_preds/ 
-The most recent model predictions on each of the 3 test sets using the model trained on the combined 3 AID datasets. Predictions using only a single model with no hyperparameter opt or ensembling at the moment. For reference, benchmarking this model on scaffold split (5 folds) gets ~0.71 AUC. 
+# 317_combined_dataset_preds/ 
+The most recent model predictions on each of the 3 test sets using the model trained on the combined 3 AID datasets. Predictions using only a single model with no hyperparameter opt or ensembling at the moment. For reference, benchmarking this model on scaffold split (5 folds) gets 0.7183 +/- 0.0095 AUC. 
+
+# 316_AID1706only_preds/ 
+The most recent model predictions on each of the 3 test sets using the model trained on only the AID1706 dataset. Predictions using only a single model with no hyperparameter opt or ensembling at the moment. For reference, benchmarking this model on scaffold split (5 folds) gets 0.7183 +/- 0.0095 AUC. If we decide that the AID485353 and AID652038 datasets aren't needed, we should go with these predictions. (This model got .963 AUC on evaluation_set_v1.csv, compared to .893 for the combined-data model.)
 
 # conversions/
 Files for converting between smiles/cid/name. Obtained from https://pubchem.ncbi.nlm.nih.gov/idexchange/idexchange.cgi
