@@ -1,0 +1,277 @@
+﻿Crystal ID,DatasetCluster,Library Name,Compound SMILES,Modified Compound SMILES,CompoundCode,Status,Site,initial occupancy estimate,peak-height z-value,Map Resol,Confidence annotation
+Mpro-x0072,2,DSIpoised_DMSO,CS(=O)(=O)NCCC=1C=CC=CC1,,Z45617795,Deposited,A - active,0.4,4.24,1.66,High 
+Mpro-x0104,0,DSIpoised_DMSO,CC(=O)NCCC1=CNC=2C=CC(F)=CC12,,Z1220452176,Deposited,A - active,0.78,5.07,1.61,High 
+Mpro-x0107,,DSIpoised_DMSO,CC(=O)NC=1C=NC=CC1C,,Z1129283193,Deposition ready,A - active,0.36,3.77,1.93,High 
+Mpro-x0161,0,DSIpoised_DMSO,COC(=O)C=1C=CC(=CC1)S(=O)(=O)N,,Z18197050,Deposited,A - active,0.86,5.92,1.98,High 
+Mpro-x0195,2,DSIpoised_DMSO,CN1CCCC=2C=CC(=CC12)S(=O)(=O)N,,Z1367324110,Deposited,A - active,0.41,5.49,1.98,High 
+Mpro-x0305,2,DSIpoised_DMSO,CCNC=1C=CC(C#N)=CN1,,Z219104216,Deposited,A - active,0.5,5.58,1.47,High 
+Mpro-x0354,2,DSIpoised_DMSO,CN1CCN(CC1)C(=O)COC=2C=CC(C)=CC2,,Z2856434836,Deposition ready,A - active,0.58,4.27,1.73,High 
+Mpro-x0387,,DSIpoised_DMSO,OC1CCN(CC=2C=CSC2)CC1,,Z2856434899,Deposition ready,A - active,0.3,6.65,1.72,Low 
+Mpro-x0434,1,DSIpoised_DMSO,O=C(NC=1C=CC=CC1)NC=2C=CC=NC2,,Z44592329,Deposited,A - active,0.84,6.35,1.61,High 
+Mpro-x0540,3,DSIpoised_DMSO,O=C(NCCC=1C=CN=CC1)NC2CCCCC2,,Z111507846,Deposition ready,A - active,0.48,4.84,1.80,High 
+Mpro-x0678,2,DSIpoised_DMSO,O=C(CC1CCCCC1)NC=2C=CC=NC2,,Z31792168,Deposited,A - active,0.78,5.83,1.83,High 
+Mpro-x0874,,Probing fragment all,O=C([C@@H]1[C@H](C2=CSC=C2)CCC1)N,,POB0129,Deposition ready,A - active,0.28,6.44,1.82,High 
+Mpro-x0946,,Probing fragment all,BrC1=CC=C(S(N)(=O)=O)C=C1,,NCL-00023830,Deposition ready,A - active,0.45,7.64,1.82,High 
+Mpro-x0991,,Probing fragment all,Cl.CCC(=N)N,CCC(=N)N,Z1741969146,Deposition ready,A - active,0.21,5.84,1.57,High 
+Mpro-x0995,3,Probing fragment all,NC=1C=NC=NC1,,Z1741970824,Deposition ready,A - active,0.3,7.07,1.52,High 
+Mpro-x1077,,DSIpoised_DMSO,N#CC=1C=CC(=CN1)N2CCCOCC2,,Z1348371854,Deposition ready,A - active,0.23,5.61,1.82,High 
+Mpro-x1093,3,DSIpoised_DMSO,CN1CCN(CC1)C(=O)CC1=CNC2=NC=CC=C12,,Z1400780201 ,Deposition ready,A - active,0.38,6.40,1.62,High 
+Mpro-x1249,3,DSIpoised_DMSO,O=C(NCC=1C=CC(C#N)=CC1)N2CCOCC2,,Z509756472,Deposition ready,A - active,0.21,4.78,1.52,High 
+Mpro-x0967,,Probing fragment all,CC(=O)NC(Cc1ccc(cc1)O)C(=O)NCC#CBr,,NCL-00024905,Deposition ready,A - active,0.58,6.41,1.66,High 
+Mpro-x0689,3,CovLibrary,ClCC(=O)N1CCN(CC1)S(=O)(=O)c2cccs2,CC(=O)N1CCN(CC1)S(=O)(=O)c2cccs2,PCM-0102241,Deposition ready,B - active - covalent,0.36,5.86,1.75,High 
+Mpro-x0691,,CovLibrary,Fc1cccc(c1)S(=O)(=O)N2CCN(CC2)C(=O)CCl,Fc1cccc(c1)S(=O)(=O)N2CCN(CC2)C(=O)C,PCM-0102327,Deposition ready,B - active - covalent,0.35,3.80,1.76,High 
+Mpro-x0692,,CovLibrary,Cc1cccc(CN2CCN(CC2)C(=O)CCl)c1,Cc1cccc(CN2CCN(CC2)C(=O)C)c1,PCM-0102340,Deposition ready,B - active - covalent,0.33,4.64,1.66,High 
+Mpro-x0734,,CovLibrary,[O-][N+](=O)c1ccccc1N2CCN(CC2)C(=O)CCl,[O-][N+](=O)c1ccccc1N2CCN(CC2)C(=O)C,PCM-0103016,Deposition ready,B - active - covalent,0.25,5.41,1.97,Low 
+Mpro-x0749,3,CovLibrary,ClCC(=O)N1CCCC(C1)c2nc3ccccc3s2,CC(=O)N1CCCC(C1)c2nc3ccccc3s2,PCM-0102425,Deposition ready,B - active - covalent,0.37,5.33,2.20,Low 
+Mpro-x0752,3,CovLibrary,ClCC(=O)NCc1ccc2OCOc2c1,CC(=O)NCc1ccc2OCOc2c1,PCM-0102578,Deposition ready,B - active - covalent,0.37,4.37,1.91,High 
+Mpro-x0755,,CovLibrary,Fc1cccc(F)c1S(=O)(=O)N2CCN(CC2)C(=O)CCl,Fc1cccc(F)c1S(=O)(=O)N2CCN(CC2)C(=O)C,PCM-0102201,Deposition ready,B - active - covalent,0.36,4.57,1.86,High 
+Mpro-x0759,3,CovLibrary,Fc1ccc(cc1)C2CN(CCO2)C(=O)CCl,Fc1ccc(cc1)C2CN(CCO2)C(=O)C,PCM-0102615,Deposition ready,B - active - covalent,0.4,5.59,1.91,High 
+Mpro-x0769,3,CovLibrary,Fc1ccccc1S(=O)(=O)N2CCN(CC2)C(=O)CCl,Fc1ccccc1S(=O)(=O)N2CCN(CC2)C(=O)C,PCM-0102281,Deposition ready,B - active - covalent,0.41,5.28,1.99,High 
+Mpro-x0770,,CovLibrary,ClCC(=O)N1CCN(Cc2cccc(Cl)c2)CC1,CC(=O)N1CCN(Cc2cccc(Cl)c2)CC1,PCM-0102269,Deposition ready,B - active - covalent,0.33,4.23,1.83,High 
+Mpro-x0774,3,CovLibrary,ClCC(=O)N1CCN(CC1)S(=O)(=O)c2ccccc2C#N,CC(=O)N1CCN(CC1)S(=O)(=O)c2ccccc2C#N,PCM-0102395,Deposition ready,B - active - covalent,0.31,5.83,1.69,High 
+Mpro-x0786,3,CovLibrary,ClCC(=O)Nc1cccc(c1)C(=O)N2CCSCC2,ClCC(=O)Nc1cccc(c1)C(=O)N2CCSCC2,PCM-0103072,Deposition ready,B - active - covalent,0.24,5.77,1.62,High 
+Mpro-x0820,,CovLibrary,CC(NC(=O)CCl)c1cccc2ccccc12,CC(NC(=O)C)c1cccc2ccccc12,PCM-0102275,Deposition ready,B - active - covalent,0.26,6.71,1.66,Low 
+Mpro-x0830,3,CovLibrary,ClCC(=O)N1CCN(Cc2cccc3ccccc23)CC1,CC(=O)N1CCN(Cc2cccc3ccccc23)CC1,PCM-0102287,Deposition ready,B - active - covalent,0.4,4.96,2.09,High 
+Mpro-x0831,3,CovLibrary,Cc1ccccc1CN2CCCN(CC2)C(=O)CCl,Cc1ccccc1CN2CCCN(CC2)C(=O)C,PCM-0102911,Deposition ready,B - active - covalent,0.43,5.43,1.99,High 
+Mpro-x1308,3,CovLibrary,ClCC(=O)N1CCN(CC1)S(=O)(=O)c2ccc(Cl)cc2,CC(=O)N1CCN(CC1)S(=O)(=O)c2ccc(Cl)cc2,PCM-0102704,Deposition ready,B - active - covalent,0.38,6.28,1.80,High 
+Mpro-x1311,3,CovLibrary,ClCC(=O)N(C1CS(=O)(=O)C=C1)c2ccccc2,CC(=O)N(C1CS(=O)(=O)C=C1)c2ccccc2,PCM-0102372,Deposition ready,B - active - covalent,0.53,4.88,2.39,High 
+Mpro-x1334,,CovLibrary,ClCC(=O)N1CCN(Cc2ccc(Cl)s2)CC1,CC(=O)N1CCN(Cc2ccc(Cl)s2)CC1,PCM-0102277,Deposition ready,B - active - covalent,0.3,5.07,1.82,High 
+Mpro-x1336,3,CovLibrary,Cc1ccc(C)c(c1)S(=O)(=O)N2CCN(CC2)C(=O)CCl,Cc1ccc(C)c(c1)S(=O)(=O)N2CCN(CC2)C(=O)C,PCM-0102353,Deposition ready,B - active - covalent,0.4,7.09,1.69,High 
+Mpro-x1348,3,CovLibrary,COc1cccc2sc(NC(=O)CCl)nc12,COc1cccc2sc(NC(=O)C)nc12,PCM-0103067,Deposition ready,B - active - covalent,0.37,7.18,1.80,High 
+Mpro-x1351,3,CovLibrary,ClCC(=O)N1CCC(CC1)NC(=O)c2ccccc2,CC(=O)N1CCC(CC1)NC(=O)c2ccccc2,PCM-0102575,Deposition ready,B - active - covalent,0.35,4.76,1.75,High 
+Mpro-x1358,3,CovLibrary,Oc1ccccc1NC(=O)C2CCN(CC2)C(=O)CCl,Oc1ccccc1NC(=O)C2CCN(CC2)C(=O)C,PCM-0102389,Deposition ready,B - active - covalent,0.3,5.08,1.69,High 
+Mpro-x1374,,CovLibrary,Cc1ccc(cc1)N(C2CS(=O)(=O)C=C2)C(=O)CCl,Cc1ccc(cc1)N(C2CS(=O)(=O)C=C2)C(=O)C,PCM-0102539,Deposition ready,B - active - covalent,0.24,6.57,2.07,Low 
+Mpro-x1375,3,CovLibrary,Fc1ccc(cc1)N(C2CS(=O)(=O)C=C2)C(=O)CCl,Fc1ccc(cc1)N(C2CS(=O)(=O)C=C2)C(=O)C,PCM-0102868,Deposition ready,B - active - covalent,0.36,6.33,1.80,High 
+Mpro-x1380,,CovLibrary,ClCC(=O)N1CCC(CC1)C(=O)N2CCCCC2,CC(=O)N1CCC(CC1)C(=O)N2CCCCC2,PCM-0102972,Deposition ready,B - active - covalent,0.37,5.37,1.87,Low 
+Mpro-x1382,3,CovLibrary,CC(NC(=O)CCl)c1cccc(Cl)c1,CC(NC(=O)C)c1cccc(Cl)c1,PCM-0102190,Deposition ready,B - active - covalent,0.52,5.74,2.09,High 
+Mpro-x1384,,CovLibrary,ClCC(=O)Nc1cccc(c1)N2CCCC2=O,CC(=O)Nc1cccc(c1)N2CCCC2=O,PCM-0102179,Deposition ready,B - active - covalent,0.35,5.48,1.83,High 
+Mpro-x1385,3,CovLibrary,ClCC(=O)N1CCN(Cc2ccc(Br)s2)CC1,CC(=O)N1CCN(Cc2ccc(Br)s2)CC1,PCM-0102169,Deposition ready,B - active - covalent,0.32,4.54,1.75,High 
+Mpro-x1386,3,CovLibrary,ClCC(=O)N1CCN(Cc2ccsc2)CC1,CC(=O)N1CCN(Cc2ccsc2)CC1,PCM-0102739,Deposition ready,B - active - covalent,0.36,5.92,1.75,High 
+Mpro-x1392,3,CovLibrary,ClCC(=O)N1CC(c2ccccc2)c3ccccc3C1,CC(=O)N1CC(c2ccccc2)c3ccccc3C1,PCM-0102432,Deposition ready,B - active - covalent,0.32,5.46,1.62,High 
+Mpro-x1402,,CovLibrary,ClCC(=O)N1CCN(CC1)S(=O)(=O)c2ccc(Cl)s2,CC(=O)N1CCN(CC1)S(=O)(=O)c2ccc(Cl)s2,PCM-0102121,Deposition ready,B - active - covalent,0.33,5.65,1.66,High 
+Mpro-x1412,,CovLibrary,ClCC(=O)N1CCN(CC1)C(=O)c2cccs2,ClCC(=O)N1CCN(CC1)C(=O)c2cccs2,PCM-0102306,Deposition ready,B - active - covalent,0.29,5.28,1.66,High 
+Mpro-x1418,,CovLibrary,ClCC(=O)N1CCN(Cc2cccs2)CC1,CC(=O)N1CCN(Cc2cccs2)CC1,PCM-0102243,Deposition ready,B - active - covalent,0.36,4.71,1.83,High 
+Mpro-x1425,,CovLibrary,COc1ccc(cc1)N2CCN(CC2)C(=O)CCl,COc1ccc(cc1)N2CCN(CC2)C(=O)C,PCM-0102254,Deposition ready,B - active - covalent,0.36,5.71,1.66,High 
+Mpro-x1458,,CovLibrary,CC(C)N(C)C(=O)C1CCN(CC1)C(=O)CCl,CC(C)N(C)C(=O)C1CCN(CC1)C(=O)C,PCM-0102974,Deposition ready,B - active - covalent,0.37,6.43,1.92,High 
+Mpro-x1478,,CovLibrary,ClCC(=O)Nc1cccnc1Cl,CC(=O)Nc1cccnc1Cl,PCM-0102274,Deposition ready,B - active - covalent,0.29,8.35,1.72,High 
+Mpro-x1493,3,CovLibrary,CC(=O)N1CCN(CC1)C(=O)CCl,CC(=O)N1CCN(CC1)C(=O)C,PCM-0102535,Deposition ready,B - active - covalent,0.33,5.46,1.75,High 
+Mpro-x0978,,Probing fragment all,C[C@H](O)[C@H](NC(=O)C)C(=O)NCC#CBr,,NCL-00025058,Deposition ready,B - active - covalent,0.58,7.42,1.66,High 
+Mpro-x0981,,Probing fragment all,CC(NC(CC(N)=O)C(NCC#CBr)=O)=O,,NCL-00025412 ,Deposition ready,B - active - covalent,0.56,5.26,1.61,High 
+Mpro-x0887,,Probing fragment all,OCC1(C2=NC=CC=C2)CCCC1,,POB0073,Deposition ready,C - dimer - K137,0.26,5.65,1.66,High 
+Mpro-x1187,3,DSIpoised_DMSO,CN1C=CC(=N1)C(=O)NC[C@@H]2CCCO2,,Z2643472210,Deposition ready,C - dimer - M6,0.19,6.26,1.52,High 
+Mpro-x1012,,Probing fragment all,OC1CS(=O)(=O)C1,,Z3241250482,Deposition ready,D - surface - E178 ,0.29,5.22,1.82,High 
+Mpro-x0390,,DSIpoised_DMSO,OC=1C=CC=CC1CNC2=NC=3C=CC=CC3N2,,Z1587220559,Deposition ready,D - surface - E240,0.36,5.10,1.76,High 
+Mpro-x0464,3,DSIpoised_DMSO,CC1C(O)CCCN1CC=2C=CC=CC2,,Z2217052426,Deposition ready,D - surface - E240,0.36,6.24,1.80,High 
+Mpro-x0398,2,DSIpoised_DMSO,C(CN1CCOCC1)SC=2C=CC=CC2,,Z2856434865,Deposition ready,X - xtal contact - E178 ,0.6,5.56,1.55,High 
+Mpro-x0669,,DSIpoised_DMSO,ClC=1C=CC=C(CN2CCOCC2)C1,,Z2856434856,Deposition ready,X - xtal contact - E178 ,0.24,6.15,1.82,Low 
+Mpro-x0478,3,DSIpoised_DMSO,COC(=O)C=1C=CC=C(NS(=O)(=O)C)C1,,Z24758179,Deposition ready,X - xtal contact - F294,0.35,5.58,1.62,High 
+Mpro-x0177,3,DSIpoised_DMSO,NC(=O)C1CCN(CC1)C(=O)NC=2C=CC=CC2,,Z33545544,Deposition ready,X - xtal contact - H80,0.38,4.26,2.09,High 
+Mpro-x0194,3,DSIpoised_DMSO,CC(=O)NC=1C=CC(OC=2N=CC=CN2)=CC1,,Z54571979,Deposition ready,X - xtal contact - H80,0.36,5.32,1.91,High 
+Mpro-x1226,,DSIpoised_DMSO,CCNCC1=CN(C)N=N1,,Z1271660837,Deposition ready,X - xtal contact - H80,0.21,5.44,1.66,High 
+Mpro-x1235,3,DSIpoised_DMSO,COC(=O)NC=1SC(C)=NC1C=2C=CC=CC2,,Z979145504,Deposition ready,X - xtal contact - H80,0.24,7.05,1.52,High 
+Mpro-x0350,,DSIpoised_DMSO,FC=1C=CC=C(CNCC2=CC=CO2)C1,,Z2737076969,Deposition ready,X - xtal contact - K12-D33,0.5,4.97,1.83,High 
+Mpro-x1002,3,Probing fragment all,OC=1C=CC=CN1,,Z1741982125,Deposition ready,X - xtal contact - K12-D33,0.22,4.88,1.62,High 
+Mpro-x1132,,DSIpoised_DMSO,CC1CN(CCO1)C(=O)CN2C=CC=N2,,Z217038356,Deposition ready,X - xtal contact - K12-D33,0.2,5.77,1.66,High 
+Mpro-x1237,,DSIpoised_DMSO,CS(=O)(=O)CC1=NC=2C=CC=CC2N1,,Z126932614,Deposition ready,X - xtal contact - K12-D33,0.17,4.35,1.47,Low 
+Mpro-x0499,2,DSIpoised_DMSO,NC(=O)C=1C=CC(NC(=O)[C@@H]2CCCO2)=CC1,,Z1545313172,Deposition ready,X - xtal contact - R105,0.46,5.24,1.70,High 
+Mpro-x1119,,DSIpoised_DMSO,NC=1C=CC(=CC1)S(=O)(=O)NC=2C=CC=CN2,,Z271004858,Deposition ready,X - xtal contact - R188,0.26,7.09,1.66,High 
+Mpro-x0376,2,DSIpoised_DMSO,O=C(N1CCCCCC1)C=2C=CC=3OCOC3C2,,Z31432226,Deposition ready,X - xtal contact - R279,0.52,4.50,1.66,High 
+Mpro-x0336,2,DSIpoised_DMSO,CC(=O)NCC=1C=CC(=CC1)S(=O)(=O)N,,Z30932204,Deposition ready,X - xtal contact - W31,0.59,6.01,1.79,High 
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
