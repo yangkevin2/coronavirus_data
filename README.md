@@ -41,3 +41,74 @@ Original raw data files and format conversions.
 
 # old/
 Older versions of files from when we combined AID1706 data with other data that was unhelpful. 
+
+# Experiment Commands
+
+These commands are for running experiments using [chemprop](https://github.com/chemprop/chemprop) and should be run from the main directory in the chemprop repo. You made need to modify some paths (such as `save_dir`) depending on your directory structure.
+
+## Generating RDKit features
+
+To speed up experiments, you can pre-generate RDKit features using the script `save_features.py` in `chemprop/scripts`. You should run these two commands:
+
+```
+python save_features.py
+    --data_path ../../coronavirus_data/data/AID1706_binarized_sars.csv \
+    --save_path ../../coronavirus_data/features/AID1706_binarized_sars.csv \
+    --features_generator rdkit_2d_normalized
+```
+
+```
+python save_features.py
+    --data_path ../../coronavirus_data/data/evaluation_set_v2.csv \
+    --save_path ../../coronavirus_data/features/evaluation_set_v2.csv \
+    --features_generator rdkit_2d_normalized
+```
+
+By default this will run feature generation using parallel processing. On occasion the parallel processing gets stuck near the end of feature generation, so if this happens, just kill the process and restart with the `--sequential` flag. This will pick up where the parallel version stopped and will finish correctly.
+
+
+## Training and testing on AID1706
+
+Train and test on 80%/10%/10% scaffold split of AID1706.
+
+```
+python train.py \
+    --data_path ../coronavirus_data/data/AID1706_binarized_sars.csv \
+    --dataset_type classification \
+    --save_dir ../coronavirus_data/ckpt/AID1706 \
+    --features_path ../coronavirus_data/features/AID1706_binarized_sars.npz \
+    --no_features_scaling \
+    --split_type scaffold_balanced \
+    --num_folds 5 \
+    --quiet
+```
+
+## Training on AID1706 and testing on Broad/external validation set
+
+Train on 90%/10%/0% random split of AID1706 and test on combined Broad/external validation set where the external validation molecules are treated as positives and the Broad molecules are treated as negatives.
+
+```
+python train.py \
+    --data_path ../coronavirus_data/data/AID1706_binarized_sars.csv \
+    --dataset_type classification \
+    --save_dir ../coronavirus_data/ckpt/AID1706 \
+    --features_path ../coronavirus_data/features/AID1706_binarized_sars.npz \
+    --no_features_scaling \
+    --split_sizes 0.9 0.1 0.0 \
+    --num_folds 5 \
+    --quiet
+```
+
+```
+python train.py \
+    --data_path ../coronavirus_data/data/evaluation_set_v2.csv \
+    --dataset_type classification \
+    --features_path ../coronavirus_data/features/evaluation_set_v2.npz \
+    --no_features_scaling \
+    --quiet \
+    --test
+```
+
+## Class balance
+
+To run experiments with class balance, switch to the `class_weights` branch of chemprop (`git checkout class_weights`) and add the `--class_balance` flag during training.
