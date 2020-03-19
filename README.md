@@ -69,7 +69,7 @@ By default this will run feature generation using parallel processing. On occasi
 
 ## Training and testing on AID1706
 
-Train and test on 80%/10%/10% scaffold split of AID1706.
+Train and test on 5-fold CV, scaffold-based splits, of AID1706 (you need to unzip AID1706_splits.zip).
 
 ```
 python train.py \
@@ -78,10 +78,14 @@ python train.py \
     --save_dir ../coronavirus_data/ckpt/AID1706 \
     --features_path ../coronavirus_data/features/AID1706_binarized_sars.npz \
     --no_features_scaling \
-    --split_type scaffold_balanced \
-    --num_folds 5 \
+    --split_type predetermined \
+    --folds_file ../coronavirus_data/splits/scaffold/split_0.pkl \
+    --val_fold_index 1 \
+    --test_fold_index 2 \
     --quiet
 ```
+
+and repeat for each of the 5 splits (numbered 0 to 4). 
 
 ## Training on AID1706 and testing on Broad/external validation set
 
