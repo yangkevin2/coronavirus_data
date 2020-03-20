@@ -27,7 +27,7 @@ SARS-CoV-2 data
 Original raw data files and format conversions. 
 
 ## plots/
-t-SNE plots comparing the datasets.
+t-SNE plots comparing the datasets. Note that in the plots, "sars_pos" and "sars_neg" refer to any hits or non-hits, respectively, across both AID1706_binarized_sars.csv and PLpro.csv.
 
 ## conversions/
 Files for converting between smiles/cid/name. Obtained from https://pubchem.ncbi.nlm.nih.gov/idexchange/idexchange.cgi
