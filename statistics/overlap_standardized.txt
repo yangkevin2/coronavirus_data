@@ -1,3 +1,11 @@
+# Statistics comparing the overlap of standardized SMILES strings between the following datasets:
+# - AID1706 hits (sars_pos)
+# - AID1706 non-hits (sars_neg)
+# - broad_repurposing_library
+# - external_library
+# - expanded_external_library
+# Created with https://github.com/yangkevin2/coronavirus_data/blob/master/scripts/overlap.py
+
 sars_pos num molecules = 405
 sars_neg num molecules = 289,103
 sars_pos and sars_neg intersection = 1
