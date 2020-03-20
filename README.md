@@ -7,8 +7,7 @@
 - the test sets we want to predict on for now are:
   - `broad_repurposing_library.csv`, `external_library.csv` (the 866 molecules that Robert Malone sent us)
   - `expanded_external_library.csv` (the ~2500 molecules that Robert Malone sent us afterward, which don't seem to be a superset of the previous).
-- `corona_literature.csv` and `corona_literature_idex.csv` contain FDA-approved drugs that have been studied in the (generic) coronavirus literature. These are not guaranteed to be effective against any targets; they simply appear in the literature. 
-  - `corona_literature.csv` was generated through direct name matches at https://www.cureffi.org/wp-content/uploads/2013/10/drugs.txt
+- `corona_literature_idex.csv` contain FDA-approved drugs that have been studied in the (generic) coronavirus literature. These are not guaranteed to be effective against any targets; they simply appear in the literature. 
   - `corona_literature_idex.csv` was generated through the PubChem idex service and may contain multiple SMILES for generic drug names. 
   - `evaluation_set_v2.csv` is the combination of the broad repurposing library with Robert Malone's 60 reference actives, with those present in the training data removed. Reference actives are labeled as 1 while the broad library is labeled as 0. 
   - `AID1706_binarized_sars.csv` is the training data augmented with the evaluation set's positives, for use when making final predictions for lab testing. 
