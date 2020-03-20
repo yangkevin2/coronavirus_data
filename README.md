@@ -12,7 +12,7 @@
   - `corona_literature_idex.csv` was generated through the PubChem idex service and may contain multiple SMILES for generic drug names. 
   - `evaluation_set_v2.csv` is the combination of the broad repurposing library with Robert Malone's 60 reference actives, with those present in the training data removed. Reference actives are labeled as 1 while the broad library is labeled as 0. 
   - `AID1706_binarized_sars.csv` is the training data augmented with the evaluation set's positives, for use when making final predictions for lab testing. 
-  - `mpro_xchem_all.csv` is ~1200 molecules with 78 hits on SARS-CoV-2 Mpro/3CLpro from https://www.diamond.ac.uk/covid-19/for-scientists/Main-protease-structure-and-XChem/Downloads.html
+  - `mpro_xchem.csv` is 1233 molecules with 78 hits on SARS-CoV-2 Mpro/3CLpro from https://www.diamond.ac.uk/covid-19/for-scientists/Main-protease-structure-and-XChem/Downloads.html
   - `PLpro.csv` contains training data for the PLpro target combined from the AID485353 and AID652038 datasets. 
 
 # 316_AID1706_preds/ 
