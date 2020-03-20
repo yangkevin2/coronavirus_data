@@ -107,8 +107,10 @@ python train.py \
 python train.py \
     --data_path ../coronavirus_data/data/evaluation_set_v2.csv \
     --dataset_type classification \
+    --checkpoint_dir ../coronavirus_data/ckpt/AID1706 \
     --features_path ../coronavirus_data/features/evaluation_set_v2.npz \
     --no_features_scaling \
+    --split_sizes 0 0 1 \
     --quiet \
     --test
 ```
