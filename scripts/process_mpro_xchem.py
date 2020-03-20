@@ -20,7 +20,7 @@ if __name__ == '__main__':
     parser = ArgumentParser()
     parser.add_argument('--data_path', type=str, default='../raw_data/mpro_xchem_all.csv',
                         help='Path to raw data')
-    parser.add_argument('--save_path', type=str, default='../data/mpro_xchem_all.csv',
+    parser.add_argument('--save_path', type=str, default='../data/mpro_xchem.csv',
                         help='Path where processed data will be saved')
     args = parser.parse_args()
 
