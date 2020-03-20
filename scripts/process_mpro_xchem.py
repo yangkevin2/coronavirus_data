@@ -12,7 +12,7 @@ def process(data_path: str, save_path: str):
     data = data[data['CompoundSMILES'].notna() & data['RefinementOutcome'].isin(['5 - Deposition ready', '6 - Deposited', '7 - Analysed & Rejected'])].copy()
     data.loc[data['RefinementOutcome'] != '7 - Analysed & Rejected', 'RefinementOutcome'] = '1'
     data.loc[data['RefinementOutcome'] == '7 - Analysed & Rejected', 'RefinementOutcome'] = '0'
-    data.rename(columns={'CompoundSMILES': 'smiles'})
+    data = data.rename(columns={'CompoundSMILES': 'smiles', 'RefinementOutcome': 'activity'})
     data.to_csv(save_path, index=False)
 
 
