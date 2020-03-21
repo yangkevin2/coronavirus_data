@@ -8,13 +8,13 @@ import pandas as pd
 
 def process(all_path: str, hits_path: str, save_path: str):
     all_data = pd.read_csv(all_path)
-    all_data = all_data.rename(columns={'CompoundSMILES': 'smiles'})
+    all_data.rename(columns={'CompoundSMILES': 'smiles'}, inplace=True)
     non_hits = all_data[all_data['smiles'].notna() & (all_data['RefinementOutcome'] == '7 - Analysed & Rejected')]
     non_hits = non_hits[['smiles']]
     non_hits['activity'] = non_hits['non-covalent'] = non_hits['covalent'] = non_hits['dimer'] = non_hits['surface'] = non_hits['xtal-contact'] = [0] * len(non_hits)
 
     hits = pd.read_csv(hits_path)
-    hits = hits.rename(columns={'Compound SMILES': 'smiles'})
+    hits.rename(columns={'Compound SMILES': 'smiles'}, inplace=True)
     hits['activity'] = [1] * len(hits)
     hits['non-covalent'] = hits['Site'] == 'A - active'
     hits['covalent'] = hits['Site'] == 'B - active - covalent'
@@ -24,7 +24,9 @@ def process(all_path: str, hits_path: str, save_path: str):
     hits = hits[['smiles', 'activity', 'non-covalent', 'covalent', 'dimer', 'surface', 'xtal-contact']]
 
     data = pd.concat([hits, non_hits])
-    print(data.describe())
+    data.drop_duplicates(subset='smiles', keep='first', inplace=True)
+    for key in set(data.keys()) - {'smiles'}:
+        print(data[key].value_counts())
     data.to_csv(save_path, index=False)
 
 

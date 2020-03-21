@@ -12,7 +12,10 @@ def process(data_path: str, save_path: str):
     data = data[data['CompoundSMILES'].notna() & data['RefinementOutcome'].isin(['5 - Deposition ready', '6 - Deposited', '7 - Analysed & Rejected'])].copy()
     data.loc[data['RefinementOutcome'] != '7 - Analysed & Rejected', 'RefinementOutcome'] = '1'
     data.loc[data['RefinementOutcome'] == '7 - Analysed & Rejected', 'RefinementOutcome'] = '0'
-    data = data.rename(columns={'CompoundSMILES': 'smiles', 'RefinementOutcome': 'activity'})
+    data.rename(columns={'CompoundSMILES': 'smiles', 'RefinementOutcome': 'activity'}, inplace=True)
+    data.sort_values(by=['activity'], ascending=False, inplace=True)  # ensure that hits appear first when dropping duplicates
+    data.drop_duplicates(subset='smiles', keep='first', inplace=True)
+    print(data['activity'].value_counts())
     data.to_csv(save_path, index=False)
 
 

@@ -13,7 +13,7 @@ SARS-CoV-1 data
 - [PLpro.csv](https://github.com/yangkevin2/coronavirus_data/blob/master/data/PLpro.csv) - (N = 233,891; hits = 697) Bioassay that detects activity against SARS-CoV-1 in yeast models via PL protease inhibition. Combines PubChem data from AID 652038 and AID 485353.
 
 SARS-CoV-2 data
-- [​mpro_xchem.csv](https://github.com/yangkevin2/coronavirus_data/blob/master/data/mpro_xchem.csv) - (N = 1,233; hits = 78) Fragments screened for 3CL protease binding using crystallography techniques. Data is sourced from the [Diamond Light Source](https://www.diamond.ac.uk/covid-19/for-scientists/Main-protease-structure-and-XChem.html) group.
+- [​mpro_xchem.csv](https://github.com/yangkevin2/coronavirus_data/blob/master/data/mpro_xchem.csv) - (N = 880; hits = 78) Fragments screened for 3CL protease binding using crystallography techniques. Data is sourced from the [Diamond Light Source](https://www.diamond.ac.uk/covid-19/for-scientists/Main-protease-structure-and-XChem.html) group.
 
 ​Data extracted from literature
 - [corona_literature_idex.csv](https://github.com/yangkevin2/coronavirus_data/blob/master/data/corona_literature_idex.csv) - (N = 101) FDA-approved drugs that are mentioned in generic coronavirus literature. Drug to SMILES mapping is generated through the PubChem idex service and may contain multiple SMILES for generic drug names. These are not guaranteed to be effective against any targets; they simply appear in the literature.
