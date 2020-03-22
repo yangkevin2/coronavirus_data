@@ -23,6 +23,9 @@ SARS-CoV-2 data
 - [external_library.csv](https://github.com/yangkevin2/coronavirus_data/blob/master/data/external_library.csv) - (N = 861) A set of FDA-approved drugs.
 - [expanded_external_library.csv](https://github.com/yangkevin2/coronavirus_data/blob/master/data/expanded_external_library.csv) - (N = 2,661) A larger set of FDA-approved drugs, but not a strict superset of external_library.csv.
 
+Other property prediction data
+- [ecoli.csv](https://github.com/yangkevin2/coronavirus_data/blob/master/data/ecoli.csv) - (N = 2,335; hits = 120) Compounds which have been screened for inhibitory activity against *E. coli*, from the paper [A Deep Learning Approach to Antibiotic Discovery](https://www.cell.com/cell/fulltext/S0092-8674(20)30102-1).
+
 ## raw_data/
 Original raw data files and format conversions. 
 
