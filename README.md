@@ -2,15 +2,17 @@
 
 This GitHub repo contains data and scripts relevant to COVID-19, which is the disease caused by the virus SARS-CoV-2. For a full descriptions of our efforts, please see https://www.aicures.mit.edu/.
 
-Although the data contained in this repo can be used by any model, we have primarily been working with the message passing neural network model [chemprop](https://github.com/chemprop/chemprop). Our trained models are available on http://chemprop.csail.mit.edu/predict. (Select the "SARS - Balanced" model checkpoint for a model trained to predict inhibition of the SARS-CoV-1 3CL protease).
+Note that since relatively little data for SARS-CoV-2 is available, most of the data in this repo is for SARS-CoV (responsible for the 2002/3 [SARS](https://en.wikipedia.org/wiki/Severe_acute_respiratory_syndrome) outbreak) and other related coronaviruses. The hope is that models trained on this data will be able to retain their predictive ability on SARS-CoV-2.
+
+Although the data contained in this repo can be used by any model, we have primarily been working with the message passing neural network model [chemprop](https://github.com/chemprop/chemprop). Our trained models are available on http://chemprop.csail.mit.edu/predict. (Select the "SARS - Balanced" model checkpoint for a model trained to predict inhibition of the SARS-CoV 3CL protease).
 
 ## data/
 
-SARS-CoV-1 data
-- [AID1706_binarized_sars.csv](https://github.com/yangkevin2/coronavirus_data/blob/master/data/AID1706_binarized_sars.csv) - (N = 290,726; hits = 405) In-vitro assay that detects inhibition of SARS-CoV-1 3CL protease via fluorescence from [PubChem AID1706](https://pubchem.ncbi.nlm.nih.gov/bioassay/1706).
-- [evaluation_set_v2.csv](https://github.com/yangkevin2/coronavirus_data/blob/master/data/evaluation_set_v2.csv) - (N = 5,671; hits = 41) An evaluation set for SARS-CoV-1 3CL protease containing 41 experimentally validated hits along with 5630 molecules from the [Broad Repurposing Hub](https://www.broadinstitute.org/drug-repurposing-hub) which are treated as non-hits. There is no overlap with AID1706_binarized_sars.csv.
+SARS-CoV data
+- [AID1706_binarized_sars.csv](https://github.com/yangkevin2/coronavirus_data/blob/master/data/AID1706_binarized_sars.csv) - (N = 290,726; hits = 405) In-vitro assay that detects inhibition of SARS-CoV 3CL protease via fluorescence from [PubChem AID1706](https://pubchem.ncbi.nlm.nih.gov/bioassay/1706).
+- [evaluation_set_v2.csv](https://github.com/yangkevin2/coronavirus_data/blob/master/data/evaluation_set_v2.csv) - (N = 5,671; hits = 41) An evaluation set for SARS-CoV 3CL protease containing 41 experimentally validated hits along with 5630 molecules from the [Broad Repurposing Hub](https://www.broadinstitute.org/drug-repurposing-hub) which are treated as non-hits. There is no overlap with AID1706_binarized_sars.csv.
 - [AID1706_binarized_sars_full_eval_actives.csv](https://github.com/yangkevin2/coronavirus_data/blob/master/data/AID1706_binarized_sars_full_eval_actives.csv) - (N = 290,767; hits = 446) is AID1706_binarized_sars.csv combined with the 41 validated hits from evaluation_set_v2.csv.
-- [PLpro.csv](https://github.com/yangkevin2/coronavirus_data/blob/master/data/PLpro.csv) - (N = 233,891; hits = 697) Bioassay that detects activity against SARS-CoV-1 in yeast models via PL protease inhibition. Combines PubChem data from AID 652038 and AID 485353.
+- [PLpro.csv](https://github.com/yangkevin2/coronavirus_data/blob/master/data/PLpro.csv) - (N = 233,891; hits = 697) Bioassay that detects activity against SARS-CoV in yeast models via PL protease inhibition. Combines PubChem data from AID 652038 and AID 485353.
 
 SARS-CoV-2 data
 - [​mpro_xchem.csv](https://github.com/yangkevin2/coronavirus_data/blob/master/data/mpro_xchem.csv) - (N = 880; hits = 78) Fragments screened for 3CL protease binding using crystallography techniques. Data is sourced from the [Diamond Light Source](https://www.diamond.ac.uk/covid-19/for-scientists/Main-protease-structure-and-XChem.html) group.
