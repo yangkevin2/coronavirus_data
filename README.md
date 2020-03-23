@@ -124,6 +124,8 @@ python train.py \
 ```
 
 ### Multi-task training for SARS-COV-2 3CLPro and AID1706
+
+5-fold cross validation performance is 0.850 +/- 0.022
 ```
 python baseline.py --data_path data/mpro_xchem.csv --source_data_path data/AID1706_binarized_sars.csv --dataset_type classification --save_dir ckpt/
 ```
