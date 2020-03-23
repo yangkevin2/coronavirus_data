@@ -123,7 +123,7 @@ python train.py \
     --test
 ```
 
-### Multi-task training for SARS-COV-2 3CLPro
+### Multi-task training for SARS-COV-2 3CLPro and AID1706
 ```
 python baseline.py --data_path data/mpro_xchem.csv --source_data_path data/AID1706_binarized_sars.csv --dataset_type classification --save_dir ckpt/
 ```
