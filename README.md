@@ -123,6 +123,11 @@ python train.py \
     --test
 ```
 
+### Multi-task training for SARS-COV-2 3CLPro
+```
+python baseline.py --data_path data/mpro_xchem.csv --source_data_path data/AID1706_binarized_sars.csv --dataset_type classification --save_dir ckpt/
+```
+
 ### Class balance
 
 To run experiments with class balance, switch to the `class_weights` branch of chemprop (`git checkout class_weights`) and add the `--class_balance` flag during training.
