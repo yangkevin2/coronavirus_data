@@ -21,7 +21,7 @@ SARS-CoV-2 data
 - [corona_literature_idex.csv](https://github.com/yangkevin2/coronavirus_data/blob/master/data/corona_literature_idex.csv) - (N = 101) FDA-approved drugs that are mentioned in generic coronavirus literature. Drug to SMILES mapping is generated through the PubChem idex service and may contain multiple SMILES for generic drug names. These are not guaranteed to be effective against any targets; they simply appear in the literature.
 
 ​Catalogues of drugs that can be screened for repurposing
-- [broad_repurposing_library.csv](https://github.com/yangkevin2/coronavirus_data/blob/master/data/broad_repurposing_library.csv) - (N = 6,245) Compounds from the [Broad Repurposing Hub](https://www.broadinstitute.org/drug-repurposing-hub), many of which are FDA-approved.
+- [broad_repurposing_library.csv](https://github.com/yangkevin2/coronavirus_data/blob/master/data/broad_repurposing_library.csv) - (N = 6,111) Compounds from the [Broad Repurposing Hub](https://www.broadinstitute.org/drug-repurposing-hub), many of which are FDA-approved.
 - [external_library.csv](https://github.com/yangkevin2/coronavirus_data/blob/master/data/external_library.csv) - (N = 861) A set of FDA-approved drugs.
 - [expanded_external_library.csv](https://github.com/yangkevin2/coronavirus_data/blob/master/data/expanded_external_library.csv) - (N = 2,661) A larger set of FDA-approved drugs, but not a strict superset of external_library.csv.
 
