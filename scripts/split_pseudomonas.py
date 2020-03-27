@@ -112,8 +112,8 @@ def scaffold_split_num_pos(data_path: str,
 
     # Save scaffolds
     makedirs(save_dir)
-    train.to_csv(os.path.join(save_dir, 'train.csv'))
-    train.to_csv(os.path.join(save_dir, 'test.csv'))
+    train.to_csv(os.path.join(save_dir, 'train.csv'), index=False)
+    test.to_csv(os.path.join(save_dir, 'test.csv'), index=False)
 
 
 if __name__ == '__main__':
