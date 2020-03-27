@@ -136,10 +136,6 @@ python baseline.py --data_path data/mpro_xchem.csv --source_data_path data/AID17
 
 To run experiments with class balance, switch to the `class_weights` branch of chemprop (`git checkout class_weights`) and add the `--class_balance` flag during training.
 
-## 316_AID1706_preds/ 
-
-The most recent model predictions on each of the 3 test sets using the model trained on only the AID1706 dataset. Predictions using 5-model chemprop ensemble with no hyperparameter optimization at the moment. For reference, benchmarking non-ensembled versions of this model on scaffold split (5 folds) gets 0.8383 +/- 0.0283 AUC. This model got .963 AUC on evaluation_set_v2.csv. 
-
 ## interpretation/
 
 Rationale extraction (https://github.com/chemprop/chemprop/blob/master/interpret.py) from the positives of the combined AID1706 and PLpro datasets and from the Broad Repurposing Hub using a model trained on the combined AID1706 and PLpro datasets. The commands used to generate the rationales are in `interpretation/commands.txt` while the `.csv` files contain the rationale SMILES and the `.png` files contain t-SNE visualizations of the original SMILES and rationales.
