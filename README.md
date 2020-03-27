@@ -6,7 +6,7 @@ Note that since relatively little data for SARS-CoV-2 is available, most of the 
 
 Although the data contained in this repo can be used by any model, we have primarily been working with the message passing neural network model [chemprop](https://github.com/chemprop/chemprop). Our trained models are available on http://chemprop.csail.mit.edu/predict. (Select the "SARS - Balanced" model checkpoint for a model trained to predict inhibition of the SARS-CoV 3CL protease).
 
-## data/
+## [data/](https://github.com/yangkevin2/coronavirus_data/tree/master/data)
 
 SARS-CoV data
 - [AID1706_binarized_sars.csv](https://github.com/yangkevin2/coronavirus_data/blob/master/data/AID1706_binarized_sars.csv) - (N = 290,726; hits = 405) In-vitro assay that detects inhibition of SARS-CoV 3CL protease via fluorescence from [PubChem AID1706](https://pubchem.ncbi.nlm.nih.gov/bioassay/1706).
@@ -28,114 +28,67 @@ SARS-CoV-2 data
 Other property prediction data
 - [ecoli.csv](https://github.com/yangkevin2/coronavirus_data/blob/master/data/ecoli.csv) - (N = 2,335; hits = 120) Compounds which have been screened for inhibitory activity against *E. coli*, from the paper [A Deep Learning Approach to Antibiotic Discovery](https://www.cell.com/cell/fulltext/S0092-8674(20)30102-1).
 
-## splits.zip
-Contains train/dev/test splits of some of the above datasets for benchmarking purposes.
+## [splits.zip](https://github.com/yangkevin2/coronavirus_data/tree/master/splits.zip)
+Contains train/dev/test splits (using a scaffold split) of some of the above datasets for benchmarking purposes.
 
-## raw_data/
+## [raw_data/](https://github.com/yangkevin2/coronavirus_data/tree/master/raw_data)
 Original raw data files and format conversions. 
 
-## plots/
-t-SNE plots comparing the datasets. Note that in the plots, "sars_pos" and "sars_neg" refer to any hits or non-hits, respectively, across both AID1706_binarized_sars.csv and PLpro.csv.
+## [plots/](https://github.com/yangkevin2/coronavirus_data/tree/master/plots)
+t-SNE plots comparing the datasets. Note that in the plots, "sars_pos" and "sars_neg" refer to any hits or non-hits, respectively, across both [AID1706_binarized_sars.csv](https://github.com/yangkevin2/coronavirus_data/blob/master/data/AID1706_binarized_sars.csv) and [PLpro.csv](https://github.com/yangkevin2/coronavirus_data/blob/master/data/PLpro.csv).
 
-## conversions/
+## [conversions/](https://github.com/yangkevin2/coronavirus_data/tree/master/conversions)
 Files for converting between smiles/cid/name. Obtained from https://pubchem.ncbi.nlm.nih.gov/idexchange/idexchange.cgi
 
-## similarity_computations/ 
+## [similarity_computations/](https://github.com/yangkevin2/coronavirus_data/tree/master/similarity_computations)
 The nearest neighbor computations from each test set to the training set. 
 
-## scripts/ 
+## [scripts/](https://github.com/yangkevin2/coronavirus_data/tree/master/scripts)
 Various data processing scripts for reuse/reproducibility.
 
-## statistics/ 
+## [statistics/](https://github.com/yangkevin2/coronavirus_data/tree/master/statistics)
 Statistics about overlap between the SMILES strings of various datasets.
 
-## old/
+## [interpretation/](https://github.com/yangkevin2/coronavirus_data/tree/master/interpretation)
+
+t-SNE plots of chemical rationales extracted (using this [code](https://github.com/chemprop/chemprop/blob/master/interpret.py)) from a model trained on the combined AID1706 and PLpro datasets.
+
+## [old/](https://github.com/yangkevin2/coronavirus_data/tree/master/old)
 Older versions of files from when we combined AID1706 data with other data that was unhelpful. 
 
 ## Experiment Commands
 
-These commands are for running experiments using [chemprop](https://github.com/chemprop/chemprop) and should be run from the main directory in the chemprop repo. You made need to modify some paths (such as `save_dir`) depending on your directory structure. The commands below asssume you are training on the AID1706 data and testing on the evaluation_set_v2.csv data but can be modified to work with any of the datasets.
+These commands are for running experiments using [chemprop](https://github.com/chemprop/chemprop) and should be run from the main directory in the chemprop repo. You may need to modify some paths depending on your directory structure. The commands below assume you are using [AID1706_binarized_sars.csv](https://github.com/yangkevin2/coronavirus_data/blob/master/data/AID1706_binarized_sars.csv) but can be modified to work with any of the datasets.
 
 ### Generating RDKit features
 
-To speed up experiments, you can pre-generate RDKit features using the script `save_features.py` in `chemprop/scripts`. You should run these two commands:
+To speed up experiments, you can pre-generate RDKit features using the script `save_features.py` in `chemprop/scripts`. You should run this command:
 
 ```
 python save_features.py
     --data_path ../../coronavirus_data/data/AID1706_binarized_sars.csv \
-    --save_path ../../coronavirus_data/features/AID1706_binarized_sars.csv \
-    --features_generator rdkit_2d_normalized
-```
-
-```
-python save_features.py
-    --data_path ../../coronavirus_data/data/evaluation_set_v2.csv \
-    --save_path ../../coronavirus_data/features/evaluation_set_v2.csv \
+    --save_path ../../coronavirus_data/features/AID1706_binarized_sars.npz \
     --features_generator rdkit_2d_normalized
 ```
 
 By default this will run feature generation using parallel processing. On occasion the parallel processing gets stuck near the end of feature generation, so if this happens, just kill the process and restart with the `--sequential` flag. This will pick up where the parallel version stopped and will finish correctly.
 
 
-### Training and testing on AID1706
-
-Train and test on 5-fold CV, scaffold-based splits, of AID1706 (you need to unzip AID1706_splits.zip).
+### Training and testing
 
 ```
 python train.py \
     --data_path ../coronavirus_data/data/AID1706_binarized_sars.csv \
     --dataset_type classification \
-    --save_dir ../coronavirus_data/ckpt/AID1706 \
+    --save_dir ../coronavirus_data/ckpt/AID1706_binarized_sars \
     --features_path ../coronavirus_data/features/AID1706_binarized_sars.npz \
     --no_features_scaling \
-    --split_type predetermined \
-    --folds_file ../coronavirus_data/splits/scaffold/split_0.pkl \
-    --val_fold_index 1 \
-    --test_fold_index 2 \
+    --split_type scaffold_balanced \
     --quiet
 ```
 
-and repeat for each of the 5 splits (numbered 0 to 4). 
-
-### Training on AID1706 and testing on Broad/external validation set
-
-Train on 90%/10%/0% random split of AID1706 and test on combined Broad/external validation set where the external validation molecules are treated as positives and the Broad molecules are treated as negatives.
-
-```
-python train.py \
-    --data_path ../coronavirus_data/data/AID1706_binarized_sars.csv \
-    --dataset_type classification \
-    --save_dir ../coronavirus_data/ckpt/AID1706 \
-    --features_path ../coronavirus_data/features/AID1706_binarized_sars.npz \
-    --no_features_scaling \
-    --split_sizes 0.9 0.1 0.0 \
-    --num_folds 5 \
-    --quiet
-```
-
-```
-python train.py \
-    --data_path ../coronavirus_data/data/evaluation_set_v2.csv \
-    --dataset_type classification \
-    --checkpoint_dir ../coronavirus_data/ckpt/AID1706 \
-    --features_path ../coronavirus_data/features/evaluation_set_v2.npz \
-    --no_features_scaling \
-    --split_sizes 0 0 1 \
-    --quiet \
-    --test
-```
-
-### Multi-task training for SARS-COV-2 3CLPro and AID1706
-
-5-fold cross validation performance is 0.850 +/- 0.022
-```
-python baseline.py --data_path data/mpro_xchem.csv --source_data_path data/AID1706_binarized_sars.csv --dataset_type classification --save_dir ckpt/
-```
+The data splitting mechanism in [chemprop](https://github.com/chemprop/chemprop) is seeded so that this will reproduce the same train/dev/test split as in [splits.zip](https://github.com/yangkevin2/coronavirus_data/blob/master/splits.zip).
 
 ### Class balance
 
-To run experiments with class balance, switch to the `class_weights` branch of chemprop (`git checkout class_weights`) and add the `--class_balance` flag during training.
-
-## interpretation/
-
-Rationale extraction (https://github.com/chemprop/chemprop/blob/master/interpret.py) from the positives of the combined AID1706 and PLpro datasets and from the Broad Repurposing Hub using a model trained on the combined AID1706 and PLpro datasets. The commands used to generate the rationales are in `interpretation/commands.txt` while the `.csv` files contain the rationale SMILES and the `.png` files contain t-SNE visualizations of the original SMILES and rationales.
+To run experiments with class balance, switch to the `class_weights` branch of chemprop (`git checkout class_weights`) and add the `--class_balance` flag. This will train with an equal number of positives and negatives in each batch.
