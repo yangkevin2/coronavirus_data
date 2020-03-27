@@ -92,3 +92,17 @@ The data splitting mechanism in [chemprop](https://github.com/chemprop/chemprop)
 ### Class balance
 
 To run experiments with class balance, switch to the `class_weights` branch of chemprop (`git checkout class_weights`) and add the `--class_balance` flag. This will train with an equal number of positives and negatives in each batch.
+
+### Multi-task training for SARS-CoV-2 3CLpro and SARS-CoV 3CLpro
+
+Experiment combining data on the 3CLpro target for SARS-CoV-2 [​mpro_xchem.csv](https://github.com/yangkevin2/coronavirus_data/blob/master/data/mpro_xchem.csv) and SARS-CoV [AID1706_binarized_sars.csv](https://github.com/yangkevin2/coronavirus_data/blob/master/data/AID1706_binarized_sars.csv).
+
+5-fold cross validation performance is 0.850 +/- 0.022.
+
+```
+python multitask.py \
+    --data_path data/mpro_xchem.csv \
+    --source_data_path data/AID1706_binarized_sars.csv \
+    --dataset_type classification \
+    --save_dir ckpt/
+```
