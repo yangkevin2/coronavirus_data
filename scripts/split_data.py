@@ -6,8 +6,6 @@ from typing import Tuple
 from chemprop.data import MoleculeDatapoint, MoleculeDataset
 from chemprop.data.utils import split_data
 from chemprop.utils import makedirs
-from fire import Fire
-from tap import Tap
 from tqdm import tqdm
 
 

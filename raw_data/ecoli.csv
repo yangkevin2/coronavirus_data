@@ -2333,4 +2333,4 @@
 1.25165,O=S(=O)([O-])c1cc(O)c2c(N=Nc3ccc(Nc4ccccc4)c4c(S(=O)(=O)[O-])cccc34)cc(S(=O)(=O)[O-])cc2c1.[Na+].[Na+].[Na+],ANAZOLENE SODIUM,Inactive
 1.27315,Nc1ccc(S(=O)(=O)c2ccc(N)cc2)cc1,DAPSONE,Inactive
 2.2632,Cc1cc(-c2ccc(N=Nc3ccc4c(S(=O)(=O)[O-])cc(S(=O)(=O)[O-])c(N)c4c3O)c(C)c2)ccc1N=Nc1ccc2c(S(=O)(=O)[O-])cc(S(=O)(=O)[O-])c(N)c2c1O.[Na+].[Na+].[Na+].[Na+],EVANS BLUE,Inactive
-2.62745,C=Cc1c(C)c2cc3[nH]c(cc4nc(cc5[nH]c(cc1n2)c(C)c5CCC(=O)O)c(CCC(=O)O)c4C)c(C)c3C=C,PROTOPORPHYRINOGEN IX,Inactive
+2.62745,C=Cc1c(C)c2cc3[nH]c(cc4nc(cc5[nH]c(cc1n2)c(C)c5CCC(=O)O)c(CCC(=O)O)c4C)c(C)c3C=C,PROTOPORPHYRIN IX,Inactive

@@ -1,3 +1,5 @@
 .idea
 .DS_Store
 splits/
+raw_data/*pseudomonas*
+data/*pseudomonas*
