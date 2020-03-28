@@ -101,6 +101,9 @@ def scaffold_split_num_pos(data_path: str,
     assert len(train_indices_set & test_indices_set) == 0
     assert set.union(train_indices_set, test_indices_set) == set(range(len(data)))
 
+    # Shuffle test
+    random.shuffle(test_indices)
+
     # Split data
     train, test = data.iloc[train_indices], data.iloc[test_indices]
 
@@ -109,6 +112,8 @@ def scaffold_split_num_pos(data_path: str,
     print(train['activity'].value_counts())
     print('test')
     print(test['activity'].value_counts())
+
+    # Shuffle test
 
     # Save scaffolds
     makedirs(save_dir)
