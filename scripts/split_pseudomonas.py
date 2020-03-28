@@ -125,11 +125,11 @@ if __name__ == '__main__':
     parser = ArgumentParser()
     parser.add_argument('--data_path', type=str, default='../data/pseudomonas.csv',
                         help='Path to data .csv file')
-    parser.add_argument('--max_scaffold_size_in_test', type=int, default=20,
+    parser.add_argument('--max_scaffold_size_in_test', type=int, required=True,
                         help='Maximum size of a scaffold in the test set')
-    parser.add_argument('--num_pos_in_test', type=int, default=20,
+    parser.add_argument('--num_pos_in_test', type=int, required=True,
                         help='Number of positives to put in the test set')
-    parser.add_argument('--percent_neg_in_test', type=float, default=0.1,
+    parser.add_argument('--percent_neg_in_test', type=float, required=True,
                         help='Percent of negatives to put in the test set')
     parser.add_argument('--save_dir', type=str, default='../splits/pseudomonas_scaffold',
                         help='Path to directory where train/test files will be saved')
