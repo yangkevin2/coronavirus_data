@@ -6,7 +6,7 @@ from sklearn.metrics import roc_auc_score
 
 def evaluate_auc(true_path: str, pred_path: str):
     true, pred = pd.read_csv(true_path), pd.read_csv(pred_path)
-    assert true['smiles'] == pred['smiles']
+    assert (true['smiles'] == pred['smiles']).all()
     auc = roc_auc_score(true['activity'], pred['activity'])
     print(f'AUC = {auc}')
 
