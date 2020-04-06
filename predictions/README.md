@@ -1,0 +1,7 @@
+# Predictions
+
+This directory contains predictions of trained models on some of the repurposing libraries. The molecules in all prediction files are sorted from highest to lowest probability of activity.
+
+- [AID1706_model_broad_repurposing_library_preds.csv](https://github.com/yangkevin2/coronavirus_data/blob/master/predictions/AID1706_model_broad_repurposing_library_preds.csv) - (N = 6,111) Predictions on the [broad_repurposing_library.csv](https://github.com/yangkevin2/coronavirus_data/blob/master/data/broad_repurposing_library.csv) molecules using a 5-model chemprop ensemble with RDKit features trained on the [AID1706_binarized_sars.csv](https://github.com/yangkevin2/coronavirus_data/blob/master/data/AID1706_binarized_sars.csv) data. This is the "SARS" model on http://chemprop.csail.mit.edu/predict page.
+
+- [AID1706_balanced_model_broad_repurposing_library_preds.csv](https://github.com/yangkevin2/coronavirus_data/blob/master/predictions/AID1706_balanced_model_broad_repurposing_library_preds.csv) - (N = 6,111) Predictions on the [broad_repurposing_library.csv](https://github.com/yangkevin2/coronavirus_data/blob/master/data/broad_repurposing_library.csv) molecules using a 5-model chemprop ensemble with RDKit features trained on the [AID1706_binarized_sars.csv](https://github.com/yangkevin2/coronavirus_data/blob/master/data/AID1706_binarized_sars.csv) data using class balance training. This is the "SARS – balanced" model on http://chemprop.csail.mit.edu/predict page.

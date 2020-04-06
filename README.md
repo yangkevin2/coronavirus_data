@@ -4,7 +4,7 @@ This GitHub repo contains data and scripts relevant to COVID-19, which is the di
 
 Note that since relatively little data for SARS-CoV-2 is available, most of the data in this repo is for SARS-CoV (responsible for the 2002/3 [SARS](https://en.wikipedia.org/wiki/Severe_acute_respiratory_syndrome) outbreak) and other related coronaviruses. The hope is that models trained on this data will be able to retain their predictive ability on SARS-CoV-2.
 
-Although the data contained in this repo can be used by any model, we have primarily been working with the message passing neural network model [chemprop](https://github.com/chemprop/chemprop). Our trained models are available on http://chemprop.csail.mit.edu/predict. (Select the "SARS - Balanced" model checkpoint for a model trained to predict inhibition of the SARS-CoV 3CL protease).
+Although the data contained in this repo can be used by any model, we have primarily been working with the message passing neural network model [chemprop](https://github.com/chemprop/chemprop). Our trained models are available on http://chemprop.csail.mit.edu/predict.
 
 ## [data/](https://github.com/yangkevin2/coronavirus_data/tree/master/data)
 
@@ -33,6 +33,9 @@ Contains train/dev/test splits (using a scaffold split) of some of the above dat
 
 ## [raw_data/](https://github.com/yangkevin2/coronavirus_data/tree/master/raw_data)
 Original raw data files and format conversions. 
+
+## [predictions/](https://github.com/yangkevin2/coronavirus_data/tree/master/predictions)
+Predictions made by trained models on some of the repurposing datasets. See the README inside the predictions/ directory for details.
 
 ## [plots/](https://github.com/yangkevin2/coronavirus_data/tree/master/plots)
 t-SNE plots comparing the datasets. Note that in the plots, "sars_pos" and "sars_neg" refer to any hits or non-hits, respectively, across both [AID1706_binarized_sars.csv](https://github.com/yangkevin2/coronavirus_data/blob/master/data/AID1706_binarized_sars.csv) and [PLpro.csv](https://github.com/yangkevin2/coronavirus_data/blob/master/data/PLpro.csv).
