@@ -4,7 +4,7 @@ This GitHub repo contains data and scripts relevant to COVID-19, which is the di
 
 Note that since relatively little data for SARS-CoV-2 is available, most of the data in this repo is for SARS-CoV (responsible for the 2002/3 [SARS](https://en.wikipedia.org/wiki/Severe_acute_respiratory_syndrome) outbreak) and other related coronaviruses. The hope is that models trained on this data will be able to retain their predictive ability on SARS-CoV-2.
 
-Although the data contained in this repo can be used by any model, we have primarily been working with the message passing neural network model [chemprop](https://github.com/chemprop/chemprop). Our trained models are available on http://chemprop.csail.mit.edu/predict.
+Although the data contained in this repo can be used by any model, we have primarily been working with the message passing neural network model [chemprop](https://github.com/chemprop/chemprop). Our trained models are available on http://chemprop.csail.mit.edu/predict and the predictions from these models on the [Broad Repurposing Hub](https://www.broadinstitute.org/drug-repurposing-hub) are available in [predictions/](https://github.com/yangkevin2/coronavirus_data/tree/master/predictions).
 
 ## [data/](https://github.com/yangkevin2/coronavirus_data/tree/master/data)
 
