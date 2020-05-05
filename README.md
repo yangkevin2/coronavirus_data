@@ -16,6 +16,7 @@ SARS-CoV data
 
 SARS-CoV-2 data
 - [​mpro_xchem.csv](https://github.com/yangkevin2/coronavirus_data/blob/master/data/mpro_xchem.csv) - (N = 880; hits = 78) Fragments screened for 3CL protease binding using crystallography techniques. Data is sourced from the [Diamond Light Source](https://www.diamond.ac.uk/covid-19/for-scientists/Main-protease-structure-and-XChem.html) group.
+- [amu_sars_cov_2_in_vitro.csv](https://github.com/yangkevin2/coronavirus_data/blob/master/data/amu_sars_cov_2_in_vitro.csv) - (N = 1,484; hits = 88) FDA-approved compounds screened against SARS-CoV-2 *in vitro*. Data is sourced from [In vitro screening of a FDA approved chemical library reveals potential inhibitors of SARS-CoV-2 replication](https://www.biorxiv.org/content/10.1101/2020.04.03.023846v1).
 
 ​Data extracted from literature
 - [corona_literature_idex.csv](https://github.com/yangkevin2/coronavirus_data/blob/master/data/corona_literature_idex.csv) - (N = 101) FDA-approved drugs that are mentioned in generic coronavirus literature. Drug to SMILES mapping is generated through the PubChem idex service and may contain multiple SMILES for generic drug names. These are not guaranteed to be effective against any targets; they simply appear in the literature.
