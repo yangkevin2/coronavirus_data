@@ -1,0 +1,1484 @@
+﻿Drug,Active,Inactive
+Remdesivir,17,0
+Chloroquine,14,3
+Nafamostat,10,0
+Hydroxychloroquine,9,0
+Lopinavir,7,1
+Favipiravir,0,6
+Chlorpromazine,4,0
+Atazanavir,3,1
+Amodiaquine,3,1
+Mefloquine,3,1
+Ritonavir,1,3
+Emetine,3,0
+Toremifene citrate,3,0
+Camostat,2,1
+Nelfinavir,2,1
+Darunavir,1,2
+Oseltamivir,0,3
+Ribavirin,0,3
+Ouabain,2,0
+Niclosamide,2,0
+Digitoxin,2,0
+Atazanavir/r,2,0
+Hexachlorophene,2,0
+Merimepodib,2,0
+Imatinib,2,0
+Fluspirilene,2,0
+Hydroxyprogesterone caproate,2,0
+Ciclesonide,2,0
+Cyclosporin,2,0
+Clomipramine hydrochloride,2,0
+Fluphenazine Dihydrochloride,2,0
+Abemaciclib,2,0
+Ivacaftor,2,0
+Thiethylperazine maleate,2,0
+Eltrombopag,2,0
+Tamoxifen citrate,2,0
+Promethazine hydrochloride,2,0
+Loperamide,2,0
+Terconazole Vetranal,2,0
+Saquinavir,1,1
+Omeprazole,1,1
+Amprenavir,1,1
+Indinavir,0,2
+Galidesivir,0,2
+Remdesivir/Omp,1,0
+polidocanol,1,0
+Digoxin,1,0
+Salinomycin sodium,1,0
+Beta-D-N4-Hydroxycytidine,1,0
+almitrine,1,0
+Auranofin,1,0
+Boceprevir,1,0
+Ivermectin,1,0
+Proscillaridin,1,0
+Azithromycin,1,0
+Nitazoxanide,1,0
+ketoconazole,1,0
+Alisporivir,1,0
+Osimertinib mesylate,1,0
+Bazedoxifene,1,0
+Lusutrombopag,1,0
+Dronedarone HCl,1,0
+Tilirone,1,0
+Anidulafungin,1,0
+Ebselen,1,0
+Penfluridol,1,0
+Opipramol dihydrochloride,1,0
+Quinidine hydrochloride monohydrate,1,0
+pexidartinib,1,0
+Alprostadil,1,0
+Perhexiline maleate,1,0
+Thioridazine hydrochloride,1,0
+Ebastine,1,0
+Mequitazine,1,0
+Tipranavir,1,0
+Tetrandrine,1,0
+Oxprenolol hydrochloride,1,0
+Dolutegravir,1,0
+Phenazopyridine,1,0
+Sulfadoxine,1,0
+Lanatoside C,0,1
+Quinacrine hydrochloride,0,1
+Gilteritinib,0,1
+Velpatasvir,0,1
+Velpatasvir + Sofosbuvir,0,1
+AZT,0,1
+Danoprevir,0,1
+Sofosbuvir + Ledipasvir,0,1
+Ledipasvir,0,1
+Raltegravir,0,1
+Tenofovir,0,1
+Penciclovir,0,1
+Baloxavir,0,1
+Peramivir,0,1
+Spermidine,0,1
+Sofosbuvir,0,1
+Azaguanine-8,0,1
+Allantoin,0,1
+Acetazolamide,0,1
+Metformin hydrochloride,0,1
+Atracurium besylate,0,1
+Isoflupredone acetate,0,1
+Amiloride hydrochloride dihydrate,0,1
+Amprolium hydrochloride,0,1
+Hydrochlorothiazide,0,1
+Sulfaguanidine,0,1
+Meticrane,0,1
+Benzonatate,0,1
+Hydroflumethiazide,0,1
+Sulfacetamide sodic hydrate,0,1
+Heptaminol hydrochloride,0,1
+Sulfathiazole,0,1
+Levodopa,0,1
+Idoxuridine,0,1
+Captopril,0,1
+Minoxidil,0,1
+Sulfaphenazole,0,1
+(D)-Panthenol,0,1
+Sulfadiazine,0,1
+Norethynodrel,0,1
+Thiamphenicol,0,1
+Cimetidine,0,1
+Doxylamine succinate,0,1
+Ethambutol dihydrochloride,0,1
+Antipyrine,0,1
+"Antipyrine, 4-hydroxy",0,1
+Chloramphenicol,0,1
+Epirizole,0,1
+Diprophylline,0,1
+Triamterene,0,1
+Dapsone,0,1
+Troleandomycin,0,1
+Pyrimethamine,0,1
+Hexamethonium dibromide dihydrate,0,1
+Diflunisal,0,1
+Procaine hydrochloride,0,1
+Moxisylyte hydrochoride,0,1
+Betazole hydrochloride,0,1
+Isoxicam,0,1
+(S)-Naproxen,0,1
+Naphazoline hydrochloride,0,1
+Ticlopidine hydrochloride,0,1
+Dicyclomine hydrochloride,0,1
+Amyleine hydrochloride,0,1
+Lidocaine hydrochloride,0,1
+Mupirocin,0,1
+Carbamazepine,0,1
+Triflupromazine hydrochloride,0,1
+Mefenamic acid,0,1
+Acetohexamide,0,1
+Sulpiride,0,1
+Oxethazaine,0,1
+Pheniramine maleate,0,1
+Tolazoline hydrochloride,0,1
+Morantel tartrate,0,1
+"(R,S) Homatropine hydrobromide",0,1
+Nifedipine,0,1
+Diphenhydramine hydrochloride,0,1
+Minaprine dihydrochloride,0,1
+Miconazole,0,1
+Isoxsuprine hydrochloride,0,1
+Acebutolol hydrochloride,0,1
+Tolnaftate,0,1
+Todralazine hydrochloride,0,1
+Imipramine hydrochloride,0,1
+Sulindac,0,1
+Amitryptiline hydrochloride,0,1
+Adiphenine hydrochloride,0,1
+Dibucaine,0,1
+Prednisone,0,1
+Diphemanil methylsulfate,0,1
+Trimethobenzamide hydrochloride,0,1
+Metronidazole,0,1
+Fulvestrant,0,1
+Edrophonium chloride,0,1
+Moroxidine hydrochloride,0,1
+Baclofen,0,1
+Acyclovir,0,1
+Diazoxide,0,1
+Amidopyrine,0,1
+Busulfan,0,1
+Pindolol,0,1
+Khellin,0,1
+Zimelidine dihydrochloride monohydrate,0,1
+Azacyclonol,0,1
+Azathioprine,0,1
+Lynestrenol,0,1
+Guanabenz acetate,0,1
+Disulfiram,0,1
+Acetylsalicylsalicylic acid,0,1
+Mianserine hydrochloride,0,1
+Nocodazole,0,1
+R(-) Apomorphine hydrochloride hemihydrate,0,1
+Amoxapine,0,1
+Cyproheptadine hydrochloride,0,1
+Famotidine,0,1
+Danazol,0,1
+Nicorandil,0,1
+Pioglitazone,0,1
+Nomifensine maleate,0,1
+Aliskiren hemifumarate,0,1
+Oxandrolone,0,1
+Naloxone hydrochloride,0,1
+Metolazone,0,1
+Ciprofloxacin hydrochloride monohydrate,0,1
+Ampicillin trihydrate,0,1
+Haloperidol,0,1
+Naltrexone hydrochloride dihydrate,0,1
+Chlorpheniramine maleate,0,1
+Nalbuphine hydrochloride,0,1
+Picotamide monohydrate,0,1
+Triamcinolone,0,1
+Bromocryptine mesylate,0,1
+Amfepramone hydrochloride,0,1
+Dehydrocholic acid,0,1
+Tioconazole,0,1
+Perphenazine,0,1
+Isoconazole,0,1
+Spironolactone,0,1
+Pirenzepine dihydrochloride,0,1
+Dexamethasone acetate,0,1
+Glipizide,0,1
+Loxapine succinate,0,1
+Hydroxyzine dihydrochloride,0,1
+Diltiazem hydrochloride,0,1
+Azilsartan medoxomil,0,1
+Astemizole,0,1
+Clindamycin hydrochloride,0,1
+Terfenadine,0,1
+Cefotaxime sodium salt,0,1
+Tetracycline hydrochloride,0,1
+Verapamil hydrochloride,0,1
+Dipyridamole,0,1
+Chlorhexidine,0,1
+Chlortetracycline hydrochloride,0,1
+Nicergoline,0,1
+Canrenoic acid potassium salt,0,1
+Thioproperazine dimesylate,0,1
+Dihydroergotamine tartrate,0,1
+Erythromycin,0,1
+Chloroxine,0,1
+Didanosine,0,1
+Josamycin,0,1
+Paclitaxel,0,1
+Gallamine triethiodide,0,1
+Neomycin sulfate,0,1
+Dihydrostreptomycin sulfate,0,1
+Gentamicine sulfate,0,1
+Isoniazid,0,1
+Pentylenetetrazole,0,1
+Chlorzoxazone,0,1
+Ornidazole,0,1
+Ethosuximide,0,1
+Mafenide hydrochloride,0,1
+Riluzole hydrochloride,0,1
+Nitrofurantoin,0,1
+Hydralazine hydrochloride,0,1
+Phenelzine sulfate,0,1
+Tranexamic acid,0,1
+Etofylline,0,1
+Tranylcypromine hydrochloride,0,1
+Alverine citrate salt,0,1
+Aceclofenac,0,1
+Iproniazide phosphate,0,1
+Sulfamethoxazole,0,1
+Mephenesin,0,1
+Phenformin hydrochloride,0,1
+Flutamide,0,1
+Ampyrone,0,1
+Levamisole hydrochloride,0,1
+Pargyline hydrochloride,0,1
+Methocarbamol,0,1
+Cloxacillin sodium salt,0,1
+Lacosamide,0,1
+Pentolinium bitartrate,0,1
+"Aminopurine, 6-benzyl",0,1
+Tolbutamide,0,1
+Midodrine hydrochloride,0,1
+Thalidomide,0,1
+Oxolinic acid,0,1
+Nimesulide,0,1
+Asenapine maleate,0,1
+Pentoxifylline,0,1
+Metaraminol bitartrate,0,1
+Salbutamol,0,1
+Prilocaine hydrochloride,0,1
+"(S,+) Camptothecine",0,1
+Ranitidine hydrochloride,0,1
+"Tiratricol, 3,3',5-triiodothyroacetic acid",0,1
+Flufenamic acid,0,1
+Flumequine,0,1
+Tolfenamic acid,0,1
+Meclofenamic acid sodium salt monohydrate,0,1
+Tibolone,0,1
+Trimethoprim,0,1
+Metoclopramide monohydrochloride,0,1
+Fenbendazole,0,1
+Piroxicam,0,1
+Pyrantel tartrate,0,1
+Fenspiride hydrochloride,0,1
+Gemfibrozil,0,1
+Mefexamide hydrochloride,0,1
+Tiapride hydrochloride,0,1
+Mebendazole,0,1
+Fenbufen,0,1
+Ketoprofen,0,1
+Indapamide,0,1
+Norfloxacin,0,1
+Antimycin A,0,1
+Xylometazoline hydrochloride,0,1
+Oxymetazoline hydrochloride,0,1
+Nifenazone,0,1
+Griseofulvin,0,1
+Tropicamide,0,1
+Nefopam hydrochloride,0,1
+Phentolamine hydrochloride,0,1
+Etodolac,0,1
+Scopolamin-N-oxide hydrobromide,0,1
+(L) Hyoscyamine,0,1
+Chlorphensin carbamate,0,1
+Carmofur,0,1
+Dilazep dihydrochloride,0,1
+Ofloxacin,0,1
+Lomefloxacin hydrochloride,0,1
+Orphenadrine hydrochloride,0,1
+Proglumide,0,1
+Mexiletine hydrochloride,0,1
+Flavoxate hydrochloride,0,1
+Bufexamac,0,1
+"Glutethimide, para-amino",0,1
+Dropropizine,0,1
+Pinacidil monohydrate,0,1
+Albendazole,0,1
+Clonidine hydrochloride,0,1
+Bupropion hydrochloride,0,1
+Alprenolol hydrochloride,0,1
+Chlorothiazide,0,1
+Diphenidol hydrochloride,0,1
+Norethindrone,0,1
+Nortriptyline hydrochloride,0,1
+Niflumic acid,0,1
+Retinoic acid,0,1
+Antazoline hydrochloride,0,1
+Ethacrynic acid,0,1
+Praziquantel,0,1
+Ethisterone,0,1
+Triprolidine hydrochloride,0,1
+Doxepin hydrochloride,0,1
+Disopyramide,0,1
+Clotrimazole,0,1
+Vinpocetine,0,1
+Fendiline hydrochloride,0,1
+Vincamine,0,1
+Indomethacin,0,1
+Cortisone,0,1
+Prednisolone,0,1
+Fenofibrate,0,1
+Bumetanide,0,1
+Labetalol hydrochloride,0,1
+Cinnarizine,0,1
+"Methylprednisolone, 6-alpha",0,1
+Fludrocortisone acetate,0,1
+Fenoterol hydrobromide,0,1
+Homochlorcyclizine dihydrochloride,0,1
+Diethylcarbamazine citrate,0,1
+Chenodiol,0,1
+Oxybutynin chloride,0,1
+Pyrilamine maleate,0,1
+Sulfinpyrazone,0,1
+Dantrolene sodium salt,0,1
+Trazodone hydrochloride,0,1
+Glafenine hydrochloride,0,1
+Pimethixene maleate,0,1
+Acemetacin,0,1
+Benzydamine hydrochloride,0,1
+Fipexide hydrochloride,0,1
+Mifepristone,0,1
+Diperodon hydrochloride,0,1
+Lisinopril,0,1
+Lincomycin hydrochloride,0,1
+Telenzepine dihydrochloride,0,1
+Econazole nitrate,0,1
+Bupivacaine hydrochloride,0,1
+Clemastine fumarate,0,1
+Oxytetracycline dihydrate,0,1
+Pimozide,0,1
+Amodiaquin dihydrochloride dihydrate,0,1
+Mebeverine hydrochloride,0,1
+Flunarizine dihydrochloride,0,1
+Trifluoperazine dihydrochloride,0,1
+Enalapril maleate,0,1
+Minocycline hydrochloride,0,1
+Glibenclamide,0,1
+Guanethidine sulfate,0,1
+Quinacrine dihydrochloride hydrate,0,1
+Clofilium tosylate,0,1
+Streptomycin sulfate,0,1
+Alfuzosin hydrochloride,0,1
+Chlorpropamide,0,1
+Phenylpropanolamine hydrochloride,0,1
+Ascorbic acid,0,1
+(L) Methyldopa,0,1
+Cefoperazone dihydrate,0,1
+Zoxazolamine,0,1
+Bisoprolol hemifumarate,0,1
+Practolol,0,1
+Zidovudine,0,1
+Sulfisoxazole,0,1
+Zaprinast,0,1
+Chlormezanone,0,1
+Procainamide hydrochloride,0,1
+N6-methyladenosine,0,1
+Guanfacine hydrochloride,0,1
+Domperidone,0,1
+Furosemide,0,1
+Methapyrilene hydrochloride,0,1
+Desipramine hydrochloride,0,1
+Clorgyline hydrochloride,0,1
+Clenbuterol hydrochloride,0,1
+Maprotiline hydrochloride,0,1
+Thioguanosine,0,1
+Chlorprothixene hydrochloride,0,1
+Ritodrine hydrochloride,0,1
+Clozapine,0,1
+Chlorthalidone,0,1
+Dobutamine hydrochloride,0,1
+Moclobemide,0,1
+Clopamide,0,1
+Hycanthone,0,1
+Adenosine 5'-monophosphate monohydrate,0,1
+Amoxicillin,0,1
+Pemirolast potassium,0,1
+Dextromethorphan hydrobromide monohydrate,0,1
+Droperidol,0,1
+Bambuterol hydrochloride,0,1
+Betamethasone,0,1
+Colchicine,0,1
+Metergoline,0,1
+Brinzolamide,0,1
+Benfluorex,0,1
+Bepridil hydrochloride,0,1
+Meloxicam,0,1
+Benzbromarone,0,1
+Ketotifen fumarate,0,1
+Debrisoquin sulfate,0,1
+Amethopterin,0,1
+Methylergometrine maleate,0,1
+Cefditoren Pivoxil,0,1
+Clofazimine,0,1
+Nafronyl oxalate,0,1
+Bezafibrate,0,1
+Nefazodone hydrochloride,0,1
+Lidoflazine,0,1
+Betaxolol hydrochloride,0,1
+Nicardipine hydrochloride,0,1
+Probucol,0,1
+Mitoxantrone dihydrochloride,0,1
+GBR 12909 dihydrochloride,0,1
+Carbetapentane citrate,0,1
+Dequalinium dichloride,0,1
+Fusidic acid sodium salt,0,1
+Terbutaline hemisulfate,0,1
+Ketanserin tartrate hydrate,0,1
+Hemicholinium bromide,0,1
+Kanamycin A sulfate,0,1
+Amikacin hydrate,0,1
+Etoposide,0,1
+"(Z,E) Clomiphene citrate",0,1
+Oxantel pamoate,0,1
+Prochlorperazine dimaleate,0,1
+Hesperidin,0,1
+Testosterone propionate,0,1
+Haloprogin,0,1
+(L) Thyroxine,0,1
+Idebenone,0,1
+Pepstatin A,0,1
+Delavirdine,0,1
+Adamantamine fumarate,0,1
+Butoconazole nitrate,0,1
+Amiodarone hydrochloride,0,1
+Amphotericin B,0,1
+Dienogest,0,1
+Amifostine,0,1
+Carbarsone,0,1
+Amlodipine,0,1
+Modafinil,0,1
+Bacampicillin hydrochloride,0,1
+Lamivudine,0,1
+Biotin,0,1
+Bisacodyl,0,1
+Erlotinib,0,1
+Suloctidil,0,1
+Zotepine,0,1
+Carisoprodol,0,1
+"Cephalosporanic acid, 7-amino",0,1
+Linagliptin,0,1
+Buflomedil hydrochloride,0,1
+Dibenzepine hydrochloride,0,1
+Roxatidine acetate hydrochloride,0,1
+Valacyclovir hydrochloride,0,1
+Cisapride,0,1
+Pefloxacine,0,1
+Corticosterone,0,1
+Cyanocobalamin,0,1
+Cefadroxil,0,1
+Digitoxigenin,0,1
+Doxorubicin hydrochloride,0,1
+Carbimazole,0,1
+Estradiol-17 beta,0,1
+Clobutinol hydrochloride,0,1
+Nebivolol hydrochloride,0,1
+Oxcarbazepine,0,1
+Cyclobenzaprine hydrochloride,0,1
+Carteolol hydrochloride,0,1
+Hydrocortisone base,0,1
+Pitavastatin calcium,0,1
+Pilocarpine nitrate,0,1
+Dicloxacillin sodium salt hydrate,0,1
+Alizapride hydrochloride,0,1
+Stanozolol,0,1
+Calcipotriene,0,1
+Linezolid,0,1
+"Mebhydroline 1,5-naphtalenedisulfonate",0,1
+Meclocycline sulfosalicylate,0,1
+Meclozine dihydrochloride,0,1
+Melatonin,0,1
+Butalbital,0,1
+Dinoprost trometamol,0,1
+Tropisetron hydrochloride,0,1
+Cefixime,0,1
+Metrizamide,0,1
+Quetiapine hemifumarate,0,1
+Tosufloxacin hydrochloride,0,1
+Efavirenz,0,1
+Rifapentine,0,1
+Neostigmine bromide,0,1
+Niridazole,0,1
+Ceforanide,0,1
+Vatalanib,0,1
+Itopride,0,1
+Cefotetan,0,1
+Fentiazac,0,1
+Brompheniramine maleate,0,1
+Primaquine diphosphate,0,1
+Felodipine,0,1
+Raclopride,0,1
+Closantel,0,1
+Serotonin hydrochloride,0,1
+Cefotiam hydrochloride,0,1
+Rofecoxib,0,1
+Benperidol,0,1
+Cefaclor hydrate,0,1
+Colistin sulfate,0,1
+Daunorubicin hydrochloride,0,1
+Dosulepin hydrochloride,0,1
+Ceftazidime pentahydrate,0,1
+Iobenguane sulfate,0,1
+Metixene hydrochloride,0,1
+Nitrofural,0,1
+Propylthiouracil,0,1
+Tiaprofenic acid,0,1
+Vancomycin hydrochloride,0,1
+Artemisinin,0,1
+Propafenone hydrochloride,0,1
+Ethamivan,0,1
+Vigabatrin hydrochloride,0,1
+Biperiden hydrochloride,0,1
+Cetirizine dihydrochloride,0,1
+Etifenin,0,1
+Metaproterenol sulfate,0,1
+Sisomicin sulfate,0,1
+Sibutramine hydrochloride,0,1
+Acenocoumarol,0,1
+Bromperidol,0,1
+Cyclizine hydrochloride,0,1
+Fluoxetine hydrochloride,0,1
+Iohexol,0,1
+Norcyclobenzaprine,0,1
+Pyrazinamide,0,1
+Trimethadione,0,1
+Lovastatin,0,1
+Nystatine,0,1
+Budesonide,0,1
+Imipenem,0,1
+Sulfasalazine,0,1
+Lofexidine,0,1
+Thiostrepton,0,1
+Miglitol,0,1
+Tiabendazole,0,1
+Rifampicin,0,1
+Ethionamide,0,1
+Tenoxicam,0,1
+Triflusal,0,1
+Mesoridazine besylate,0,1
+Trolox,0,1
+Pirenperone,0,1
+Grepafloxacin,0,1
+Phenacetin,0,1
+Atovaquone,0,1
+Methoxamine hydrochloride,0,1
+"(S,-) Atenolol",0,1
+Piracetam,0,1
+Phenindione,0,1
+Thiocolchicoside,0,1
+Clorsulon,0,1
+Ciclopirox ethanolamine,0,1
+Probenecid,0,1
+Betahistine mesylate,0,1
+Tobramycin,0,1
+Tetramisole hydrochloride,0,1
+Molsidomine,0,1
+Trimetazidine dihydrochloride,0,1
+Ropivacaine hydrochloride,0,1
+Hexetidine,0,1
+Selegiline hydrochloride,0,1
+Pentamidine isethionate,0,1
+Tolazamide,0,1
+Nifuroxazide,0,1
+Dirithromycin,0,1
+Gliclazide,0,1
+Tazarotene,0,1
+Prenylamine lactate,0,1
+Ziprasidone  hydrochloride,0,1
+Pomalidomide,0,1
+Pyridostigmine iodide,0,1
+Pentobarbital,0,1
+Atropine sulfate monohydrate,0,1
+Eserine hemisulfate salt,0,1
+Itraconazole,0,1
+Acarbose,0,1
+Entacapone,0,1
+Nicotinamide,0,1
+Tetracaïne hydrochloride,0,1
+Mometasone furoate,0,1
+Troglitazone,0,1
+Dacarbazine,0,1
+Tenatoprazole,0,1
+Acetopromazine maleate salt,0,1
+Escitalopram oxalate,0,1
+Ropinirole hydrochloride,0,1
+Lacidipine,0,1
+Argatroban,0,1
+Reboxetine mesylate,0,1
+Camylofine chlorhydrate,0,1
+Papaverine hydrochloride,0,1
+Yohimbine hydrochloride,0,1
+Voriconazole,0,1
+Alfacalcidol,0,1
+Cilostazol,0,1
+Galanthamine hydrobromide,0,1
+Azelastine hydrochloride,0,1
+Etretinate,0,1
+Emedastine difumarate,0,1
+Etofenamate,0,1
+Zaleplon,0,1
+Diclofenac sodium,0,1
+Fomepizole,0,1
+Temozolomide,0,1
+Xylazine,0,1
+Celiprolol hydrochloride,0,1
+Zopiclone,0,1
+Tranilast,0,1
+Tizanidine hydrochloride,0,1
+Zafirlukast,0,1
+Butenafine hydrochloride,0,1
+Carbadox,0,1
+Rimantadine hydrochloride,0,1
+Tirofiban hydrochloride,0,1
+Oxibendazol,0,1
+Ipsapirone,0,1
+Loracarbef,0,1
+Fenipentol,0,1
+Diosmin,0,1
+Carbidopa,0,1
+(-) Emtricitabine,0,1
+Demecarium bromide,0,1
+Tolvaptan,0,1
+Acipimox,0,1
+Diflorasone Diacetate,0,1
+Acamprosate calcium,0,1
+Mizolastine,0,1
+Amisulpride,0,1
+Pyridoxine hydrochloride,0,1
+Mercaptopurine,0,1
+Cytarabine,0,1
+Racecadotril,0,1
+Folic acid,0,1
+Benazepril hydrochloride,0,1
+Aniracetam,0,1
+Dimethisoquin hydrochloride,0,1
+Alendronate sodium,0,1
+Thiorphan,0,1
+Tomoxetine hydrochloride,0,1
+Aceclidine hydrochloride,0,1
+Levetiracetam,0,1
+Dexfenfluramine hydrochloride,0,1
+Etoricoxib,0,1
+Sertindole,0,1
+Sulmazole,0,1
+Gefitinib,0,1
+Flunisolide,0,1
+N-Acetyl-DL-homocysteine Thiolactone,0,1
+Flurandrenolide,0,1
+Oxiconazole nitrate,0,1
+Rebamipide,0,1
+Nilvadipine,0,1
+Etanidazole,0,1
+Pinaverium bromide,0,1
+Glimepiride,0,1
+Picrotoxinin,0,1
+Mepenzolate bromide,0,1
+Benfotiamine,0,1
+Halcinonide,0,1
+Benzamil hydrochloride,0,1
+Suxibuzone,0,1
+6-Furfurylaminopurine,0,1
+Avermectin B1,0,1
+Pranlukast,0,1
+"D,L-Penicillamine",0,1
+Zileuton,0,1
+Loratadine,0,1
+Tetraethylenepentamine pentahydrochloride,0,1
+Nisoldipine,0,1
+Acefylline,0,1
+Acitretin,0,1
+Zonisamide,0,1
+Irsogladine maleate,0,1
+Dydrogesterone,0,1
+Sumatriptan succinate,0,1
+Nalidixic acid sodium salt,0,1
+Oxacillin sodium,0,1
+Beta-Escin,0,1
+Thiamine hydrochloride,0,1
+Tazobactam,0,1
+Ibandronate sodium,0,1
+Warfarin,0,1
+Pranoprofen,0,1
+Secnidazole,0,1
+Tadalafil,0,1
+Mirabegron,0,1
+Ibutilide fumarate,0,1
+Tigecycline,0,1
+Tramadol hydrochloride,0,1
+Estropipate piperazine salt,0,1
+N-Butylscopolammonium bromide,0,1
+Irinotecan hydrochloride trihydrate,0,1
+Tylosin,0,1
+Citalopram hydrobromide,0,1
+Sulfamerazine,0,1
+Venlafaxine,0,1
+Ethotoin,0,1
+Dasabuvir,0,1
+Tetrahydrozoline hydrochloride,0,1
+Hexestrol,0,1
+Cefmetazole sodium salt,0,1
+"Trihexyphenidyl-D,L hydrochloride",0,1
+Succinylsulfathiazole,0,1
+Famprofazone,0,1
+Bromopride,0,1
+Methyl benzethonium chloride,0,1
+Chlorcyclizine hydrochloride,0,1
+Diphenylpyraline hydrochloride,0,1
+Benzethonium chloride,0,1
+Trioxsalen,0,1
+Doxofylline,0,1
+Sulfabenzamide,0,1
+Benzocaine,0,1
+Dipyrone sodium salt,0,1
+Isosorbide dinitrate,0,1
+Sulfachloropyridazine,0,1
+Pramoxine hydrochloride,0,1
+Finasteride,0,1
+Fluorometholone,0,1
+Cephalothin sodium salt,0,1
+Cefuroxime sodium salt,0,1
+Althiazide,0,1
+Isopyrin hydrochloride,0,1
+Phenethicillin potassium salt,0,1
+Sulfamethoxypyridazine,0,1
+Deferoxamine mesylate,0,1
+Mephentermine hemisulfate,0,1
+Liranaftate,0,1
+Sulfadimethoxine,0,1
+Sulfanilamide,0,1
+Balsalazide disodium salt,0,1
+Sulfaquinoxaline sodium salt,0,1
+Streptozotocin,0,1
+Metoprolol-(+)-tartrate salt,0,1
+Flumethasone,0,1
+Flecainide acetate,0,1
+Cefazolin sodium salt,0,1
+Trimetozine,0,1
+Folinic acid calcium salt,0,1
+Levonordefrin,0,1
+Bimatoprost,0,1
+Sulfamethizole,0,1
+Medrysone,0,1
+Flunixin meglumine,0,1
+Spiramycin,0,1
+Glycopyrrolate bromide,0,1
+Aprepitant,0,1
+Monensin sodium salt,0,1
+Isoetharine mesylate salt,0,1
+Dronedarone hydrochloride,0,1
+Terazosin hydrochloride,0,1
+Demeclocycline hydrochloride,0,1
+Fenoprofen calcium salt dihydrate,0,1
+Piperacillin sodium salt,0,1
+Diethylstilbestrol,0,1
+Chlorotrianisene,0,1
+Ribostamycin sulfate salt,0,1
+Methacholine chloride,0,1
+Pipenzolate bromide,0,1
+Butamben,0,1
+Sulfapyridine,0,1
+Meclofenoxate hydrochloride,0,1
+Furaltadone hydrochloride,0,1
+Ethoxyquin,0,1
+Tinidazole,0,1
+Guanadrel sulfate,0,1
+Vidarabine,0,1
+Sulfameter,0,1
+Isopropamide iodide,0,1
+Alclometasone dipropionate,0,1
+Leflunomide,0,1
+(D-) Norgestrel,0,1
+Fluocinonide,0,1
+Sulfamethazine sodium salt,0,1
+Guaifenesin,0,1
+Alexidine dihydrochloride,0,1
+Alogliptin benzoate,0,1
+Zomepirac sodium salt,0,1
+Cinoxacin,0,1
+Clobetasol propionate,0,1
+Podophyllotoxin,0,1
+Clofibric acid,0,1
+Bendroflumethiazide,0,1
+Dicumarol,0,1
+Methimazole,0,1
+Hexylcaine hydrochloride,0,1
+Drofenine hydrochloride,0,1
+Cycloheximide,0,1
+(R) Naproxen sodium salt,0,1
+Propidium iodide,0,1
+Cloperastine hydrochloride,0,1
+Eprosartan mesylate,0,1
+Isocarboxazid,0,1
+Lithocholic acid,0,1
+Methotrimeprazine maleate salt,0,1
+Dienestrol,0,1
+Pridinol methanesulfonate salt,0,1
+Amrinone,0,1
+Carbinoxamine maleate salt,0,1
+Methazolamide,0,1
+Pyrithyldione,0,1
+Spectinomycin dihydrochloride,0,1
+Piromidic acid,0,1
+Trimipramine maleate salt,0,1
+Chloropyramine hydrochloride,0,1
+Furazolidone,0,1
+Dichlorphenamide,0,1
+Sulconazole nitrate,0,1
+Cromolyn disodium salt,0,1
+Bucladesine sodium salt,0,1
+Cefsulodin sodium salt,0,1
+Fosfosal,0,1
+Suprofen,0,1
+Deflazacort,0,1
+Nadolol,0,1
+Moxalactam disodium salt,0,1
+Aminophylline,0,1
+Azlocillin sodium salt,0,1
+Clidinium bromide,0,1
+Sulfamonomethoxine,0,1
+Benzthiazide,0,1
+Trichlormethiazide,0,1
+Oxolamine citrate salt,0,1
+Propantheline bromide,0,1
+Viloxazine hydrochloride,0,1
+Dimethadione,0,1
+Ethaverine hydrochloride,0,1
+Butacaine,0,1
+Cefoxitin sodium salt,0,1
+Eszopiclone,0,1
+Novobiocin sodium salt,0,1
+Zolmitriptan,0,1
+Indoprofen,0,1
+Carbenoxolone disodium salt,0,1
+Iocetamic acid,0,1
+Ganciclovir,0,1
+Ethopropazine hydrochloride,0,1
+Trimeprazine tartrate,0,1
+Nafcillin sodium salt monohydrate,0,1
+Procyclidine hydrochloride,0,1
+Amiprilose hydrochloride,0,1
+Ethynylestradiol 3-methyl ether,0,1
+(-) Levobunolol hydrochloride,0,1
+Iodixanol,0,1
+Clinafloxacin,0,1
+Paroxetine hydrochloride,0,1
+Liothyronine,0,1
+Roxithromycin,0,1
+Beclomethasone dipropionate,0,1
+Tolmetin sodium salt dihydrate,0,1
+(+) Levobunolol hydrochloride,0,1
+Doxazosin mesylate,0,1
+Fluvastatin sodium salt,0,1
+Octoclothepin maleate salt,0,1
+Gabapentin,0,1
+Raloxifene hydrochloride,0,1
+Aclidinium bromide,0,1
+Simvastatin,0,1
+Azacytidine-5,0,1
+Paromomycin sulfate,0,1
+Acetaminophen,0,1
+Phthalylsulfathiazole,0,1
+Luteolin,0,1
+Iopamidol,0,1
+Iopromide,0,1
+Theophylline monohydrate,0,1
+Theobromine,0,1
+Reserpine,0,1
+Bicalutamide,0,1
+Scopolamine hydrochloride,0,1
+Ioversol,0,1
+Rabeprazole sodium salt,0,1
+Carbachol chloride,0,1
+Niacin,0,1
+Bemegride,0,1
+Digoxigenin,0,1
+Meglumine,0,1
+Dolasetron mesilate,0,1
+Clioquinol,0,1
+Oxybenzone,0,1
+Diacerein,0,1
+Esmolol hydrochloride,0,1
+Cortisol acetate,0,1
+Flubendazol,0,1
+Felbinac,0,1
+Butylparaben,0,1
+Aminohippuric acid,0,1
+N-Acetyl-L-leucine,0,1
+Pipemidic acid,0,1
+Dioxybenzone,0,1
+Adrenosterone,0,1
+Methylatropine nitrate,0,1
+Hymecromone,0,1
+Abacavir sulfate,0,1
+Diloxanide furoate,0,1
+Metyrapone,0,1
+Urapidil hydrochloride,0,1
+"(S,+) Ibuprofen",0,1
+Ethynodiol diacetate,0,1
+Nisoxetine hydrochloride,0,1
+(+) Isoproterenol-(+)-bitartrate salt,0,1
+Monobenzone,0,1
+2-Aminobenzenesulfonamide,0,1
+Estrone,0,1
+Lorglumide sodium salt,0,1
+Nitrendipine,0,1
+Flurbiprofen,0,1
+Nimodipine,0,1
+Bacitracin,0,1
+Gemifloxacin mesylate,0,1
+Nizatidine,0,1
+Thioperamide maleate,0,1
+Xamoterol hemifumarate,0,1
+Posaconazole hydrate,0,1
+Thonzonium bromide,0,1
+Quinapril hydrochloride,0,1
+Nilutamide,0,1
+Ketorolac tromethamine,0,1
+Protriptyline hydrochloride,0,1
+Propofol,0,1
+"(S,-) Eticlopride hydrochloride",0,1
+Primidone,0,1
+Flucytosine,0,1
+Paliperidone,0,1
+Bephenium hydroxynaphthoate,0,1
+Dehydroisoandosterone 3-acetate,0,1
+Benserazide hydrochloride,0,1
+Iodipamide,0,1
+Allopurinol,0,1
+Pentetic acid,0,1
+Bretylium tosylate,0,1
+Pralidoxime chloride,0,1
+Phenoxybenzamine hydrochloride,0,1
+Salmeterol,0,1
+Altretamine,0,1
+Prazosin hydrochloride,0,1
+Timolol maleate salt,0,1
+Octopamine hydrochloride,0,1
+Stavudine,0,1
+Crotamiton,0,1
+"(R,+) Atenolol",0,1
+Tyloxapol,0,1
+Florfenicol,0,1
+Megestrol acetate,0,1
+Deoxycorticosterone,0,1
+Urosiol,0,1
+Proparacaine hydrochloride,0,1
+Aminocaproic acid,0,1
+Denatonium benzoate,0,1
+Canrenone,0,1
+Enilconazole,0,1
+Methacycline hydrochloride,0,1
+Floxuridine,0,1
+Sotalol hydrochloride,0,1
+Gestrinone,0,1
+Decamethonium bromide,0,1
+Darifenacin hydrobromide,0,1
+Indatraline hydrochloride,0,1
+Remoxipride hydrochloride,0,1
+Rosuvastatin,0,1
+Pirlindole mesylate,0,1
+Pronethalol hydrochloride,0,1
+Naftopidil dihydrochloride,0,1
+Tracazolate hydrochloride,0,1
+Zardaverine,0,1
+Memantine hydrochloride,0,1
+Ozagrel hydrochloride,0,1
+Piribedil,0,1
+Nitrocaramiphen hydrochloride,0,1
+Nandrolone,0,1
+Oxfendazole,0,1
+Guaiacol,0,1
+Capecitabine,0,1
+Pramipexole dihydrochloride,0,1
+Norgestimate,0,1
+Chlormadinone acetate,0,1
+Phenylbutazone,0,1
+Gliquidone,0,1
+Pizotifen malate,0,1
+Cyclopenthiazide,0,1
+Fluvoxamine maleate,0,1
+Fluticasone propionate,0,1
+Zuclopenthixol dihydrochloride,0,1
+Proguanil hydrochloride,0,1
+Lymecycline,0,1
+Alfaxalone,0,1
+Azapropazone,0,1
+Apramycin,0,1
+Gabexate mesilate,0,1
+Pivampicillin,0,1
+Lodoxamide,0,1
+Flucloxacillin sodium,0,1
+Trapidil,0,1
+Deptropine citrate,0,1
+Sertraline,0,1
+Ethamsylate diethylammonium salt,0,1
+Moxonidine,0,1
+Etilefrine hydrochloride,0,1
+Tribenoside,0,1
+Rimexolone,0,1
+Isradipine,0,1
+Nifekalant,0,1
+Isometheptene mucate,0,1
+Nifurtimox,0,1
+Letrozole,0,1
+Tocainide hydrochloride,0,1
+Risperidone,0,1
+Torsemide,0,1
+Halofantrine hydrochloride,0,1
+Articaine hydrochloride,0,1
+Nomegestrol acetate,0,1
+Pancuronium bromide,0,1
+Molindone hydrochloride,0,1
+Alcuronium chloride,0,1
+Zalcitabine,0,1
+Methyldopate hydrochloride,0,1
+Levocabastine hydrochloride,0,1
+Pyrvinium pamoate,0,1
+Etomidate,0,1
+Tridihexethyl chloride,0,1
+Penbutolol sulfate,0,1
+Sertaconazole nitrate,0,1
+Repaglinide,0,1
+Piretanide,0,1
+Piperacetazine,0,1
+Oxyphenbutazone,0,1
+Quinethazone,0,1
+Moricizine hydrochloride,0,1
+Iopanoic acid,0,1
+Pivmecillinam hydrochloride,0,1
+Levopropoxyphene napsylate,0,1
+Piperidolate hydrochloride,0,1
+Trifluridine,0,1
+Propoxycaine hydrochloride,0,1
+Oxaprozin,0,1
+Phensuximide,0,1
+Ioxaglic acid,0,1
+Naftifine hydrochloride,0,1
+Milrinone,0,1
+Methantheline bromide,0,1
+Ticarcillin sodium,0,1
+Mesalamine,0,1
+Vorinostat,0,1
+Imidurea,0,1
+Lansoprazole,0,1
+Bethanechol chloride,0,1
+Cyproterone acetate,0,1
+(R) Propranolol hydrochloride,0,1
+Ciprofibrate,0,1
+Benzylpenicillin sodium,0,1
+Methicillin sodium,0,1
+Methiazole,0,1
+(-) Eseroline fumarate salt,0,1
+Isosorbide mononitrate,0,1
+Topiramate,0,1
+Nelarabine,0,1
+Synephrine,0,1
+Homosalate,0,1
+Spaglumic acid,0,1
+Estriol,0,1
+Sarafloxacin,0,1
+Nialamide,0,1
+Toltrazuril,0,1
+Perindopril,0,1
+Fexofenadine hydrochloride,0,1
+4-aminosalicylic acid,0,1
+Clonixin lysinate,0,1
+Verteporfin,0,1
+Meropenem,0,1
+Ramipril,0,1
+Mephenytoin,0,1
+Rifabutin,0,1
+Parbendazole,0,1
+Mecamylamine hydrochloride,0,1
+Procarbazine hydrochloride,0,1
+Viomycin sulfate,0,1
+Ronidazole,0,1
+Dorzolamide hydrochloride,0,1
+Azaperone,0,1
+Cefepime hydrochloride,0,1
+Clocortolone pivalate,0,1
+Nadifloxacin,0,1
+Anastrozole,0,1
+Doxycycline hydrochloride,0,1
+Sulbactam,0,1
+Fleroxacin,0,1
+Clavulanate potassium salt,0,1
+Valproic acid,0,1
+Mepivacaine hydrochloride,0,1
+Rifaximin,0,1
+Estradiol Valerate,0,1
+Acetylcysteine,0,1
+Melengestrol acetate,0,1
+Bromhexine hydrochloride,0,1
+Amcinonide,0,1
+Caffeine,0,1
+Carvedilol,0,1
+Methenamine,0,1
+Diclazuril,0,1
+Famciclovir,0,1
+Cefdinir,0,1
+Carprofen,0,1
+Celecoxib,0,1
+Fludarabine,0,1
+Cladribine,0,1
+Vardenafil,0,1
+Fluconazole,0,1
+5-fluorouracil,0,1
+2-Mercaptoethanesulfonic acid sodium salt,0,1
+Mitotane,0,1
+Triclosan,0,1
+Olopatadine hydrochloride,0,1
+Granisetron,0,1
+Lamotrigine,0,1
+Clofibrate,0,1
+Dexrazoxane hydrochloride,0,1
+Aripiprazole,0,1
+Ethinylestradiol,0,1
+Fluocinolone acetonide,0,1
+Desloratadine,0,1
+Clarithromycin,0,1
+Tulobuterol hydrochloride,0,1
+Topotecan,0,1
+Atorvastatin,0,1
+Losartan,0,1
+Benztropine mesylate,0,1
+Vecuronium bromide,0,1
+Telmisartan,0,1
+Bifonazole,0,1
+Gatifloxacin,0,1
+Bosentan,0,1
+Gemcitabine,0,1
+Racepinephrine hydrochloride,0,1
+Montelukast,0,1
+Docetaxel,0,1
+Cilnidipine,0,1
+Imiquimod,0,1
+Moxifloxacin,0,1
+Rufloxacin,0,1
+Pravastatin,0,1
+Rosiglitazone hydrochloride,0,1
+Rivastigmine,0,1
+Sildenafil,0,1
+Acetylsalicylic acid,0,1
+Silodosin,0,1
+Trimebutine,0,1
+Nevirapine,0,1
+Doxapram hydrochloride,0,1
+Amlexanox,0,1
+Amorolfine hydrochloride,0,1
+Enrofloxacin,0,1
+Ubenimex,0,1
+Troxipide,0,1
+Ipriflavone,0,1
+Ezetimibe,0,1
+Rizatriptan benzoate,0,1
+Tegaserod maleate,0,1
+Pantoprazole sodium,0,1
+Tegafur,0,1
+Tolcapone,0,1
+Altrenogest,0,1
+Felbamate,0,1
+Estramustine,0,1
+(R)-Duloxetine hydrochloride,0,1
+"1,8-Dihydroxyanthraquinone",0,1
+Nateglinide,0,1
+Avobenzone,0,1
+Algestone acetophenide,0,1
+Actarit,0,1
+Azatadine maleate,0,1
+Aminacrine,0,1
+Pidotimod,0,1
+Benidipine hydrochloride,0,1
+Perospirone hydrochloride,0,1
+Cefpiramide,0,1
+Adapalene,0,1
+Diatrizoic acid dihydrate,0,1
+Dofetilide,0,1
+Phenprobamate,0,1
+Cefuroxime axetil,0,1
+Anagrelide,0,1
+Clopidogrel,0,1
+Benzoxiquine,0,1
+Phenothiazine,0,1
+Enalaprilat dihydrate,0,1
+Pregabalin,0,1
+Cefpodoxime proxetil,0,1
+Irbesartan,0,1
+Terbinafine,0,1
+Histamine dihydrochloride,0,1
+Rasagiline,0,1
+Flumethasone pivalate,0,1
+Lofepramine,0,1
+Valdecoxib,0,1
+Besifloxacin hydrochloride,0,1
+Epirubicin hydrochloride,0,1
+Loteprednol etabonate,0,1
+Lomerizine hydrochloride,0,1
+Ampiroxicam,0,1
+Alosetron hydrochloride,0,1
+Risedronic acid monohydrate,0,1
+Palonosetron hydrochloride,0,1
+Latanoprost,0,1
+Pemetrexed disodium,0,1
+Raltitrexed,0,1
+Ceftibuten,0,1
+Valsartan,0,1
+Milnacipran hydrochloride,0,1
+Triclabendazole,0,1
+Brimonidine L-tartrate,0,1
+Cefprozil,0,1
+Allopurinol,0,1
+Lisuride (S)(-),0,1
+Ampicillin sodium salt,0,1
+Flupentixol dihydrochloride cis-(Z),0,1
+Cephalexin monohydrate,0,1
+Cholecalciferol,0,1
+Methylene blue,0,1
+Gramicidin,0,1
+Levocarnitine,0,1
+DO 897/99,0,1
+Carbenicillin disodium salt,0,1
+Rolipram,0,1
+Tiletamine hydrochloride,0,1
+Netilmicin sulfate,0,1
+Loracarbef,0,1
+Cyclacillin,0,1
+Thimerosal,0,1
+Clindamycin Phosphate,0,1
+Lapatinib,0,1
+Clodronate disodium,0,1
+Mevastatin,0,1
+Entecavir,0,1
+Cyclophosphamide,0,1
+Quinine ethyl carbonate,0,1
+Edaravone,0,1
+Timonacic,0,1
+Tioxolone,0,1
+Metacetamol,0,1
+Efaroxan hydrochloride,0,1
+Cyromazine,0,1
+Bucetin,0,1
+Oxeladin citrate,0,1
+Dichlorisone acetate,0,1
+D-phenylalanine,0,1
+Flopropione,0,1
+Chromocarb,0,1
+Betamipron,0,1
+Exalamide,0,1
+Anisindione,0,1
+Ancitabine hydrochloride,0,1
+Acetaminosalol,0,1
+Broxyquinoline,0,1
+Ethacridine lactate,0,1
+Clofoctol,0,1
+Pantethine,0,1
+Cepharanthine,0,1
+Cyclandelate,0,1
+Prasterone,0,1
+Beclamide,0,1
+Deferiprone,0,1
+Orotic acid,0,1
+Isaxonine,0,1
+Proflavine hemisulfate,0,1
+Climbazole,0,1
+Moguisteine,0,1
+Nefiracetam,0,1
+Erdosteine,0,1
+loxoprofen,0,1
+Acedoben,0,1
+Dimetridazole,0,1
+Nikethamide,0,1
+Paroxypropione,0,1
+Nitroxoline,0,1
+Mexenone,0,1
+Sulfacarbamide,0,1
+Ethenzamide,0,1
+Piperonyl butoxide,0,1
+Eprobemide,0,1
+Tioguanine,0,1
+Trehalose dihydrate,0,1
+Amezinium metilsulfate,0,1
+Allylestrenol,0,1
+Carazolol,0,1
+Benactyzine hydrochloride,0,1
+Brivudine,0,1
+Sulfisomidine,0,1
+Epalrestat,0,1
+Cefcapene pivoxil hydrochloride,0,1
+Ceftezole,0,1
+Carbazochrome,0,1
+Ivabradine hydrochloride,0,1
+Oxiracetam,0,1
+Zaltoprofen,0,1
+Cianidanol,0,1
+Sulbenicillin sodium salt,0,1
+Carbazochrome sodium sulfonate,0,1
+Lobenzarit disodium,0,1
+Dalfampridine,0,1
+L-tryptophan,0,1
+Fenclozic acid,0,1
+Exifone,0,1
+Phenolphthalein,0,1
+Quatacaine,0,1
+Prosultiamine,0,1
+Tiaramide Hydrochloride,0,1
+Bendazac,0,1
+Bithionol,0,1
+(R)-Tamsulosin hydrochloride,0,1
+Fasudil Hydrochloride,0,1
+Acetyl-L-glutamine,0,1
+Tulobuterol Hydrochloride,0,1
+Delapril Hydrochloride,0,1
+Suplatast Tosylate,0,1
+Manidipine Dihydrochloride,0,1
+Ecabet sodium,0,1
+Prifinium Bromide,0,1
+Trandolapril,0,1
+Benziodarone,0,1
+Azaribine,0,1
+Mebanazine,0,1
+Acetanilide,0,1
+Fudosteine,0,1
+Mosapride,0,1
+Inosine,0,1
+Dichlorophen,0,1
+Glutathione,0,1
+Valethamate bromide,0,1
+Pirfenidone,0,1
+Chlorquinaldol,0,1
+Cypermethrin,0,1
+Phenothrin,0,1
+Chloramine-T hydrate,0,1
+Tolonium chloride,0,1
+Clopidol,0,1
+Phthalylsulfacetamide,0,1
+Cresopirine,0,1
+Rufinamide,0,1
+Tinoridine hydrochloride,0,1
+Chlormidazole,0,1
+Indometacin farnesil,0,1
+Bosutinib,0,1
+Tiagabine hydrochloride,0,1
+Mizoribine,0,1
+Imidapril hydrochloride,0,1
+Cefsulodin Sodium Salt Hydrate,0,1
+Malotilate,0,1
+Artesunate,0,1
+Gestodene,0,1
+Stiripentol,0,1
+Safinamide,0,1
+Cephradine monohydrate,0,1
+Doripenem monohydrate,0,1
+Fipronil,0,1
+Cefpirome,0,1
+Ufenamate,0,1
+Benzarone,0,1
+Bergenin,0,1
+Nepafenac,0,1
+Voglibose,0,1
+Arotinolol hydrochloride,0,1
+Clevidipine,0,1
+Befunolol,0,1
+Pirprofen,0,1
+Tripamide,0,1
+Zanamivir,0,1
+Alclofenac,0,1
+Angiotensin II (Human) Trifluoroacetic acid salt,0,1
+Anisotropine Methylbromide,0,1
+Barnidipine Hydrochloride,0,1
+Benzylhydrochlorothiazide,0,1
+Bunazosin hydrochloride,0,1
+Cycotiamine,0,1
+Fenclofenac,0,1
+Flurbiprofen axetil,0,1
+Ibuprofen Piconol,0,1
+Pilsicainide Hydrochloride,0,1
+Tacrolimus Monohydrate,0,1
+Tandospirone,0,1
+Kanamycin B,0,1
+Mitomycin C,0,1
+Ticagrelor,0,1
+Feprazone,0,1
+Lanoconazole,0,1
+Lumiracoxib,0,1
+Prasugrel,0,1
+Ramosetron hydrochloride,0,1
+Seratrodast,0,1
+Sofalcone,0,1
+Sarpogrelate hydrochloride,0,1
+Sapropterin dihydrochloride,0,1
+Mibefradil,0,1
+Midecamycin,0,1
+Thyrotropin-Releasing Hormone,0,1
+Temocapril,0,1
+Flosequinan,0,1
+Etravirine,0,1
+Empagliflozin,0,1
+Crisaborole,0,1
+Avanafil,0,1
+Enocitabine,0,1
+Repirinast,0,1
+Ebrotidine,0,1
+Nedocromil sodium,0,1
+Frovatriptan succinate,0,1
+Azasetron hydrochloride,0,1
+Buformin,0,1
+Propanidid,0,1
+Lomitapide,0,1
+Rimonabant,0,1
+Flupirtine,0,1
+Cinacalcet hydrochloride,0,1
+Ibufenac,0,1
+Mofezolac,0,1
+Hopantenate calcium,0,1
+Pyricarbate,0,1
+Phenoxypropazine dihydrochloride,0,1
+Valganciclovir hydrochloride,0,1
+Sobuzoxane,0,1
+Cefozopran hydrochloride,0,1
+Vandetanib,0,1
+Bromfenac,0,1
+Talampicillin hydrochloride,0,1
+Cinepazide maleate,0,1
+Procaterol hydrochloride,0,1
+Chicago sky blue 6B,0,1
+Etiroxate hydrochloride,0,1
+Hippuric acid,0,1
+Riboflavine,0,1
